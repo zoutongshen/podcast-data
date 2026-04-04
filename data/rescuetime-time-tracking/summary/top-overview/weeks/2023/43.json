@@ -1,0 +1,63 @@
+{
+  "2023-10-22": {
+    "Utilities": 2928,
+    "Software Development": 661,
+    "Communication & Scheduling": 486,
+    "Other Work": 164,
+    "Business": 11,
+    "Uncategorized": 4
+  },
+  "2023-10-23": {
+    "Utilities": 9993,
+    "Software Development": 8083,
+    "Communication & Scheduling": 4482,
+    "Other Work": 1055,
+    "Uncategorized": 708,
+    "Business": 67,
+    "Entertainment": 17
+  },
+  "2023-10-24": {
+    "Utilities": 4969,
+    "Communication & Scheduling": 4328,
+    "Software Development": 3035,
+    "Other Work": 915,
+    "Uncategorized": 40,
+    "Reference & Learning": 25,
+    "Business": 3
+  },
+  "2023-10-25": {
+    "Utilities": 7609,
+    "Communication & Scheduling": 5718,
+    "Software Development": 1602,
+    "Other Work": 1601,
+    "Business": 172,
+    "Design & Composition": 26,
+    "Reference & Learning": 13,
+    "Uncategorized": 7
+  },
+  "2023-10-26": {
+    "Utilities": 7571,
+    "Software Development": 6710,
+    "Communication & Scheduling": 1044,
+    "Other Work": 286,
+    "Uncategorized": 39,
+    "Design & Composition": 7,
+    "Business": 1
+  },
+  "2023-10-27": {
+    "Utilities": 8959,
+    "Communication & Scheduling": 2821,
+    "Other Work": 1027,
+    "Software Development": 198,
+    "Uncategorized": 6
+  },
+  "2023-10-28": {
+    "Utilities": 6735,
+    "Software Development": 3449,
+    "Communication & Scheduling": 788,
+    "Other Work": 493,
+    "Business": 162,
+    "Reference & Learning": 57,
+    "Uncategorized": 3
+  }
+}

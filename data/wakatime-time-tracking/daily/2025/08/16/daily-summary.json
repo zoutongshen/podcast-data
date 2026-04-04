@@ -1,0 +1,393 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 81.833,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 50.81
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 73.162,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 45.43
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 6.053,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 3.76
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 2,
+      "total_seconds": 161.048,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 34,
+      "human_deletions": 1
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 161.048,
+        "digital": "0:02:41",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 161.048,
+        "digital": "0:02:41",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 161.048,
+        "digital": "0:02:41",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "tz-lookup",
+        "total_seconds": 63.444,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 16.83
+      },
+      {
+        "name": "country-emoji",
+        "total_seconds": 63.444,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 16.83
+      },
+      {
+        "name": "countries-and-timezones",
+        "total_seconds": 63.444,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 16.83
+      },
+      {
+        "name": "cloudflare-worker-jwt",
+        "total_seconds": 62.022,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 16.45
+      },
+      {
+        "name": "core",
+        "total_seconds": 62.022,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 16.45
+      },
+      {
+        "name": "api",
+        "total_seconds": 16.347,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 4.34
+      },
+      {
+        "name": "generic-section",
+        "total_seconds": 16.347,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 4.34
+      },
+      {
+        "name": "projects-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "open-source-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "press-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "notes-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "events",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "life-events-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "work-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "footer",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "now-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "travel-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "books-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "life-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "blog-section",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "header",
+        "total_seconds": 2.042,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.54
+      },
+      {
+        "name": "promises",
+        "total_seconds": 1.422,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.38
+      }
+    ],
+    "machines": [
+      {
+        "name": "Anands-MBP.home",
+        "total_seconds": 161.048,
+        "machine_name_id": "1ff3795f-c752-4858-9fa4-7090240f0ab3",
+        "digital": "0:02:41",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "location",
+        "total_seconds": 142.659,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 26,
+        "human_deletions": 1,
+        "color": null,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 88.58
+      },
+      {
+        "name": "anandchowdhary.com",
+        "total_seconds": 18.389,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 8,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 11.42
+      }
+    ],
+    "range": {
+      "start": "2025-08-16T22:00:00Z",
+      "end": "2025-08-17T21:59:59Z",
+      "date": "2025-08-17",
+      "text": "Sun Aug 17th 2025",
+      "timezone": "Europe/Amsterdam"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "created_at": "Sat Mar 25 19:35:03 +0000 2023",
+    "id": 1639712517877547000,
+    "id_str": "1639712517877547008",
+    "text": "🌟 Our ChatGPT Retrieval Plugin is #1 trending on GitHub! Improve your ChatGPT experience by accessing relevant info… https://t.co/btIHvrEwdS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/btIHvrEwdS",
+          "expanded_url": "https://twitter.com/i/web/status/1639712517877547008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 397533348,
+      "id_str": "397533348",
+      "name": "Isabella Fulford",
+      "screen_name": "isafulf",
+      "location": "",
+      "description": "Member of Technical Staff @OpenAI",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6183,
+      "friends_count": 151,
+      "listed_count": 162,
+      "created_at": "Mon Oct 24 20:28:35 +0000 2011",
+      "favourites_count": 134,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 27,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1440534288571645960/eln6MCRw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440534288571645960/eln6MCRw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 418,
+    "favorite_count": 3716,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 25 16:52:37 +0000 2023",
+    "id": 1639671641679736800,
+    "id_str": "1639671641679736838",
+    "text": "Five months later https://t.co/OtdxJW2VXR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1639671534121017300,
+          "id_str": "1639671534121017344",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsFIkquaYAA4XtO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsFIkquaYAA4XtO.jpg",
+          "url": "https://t.co/OtdxJW2VXR",
+          "display_url": "pic.twitter.com/OtdxJW2VXR",
+          "expanded_url": "https://twitter.com/natfriedman/status/1639671641679736838/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1208,
+              "h": 1914,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 429,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 757,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1639671534121017300,
+          "id_str": "1639671534121017344",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsFIkquaYAA4XtO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsFIkquaYAA4XtO.jpg",
+          "url": "https://t.co/OtdxJW2VXR",
+          "display_url": "pic.twitter.com/OtdxJW2VXR",
+          "expanded_url": "https://twitter.com/natfriedman/status/1639671641679736838/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1208,
+              "h": 1914,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 429,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 757,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 13235832,
+      "id_str": "13235832",
+      "name": "Nat Friedman",
+      "screen_name": "natfriedman",
+      "location": "California",
+      "description": "scrollmaxxing",
+      "url": "https://t.co/Lhh178sIjq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Lhh178sIjq",
+              "expanded_url": "http://nat.org",
+              "display_url": "nat.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 127970,
+      "friends_count": 122,
+      "listed_count": 1848,
+      "created_at": "Fri Feb 08 05:20:41 +0000 2008",
+      "favourites_count": 27375,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3672,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13235832/1642647920",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 277,
+    "favorite_count": 3397,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

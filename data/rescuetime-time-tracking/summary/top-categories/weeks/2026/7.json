@@ -1,0 +1,89 @@
+{
+  "2026-02-8": {
+    "Browsers": 3840,
+    "Editing & IDEs": 2499,
+    "General Communication & Scheduling": 134,
+    "Internet Utilities": 92,
+    "Calendars": 86,
+    "Email": 78,
+    "General Utilities": 66,
+    "Systems Operations": 41,
+    "Instant Message": 24,
+    "Uncategorized": 11
+  },
+  "2026-02-9": {
+    "Editing & IDEs": 7414,
+    "Browsers": 1795,
+    "General Utilities": 315,
+    "Uncategorized": 301,
+    "Email": 125,
+    "Instant Message": 56,
+    "Internet Utilities": 48,
+    "General Communication & Scheduling": 26,
+    "Systems Operations": 19
+  },
+  "2026-02-10": {
+    "Browsers": 1502,
+    "General Communication & Scheduling": 670,
+    "Instant Message": 388,
+    "Editing & IDEs": 37,
+    "Calendars": 31,
+    "General Utilities": 8
+  },
+  "2026-02-11": {
+    "Browsers": 16404,
+    "Editing & IDEs": 8249,
+    "Instant Message": 1407,
+    "Email": 877,
+    "General Communication & Scheduling": 854,
+    "Writing": 389,
+    "Calendars": 301,
+    "General Utilities": 225,
+    "Uncategorized": 98,
+    "Photos": 17,
+    "Maps & Regional": 13,
+    "General Shopping": 8
+  },
+  "2026-02-12": {
+    "Browsers": 12371,
+    "Editing & IDEs": 8940,
+    "General Communication & Scheduling": 730,
+    "Email": 374,
+    "General Utilities": 188,
+    "Calendars": 142,
+    "Writing": 114,
+    "Instant Message": 34,
+    "General Reference & Learning": 15,
+    "Internet Utilities": 14,
+    "General Shopping": 7,
+    "Uncategorized": 6,
+    "Intelligence": 3,
+    "Customer Relations": 1
+  },
+  "2026-02-13": {
+    "Browsers": 12677,
+    "Editing & IDEs": 2298,
+    "General Communication & Scheduling": 1186,
+    "Email": 360,
+    "Writing": 203,
+    "General Utilities": 195,
+    "Systems Operations": 105,
+    "Calendars": 91,
+    "Instant Message": 67,
+    "General Reference & Learning": 49,
+    "Customer Relations": 22,
+    "Internet Utilities": 16
+  },
+  "2026-02-14": {
+    "Browsers": 4312,
+    "Editing & IDEs": 2165,
+    "Instant Message": 698,
+    "General Communication & Scheduling": 434,
+    "Systems Operations": 210,
+    "Email": 166,
+    "General Utilities": 132,
+    "Calendars": 78,
+    "Internet Utilities": 45,
+    "Uncategorized": 11
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "2024-01-28": {
+    "Browsers": 560,
+    "Uncategorized": 297,
+    "General Utilities": 43
+  },
+  "2024-01-29": {
+    "Browsers": 1221,
+    "Communications": 718,
+    "Meetings": 461,
+    "Editing & IDEs": 54,
+    "Instant Message": 44,
+    "Internet Utilities": 26,
+    "Uncategorized": 20,
+    "General Utilities": 2
+  },
+  "2024-01-30": {
+    "Browsers": 4541,
+    "Editing & IDEs": 1934,
+    "Communications": 1762,
+    "Meetings": 1704,
+    "Uncategorized": 183,
+    "Instant Message": 45,
+    "General Utilities": 13
+  },
+  "2024-01-31": {
+    "Editing & IDEs": 5969,
+    "Browsers": 4358,
+    "Meetings": 2828,
+    "Communications": 1384,
+    "Uncategorized": 662,
+    "General Utilities": 461,
+    "General Shopping": 46,
+    "General Business": 34,
+    "Calendars": 9
+  },
+  "2024-02-1": {
+    "Editing & IDEs": 6439,
+    "Browsers": 5863,
+    "Communications": 656,
+    "Instant Message": 442,
+    "General Entertainment": 408,
+    "Meetings": 107,
+    "Uncategorized": 64,
+    "General Shopping": 49,
+    "Customer Relations": 18,
+    "General Utilities": 12,
+    "General Reference & Learning": 3,
+    "Voice Chat": 1
+  },
+  "2024-02-2": {
+    "Editing & IDEs": 12329,
+    "Browsers": 12122,
+    "Meetings": 1511,
+    "Communications": 1101,
+    "Instant Message": 229,
+    "General Utilities": 110,
+    "Uncategorized": 53,
+    "General Reference & Learning": 39,
+    "General Entertainment": 27,
+    "Voice Chat": 24
+  },
+  "2024-02-3": {
+    "Browsers": 6752,
+    "Editing & IDEs": 2896,
+    "Uncategorized": 670,
+    "Communications": 332,
+    "General Utilities": 267,
+    "General Reference & Learning": 201,
+    "Meetings": 148,
+    "Internet Utilities": 24,
+    "Customer Relations": 5,
+    "Voice Chat": 3
+  }
+}

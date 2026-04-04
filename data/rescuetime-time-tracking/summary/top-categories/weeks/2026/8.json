@@ -1,0 +1,85 @@
+{
+  "2026-02-15": {
+    "Browsers": 364,
+    "Editing & IDEs": 9,
+    "Email": 3,
+    "General Utilities": 1
+  },
+  "2026-02-16": {
+    "Browsers": 9401,
+    "Editing & IDEs": 4520,
+    "Meetings": 944,
+    "General Communication & Scheduling": 863,
+    "Email": 282,
+    "Instant Message": 272,
+    "Writing": 205,
+    "Calendars": 104,
+    "General Utilities": 55,
+    "General Reference & Learning": 46,
+    "Uncategorized": 44,
+    "Internet Utilities": 25
+  },
+  "2026-02-17": {
+    "Browsers": 8767,
+    "Editing & IDEs": 6939,
+    "General Communication & Scheduling": 1900,
+    "Calendars": 450,
+    "Email": 211,
+    "Writing": 170,
+    "Instant Message": 134,
+    "Uncategorized": 99,
+    "General Utilities": 90,
+    "Internet Utilities": 87,
+    "General Reference & Learning": 17,
+    "Meetings": 1
+  },
+  "2026-02-18": {
+    "Browsers": 10427,
+    "General Communication & Scheduling": 2759,
+    "Editing & IDEs": 2559,
+    "Graphic Design": 2336,
+    "Instant Message": 1012,
+    "Email": 573,
+    "Calendars": 454,
+    "General Utilities": 376,
+    "General Design & Composition": 74,
+    "Writing": 65,
+    "Uncategorized": 10,
+    "Intelligence": 10,
+    "Presentation": 8,
+    "Internet Utilities": 5,
+    "General Reference & Learning": 4,
+    "General Software Development": 1,
+    "General Entertainment": 1
+  },
+  "2026-02-19": {
+    "Browsers": 2814,
+    "General Communication & Scheduling": 726,
+    "Instant Message": 619,
+    "Graphic Design": 452,
+    "Email": 191,
+    "Calendars": 48,
+    "General Utilities": 37,
+    "Writing": 22,
+    "Editing & IDEs": 19,
+    "Uncategorized": 8,
+    "General Software Development": 2,
+    "Photos": 2
+  },
+  "2026-02-20": {
+    "Browsers": 136,
+    "Instant Message": 2,
+    "Graphic Design": 2
+  },
+  "2026-02-21": {
+    "Browsers": 1532,
+    "Editing & IDEs": 147,
+    "Instant Message": 137,
+    "Writing": 51,
+    "Email": 19,
+    "General Communication & Scheduling": 15,
+    "Calendars": 9,
+    "Uncategorized": 9,
+    "General Utilities": 1
+  }
+}

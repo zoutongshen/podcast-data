@@ -1,0 +1,3473 @@
+[
+  {
+    "uuid": "035d1210-7383-0139-3458-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Version One with Maurice Cherry",
+    "author": "CodeSandbox BV",
+    "description": "Version One is a new podcast from CodeSandbox that dives into the product development journey of some of the web's most talked-about tools and resources. Follow along with host Maurice Cherry as he uncovers these stories from the creators who built them. You will learn about what worked, what didn't work and hear about the challenges they overcame in creating that all-important first version of their product.",
+    "url": "https://codesandbox.io/podcasts/version-one",
+    "lastEpisodePublished": "2021-06-15T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "c213c07c-d314-4013-a635-11e480a63130",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 7,
+    "dateAdded": "2021-04-14T08:55:17.343Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "",
+    "isPrivate": false,
+    "slug": "version-one-with-maurice-cherry"
+  },
+  {
+    "uuid": "045f3aa0-aa6a-0136-7b93-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Interesting Times with Ross Douthat",
+    "author": "New York Times Opinion",
+    "description": "The first draft of our future. Mapping the new world order through interviews and conversations. Every Thursday, from New York Times Opinion.\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
+    "url": "https://www.nytimes.com/column/matter-of-opinion",
+    "lastEpisodePublished": "2026-04-02T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9edc9465-c64b-42cd-ae41-0be544cb19fc",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 4,
+    "dateAdded": "2020-06-19T14:39:17.932Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The first draft of our future. Mapping the new world order through interviews and conversations. Every Thursday, from New York Times Opinion.<br /><br />Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source&#61;podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
+    "isPrivate": false,
+    "slug": "interesting-times-with-ross-douthat"
+  },
+  {
+    "uuid": "0cc43410-1d2f-012e-0175-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "99% Invisible",
+    "author": "Roman Mars",
+    "description": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
+    "url": "https://www.siriusxm.com",
+    "lastEpisodePublished": "2026-04-03T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "4a0a3c1f-21da-4cd8-b4c0-117abd37e1c1",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 36,
+    "dateAdded": "2022-11-13T02:09:36.988Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Design is everywhere in our lives, perhaps most importantly in the places where we&#39;ve just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
+    "isPrivate": false,
+    "slug": "99-invisible"
+  },
+  {
+    "uuid": "15d3b4d0-cf39-0137-1e1a-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Guy Kawasaki's Remarkable People",
+    "author": "Guy Kawasaki",
+    "description": "Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable. \n\nUsing his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing.\n\nListeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.\n\nLike this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!",
+    "url": "https://art19.com/shows/guy-kawasakis-remarkable-people",
+    "lastEpisodePublished": "2026-04-01T08:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "b513774b-8d91-4cf5-803a-ff8efeb9eaa4",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 6,
+    "dateAdded": "2020-04-14T01:35:09.045Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable. <br /><br />Using his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing.<br /><br />Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.<br /><br />Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!",
+    "isPrivate": false,
+    "slug": "guy-kawasakis-remarkable-people"
+  },
+  {
+    "uuid": "18909320-261f-0138-9fe3-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The World, the Universe and Us",
+    "author": "New Scientist",
+    "description": "From the evolution of intelligent life, to the mysteries of consciousness; from the threat of the climate crisis to the search for dark matter, The world, the universe and us is your essential weekly dose of science and wonder in an uncertain world. Hosted by journalists Dr Rowan Hooper and Dr Penny Sarchet and joined each week by expert scientists in the field, the show draws on New Scientist’s unparalleled depth of reporting to put the stories that matter into context. Feed your curiosity with the podcast that will restore your sense of optimism and nourish your brain.\nFor more visit newscientist.com/podcasts",
+    "url": "https://www.newscientist.com/",
+    "lastEpisodePublished": "2026-04-02T00:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "2c0b3ac2-bb94-4de6-bbb6-910040562a1d",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 3,
+    "dateAdded": "2020-02-21T14:55:23.747Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "From the evolution of intelligent life, to the mysteries of consciousness; from the threat of the climate crisis to the search for dark matter, The world, the universe and us is your essential weekly dose of science and wonder in an uncertain world. Hosted by journalists Dr Rowan Hooper and Dr Penny Sarchet and joined each week by expert scientists in the field, the show draws on New Scientist’s unparalleled depth of reporting to put the stories that matter into context. Feed your curiosity with the podcast that will restore your sense of optimism and nourish your brain.<br />For more visit newscientist.com/podcasts",
+    "isPrivate": false,
+    "slug": "the-world-the-universe-and-us"
+  },
+  {
+    "uuid": "1c179450-6200-0136-4e65-69745d675bc7",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Unbox",
+    "author": "Ratik Sharma",
+    "description": "A podcast about Indians pursuing unconventional careers paths, not letting society box them up in the status-quo.\n\nNote: Episodes can be heard in any order!",
+    "url": "https://unboxpod.co",
+    "lastEpisodePublished": "2019-09-29T12:30:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "acb83d2b-fdda-48fe-8c75-d0073d10e713",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 5,
+    "dateAdded": "2019-03-12T19:29:24Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "A podcast about Indians pursuing unconventional careers paths, not letting society box them up in the status-quo.<br /><br />Note: Episodes can be heard in any order!",
+    "isPrivate": false,
+    "slug": "unbox"
+  },
+  {
+    "uuid": "20592310-4f61-0133-c35e-0d11918ab357",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "TalkScript",
+    "author": "TalkScript",
+    "description": "The JavaScript devs at SitePen talk about web app development with JavaScript, TypeScript, React, WebVR and more!",
+    "url": "https://talkscript.sitepen.com/",
+    "lastEpisodePublished": "2022-12-14T21:33:21Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "03cb326b-b41b-4081-90bc-a335d314ada4",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 10,
+    "dateAdded": "2019-01-20T11:20:09Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "",
+    "isPrivate": false,
+    "slug": "talkscript"
+  },
+  {
+    "uuid": "20a7ca40-9128-0131-8b7f-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The a16z Show",
+    "author": "Andreessen Horowitz",
+    "description": "The a16z Show discusses tech and culture trends, news, and the future – especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. This show is produced by Andreessen Horowitz (aka “a16z”), a Silicon Valley-based venture capital firm. Multiple episodes are released every week; visit a16z.com for more details and to sign up for our newsletters and other content as well!",
+    "url": "https://a16z.simplecast.com",
+    "lastEpisodePublished": "2026-04-03T17:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6547492a-bc1a-4f5e-9600-79c123babb3e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 8,
+    "dateAdded": "2018-11-03T09:35:40Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The a16z Show discusses tech and culture trends, news, and the future – especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. This show is produced by Andreessen Horowitz (aka “a16z”), a Silicon Valley-based venture capital firm. Multiple episodes are released every week; visit a16z.com for more details and to sign up for our newsletters and other content as well!",
+    "isPrivate": false,
+    "slug": "the-a16z-show"
+  },
+  {
+    "uuid": "232007c0-88dd-0138-ee41-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Sourcegraph Podcast",
+    "author": "Beyang and Quinn",
+    "description": "The Sourcegraph Podcast is a new show about developer tools and their creators. It can sometimes feel like a full-time job just staying on top of the latest libraries, frameworks, plugins, extensions, CLI tools, and developer apps. We want to help you do that, by giving you a window into the minds of some of the best and brightest people working at the forefront of developer productivity. You'll hear from dev tool company founders, open-source authors, and developer efficiency leaders inside some of the best engineering organizations. Our guests share war stories, origin stories, worldviews, histories, prognostications, and the tools and technologies they're most excited about today. If you're a programmer who is passionate about leveling up your own productivity or perhaps an aspiring dev tool creator yourself, this podcast is for you.",
+    "url": "https://www.buzzsprout.com/1097978",
+    "lastEpisodePublished": "2023-03-20T20:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8dd62079-b00a-4784-bf0b-d17c8a2b8a7e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 9,
+    "dateAdded": "2020-06-11T20:57:45.754Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The Sourcegraph Podcast is a new show about developer tools and their creators. It can sometimes feel like a full-time job just staying on top of the latest libraries, frameworks, plugins, extensions, CLI tools, and developer apps. We want to help you do that, by giving you a window into the minds of some of the best and brightest people working at the forefront of developer productivity. You&#39;ll hear from dev tool company founders, open-source authors, and developer efficiency leaders inside some of the best engineering organizations. Our guests share war stories, origin stories, worldviews, histories, prognostications, and the tools and technologies they&#39;re most excited about today. If you&#39;re a programmer who is passionate about leveling up your own productivity or perhaps an aspiring dev tool creator yourself, this podcast is for you.",
+    "isPrivate": false,
+    "slug": "the-sourcegraph-podcast"
+  },
+  {
+    "uuid": "2c22bfa0-cecf-0130-37a2-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Stack Overflow Podcast",
+    "author": "The Stack Overflow Podcast",
+    "description": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a developer and how the art and practice of software programming is changing our world. From Rails to React, from Java to Node.js, we host important conversations and fascinating guests that will help you understand how technology is made and where it’s headed. Hosted by Ben Popper, Cassidy Williams, and Ceora Ford, the Stack Overflow Podcast is your home for all things code.",
+    "url": "https://art19.com/shows/the-stack-overflow-podcast",
+    "lastEpisodePublished": "2026-04-03T04:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "7e517414-32a3-4adf-9bee-2add0f389df1",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 11,
+    "dateAdded": "2020-07-28T18:54:26.839Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a developer and how the art and practice of software programming is changing our world. From Rails to React, from Java to Node.js, we host important conversations and fascinating guests that will help you understand how technology is made and where it’s headed. Hosted by Ben Popper, Cassidy Williams, and Ceora Ford, the Stack Overflow Podcast is your home for all things code.",
+    "isPrivate": false,
+    "slug": "the-stack-overflow-podcast"
+  },
+  {
+    "uuid": "3b713580-ee10-0138-e803-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Taskmaster The Podcast",
+    "author": "Avalon",
+    "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
+    "url": "https://taskmaster.tv",
+    "lastEpisodePublished": "2026-03-26T20:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "7c400f35-8296-4029-88a3-e2b42e551f4a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 12,
+    "dateAdded": "2020-10-19T04:24:42.129Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
+    "isPrivate": false,
+    "slug": "taskmaster-the-podcast"
+  },
+  {
+    "uuid": "3f6543f0-4358-0133-bfa6-0d11918ab357",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "HTTP 203",
+    "author": "Surma & Jake",
+    "description": "Surma and Jake talk about whatever's going on in the world of web development.",
+    "url": "https://developers.google.com/web/shows/http203/podcast/",
+    "lastEpisodePublished": "2022-06-29T16:58:48Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d3a2f00d-7679-4f06-b503-00e0c6322560",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 13,
+    "dateAdded": "2019-01-12T09:05:38Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Surma and Jake talk about whatever&#39;s going on in the world of web development.",
+    "isPrivate": false,
+    "slug": "http-203"
+  },
+  {
+    "uuid": "472f9970-773b-0137-f268-1d245fc5f9cf",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Journal.",
+    "author": "The Wall Street Journal & Spotify Studios",
+    "description": "The most important stories about money, business and power. Hosted by Ryan Knutson and Jessica Mendoza. The Journal is a co-production of Spotify and The Wall Street Journal.\n\nGet show merch here: https://wsjshop.com/collections/clothing",
+    "url": "https://www.wsj.com/podcasts/the-journal",
+    "lastEpisodePublished": "2026-04-03T20:08:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "71f50431-63d3-492d-b222-797a0745bb80",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 14,
+    "dateAdded": "2019-08-27T05:51:33.640Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The most important stories about money, business and power. Hosted by Ryan Knutson and Jessica Mendoza. The Journal is a co-production of Spotify and The Wall Street Journal.<br /><br />Get show merch here: https://wsjshop.com/collections/clothing",
+    "isPrivate": false,
+    "slug": "the-journal"
+  },
+  {
+    "uuid": "4c4ada90-c44b-0136-7b94-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Next Africa",
+    "author": "Bloomberg",
+    "description": "Each week, Jennifer Zabasajja provides a deep dive into the business stories that shape Africa. Join Jennifer and our Bloomberg reporters as they lift the lid on the news driving the continent. ",
+    "url": "https://www.bloomberg.com/",
+    "lastEpisodePublished": "2026-03-26T23:55:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "3edd5648-8d69-4b95-913b-46945d593d64",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 15,
+    "dateAdded": "2018-12-08T17:11:15Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Each week, Jennifer Zabasajja provides a deep dive into the business stories that shape Africa. Join Jennifer and our Bloomberg reporters as they lift the lid on the news driving the continent. </p>",
+    "isPrivate": false,
+    "slug": "next-africa"
+  },
+  {
+    "uuid": "6e86dfd0-a58a-013b-f382-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Social Radars",
+    "author": "Jessica Livingston",
+    "description": "Jessica Livingston and Carolynn Levy are The Social Radars. Carolynn and Jessica have been working together to help thousands of startups at Y Combinator for almost 20 years. Come be a fly on the wall as they talk to some of the most successful founders in Silicon Valley about how they did it.",
+    "url": "https://thesocialradars.captivate.fm",
+    "lastEpisodePublished": "2026-03-19T13:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "ba8aff49-916e-44e8-83e7-b6a497b96002",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 38,
+    "dateAdded": "2023-04-09T14:09:16.280Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-04-09T14:10:54.003Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-04-09T14:10:54.003Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Jessica Livingston and Carolynn Levy are The Social Radars. Carolynn and Jessica have been working together to help thousands of startups at Y Combinator for almost 20 years. Come be a fly on the wall as they talk to some of the most successful founders in Silicon Valley about how they did it.",
+    "isPrivate": false,
+    "slug": "the-social-radars"
+  },
+  {
+    "uuid": "77f1b350-5419-0134-ec2d-0d50f522381b",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Heavyweight",
+    "author": "Pushkin Industries",
+    "description": "Maybe you’ve laid awake and imagined how it could have been, how it might yet be, but the moment to act was never right. Well, the moment is here and the podcast making it happen is Heavyweight. Join Jonathan Goldstein for road trips, thorny reunions, and difficult conversations as he backpedals his way into the past like a therapist with a time machine. ",
+    "url": "https://www.pushkin.fm/podcasts",
+    "lastEpisodePublished": "2026-03-26T08:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "b46a2b22-2f51-44e3-92c5-0a58fc0d20fc",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 16,
+    "dateAdded": "2018-10-08T18:41:23Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Maybe you’ve laid awake and imagined how it could have been, how it might yet be, but the moment to act was never right. Well, the moment is here and the podcast making it happen is Heavyweight. Join Jonathan Goldstein for road trips, thorny reunions, and difficult conversations as he backpedals his way into the past like a therapist with a time machine. </p>",
+    "isPrivate": false,
+    "slug": "heavyweight"
+  },
+  {
+    "uuid": "78c58610-9061-0136-7b92-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Lex Fridman Podcast",
+    "author": "Lex Fridman",
+    "description": "Conversations that explore technology, history, philosophy, physics, mathematics, biology, chemistry, engineering, AI, robotics, programming, music, film, art, sports, psychology, neuroscience, geopolitics, business, economics, religion, astronomy, and the human condition with people from all walks of life.",
+    "url": "https://lexfridman.com/",
+    "lastEpisodePublished": "2026-03-23T16:28:42Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "0318149c-94a8-42b8-a742-6d78026b340d",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 35,
+    "dateAdded": "2022-11-13T02:09:01.577Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Conversations that explore technology, history, philosophy, physics, mathematics, biology, chemistry, engineering, AI, robotics, programming, music, film, art, sports, psychology, neuroscience, geopolitics, business, economics, religion, astronomy, and the human condition with people from all walks of life.",
+    "isPrivate": false,
+    "slug": "lex-fridman-podcast"
+  },
+  {
+    "uuid": "7a564520-1cc3-0135-52f8-452518e2d253",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Y Combinator Startup Podcast",
+    "author": "Y Combinator",
+    "description": "We help founders make something people want. The Y Combinator Podcast is where builders talk about building. From the earliest days of an idea to scaling a company that changes the world, YC partners and founders share real stories, lessons, and tactics from the frontlines.",
+    "url": "http://www.ycombinator.com",
+    "lastEpisodePublished": "2026-03-31T16:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "344f5890-2b97-426f-a747-feb2e430c6e9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 35,
+    "dateAdded": "2022-02-10T09:26:11.789Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-04-03T17:14:26.826Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-04-03T17:14:26.826Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "We help founders make something people want. The Y Combinator Podcast is where builders talk about building. From the earliest days of an idea to scaling a company that changes the world, YC partners and founders share real stories, lessons, and tactics from the frontlines.",
+    "isPrivate": false,
+    "slug": "y-combinator-startup-podcast"
+  },
+  {
+    "uuid": "7be8e0e0-1e33-0135-52f8-452518e2d253",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Where Should We Begin? with Esther Perel",
+    "author": "Esther Perel Global Media",
+    "description": "Every Monday morning step into the office of iconic psychotherapist Esther Perel and listen in as real people in search of insight bare the raw, intimate, and profound details of their stories. From breakups and open relationships to workplace conflicts and fractures in the family, it’s a place to hear our own stories reflected in the lives of others. So…where should we begin? Part of the Vox Media Podcast Network.",
+    "url": "https://estherperel.com/podcast",
+    "lastEpisodePublished": "2026-03-30T05:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d4b41a40-41af-44ae-a2b6-904c34def2ad",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 17,
+    "dateAdded": "2018-04-08T09:40:29Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Every Monday morning step into the office of iconic psychotherapist Esther Perel and listen in as real people in search of insight bare the raw, intimate, and profound details of their stories. From breakups and open relationships to workplace conflicts and fractures in the family, it’s a place to hear our own stories reflected in the lives of others. So…where should we begin? Part of the Vox Media Podcast Network.",
+    "isPrivate": false,
+    "slug": "where-should-we-begin-with-esther-perel"
+  },
+  {
+    "uuid": "7d9a4610-9673-0137-4052-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Waveform: The MKBHD Podcast",
+    "author": "MKBHD",
+    "description": "A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network.\nWe wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4",
+    "url": "https://www.youtube.com/c/Waveform",
+    "lastEpisodePublished": "2026-04-03T08:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "91e9efd9-01c6-48ff-b5a7-7c9692aedf85",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 37,
+    "dateAdded": "2022-11-13T02:09:38.532Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:09:55.893Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network.<br />We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4",
+    "isPrivate": false,
+    "slug": "waveform-the-mkbhd-podcast"
+  },
+  {
+    "uuid": "814553e0-75ca-0139-3466-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The CodeSandbox Podcast",
+    "author": "CodeSandbox BV",
+    "description": "At CodeSandbox, we are working hard to enable any creator to build and share their ideas with code. On The CodeSandbox Podcast, we'll introduce you to the best and brightest from our community, show you how people use CodeSandbox for a number of different tasks, and explore the more human side of open source than the purely technical.",
+    "url": "https://codesandbox.io/podcasts/codesandbox-podcast",
+    "lastEpisodePublished": "2021-06-17T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d7ab1207-08f1-43d0-90ff-0456c4176358",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 19,
+    "dateAdded": "2021-04-14T08:55:17.343Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "At CodeSandbox, we are working hard to enable any creator to build and share their ideas with code. On The CodeSandbox Podcast, we&#39;ll introduce you to the best and brightest from our community, show you how people use CodeSandbox for a number of different tasks, and explore the more human side of open source than the purely technical.",
+    "isPrivate": false,
+    "slug": "the-codesandbox-podcast"
+  },
+  {
+    "uuid": "851d1840-476e-0137-f266-1d245fc5f9cf",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Wisdom From The Top with Guy Raz",
+    "author": "Guy Raz | Luminary",
+    "description": "From the creator of How I Built This, host Guy Raz invites you to listen in as he talks to leadership experts and the visionary leaders of some of the world's biggest brands. Along the way, you'll hear accounts of crisis, failure, turnaround, and triumph, as the leaders reveal their secrets on their way to the top. These are stories that didn't make it into their company bios, and valuable lessons for anyone trying to make it in business.",
+    "url": "https://art19.com/shows/wisdom-from-the-top-with-guy-raz",
+    "lastEpisodePublished": "2025-08-13T19:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a25cd876-6f3e-4a78-9c75-9b2616be36f3",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 18,
+    "dateAdded": "2019-10-28T02:53:36.727Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "From the creator of <em>How I Built This,</em> host Guy Raz invites you to listen in as he talks to leadership experts and the visionary leaders of some of the world&#39;s biggest brands. Along the way, you&#39;ll hear accounts of crisis, failure, turnaround, and triumph, as the leaders reveal their secrets on their way to the top. These are stories that <em>didn&#39;t</em> make it into their company bios, and valuable lessons for anyone trying to make it in business.",
+    "isPrivate": false,
+    "slug": "wisdom-from-the-top-with-guy-raz"
+  },
+  {
+    "uuid": "8b549490-46c7-0138-9767-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The CSS Podcast",
+    "author": "The CSS Podcast",
+    "description": "Cascading Style Sheets (CSS) is the web's core styling language. For web developers, It's one of the quickest technologies to get started with, but one of the hardest to master. Follow Una Kravets and Bramus Van Damme, Developer Advocates from Google, who gleefully breakdown complex aspects of CSS into digestible episodes covering everything from accessibility to z-index.",
+    "url": "https://thecsspodcast.libsyn.com",
+    "lastEpisodePublished": "2025-11-20T19:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "f6af2594-4b2b-4d3c-b4d3-af0a745cef33",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 20,
+    "dateAdded": "2020-03-16T18:47:42.443Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Cascading Style Sheets (CSS) is the web&#39;s core styling language. For web developers, It&#39;s one of the quickest technologies to get started with, but one of the hardest to master. Follow Una Kravets and Bramus Van Damme, Developer Advocates from Google, who gleefully breakdown complex aspects of CSS into digestible episodes covering everything from accessibility to z-index.",
+    "isPrivate": false,
+    "slug": "the-css-podcast"
+  },
+  {
+    "uuid": "8cb63a90-c70a-0136-7b94-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Numberphile Podcast",
+    "author": "Brady Haran",
+    "description": "Interviews with people who love numbers and mathematics. Hosted by Brady Haran, maker of the Numberphile series on YouTube.",
+    "url": "https://www.numberphile.com/podcast/",
+    "lastEpisodePublished": "2026-03-26T17:45:36Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "4a694d3a-e5f0-4921-b5b5-e15af551285f",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 21,
+    "dateAdded": "2018-11-11T18:33:49Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Interviews with people who love numbers and mathematics. Hosted by Brady Haran, maker of the Numberphile series on YouTube.",
+    "isPrivate": false,
+    "slug": "the-numberphile-podcast"
+  },
+  {
+    "uuid": "8fa0f3b0-6fdd-0131-7b79-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Hello Internet",
+    "author": "CGP Grey & Brady Haran",
+    "description": "CGP Grey and Brady Haran talk about YouTube, life, work, whatever.",
+    "url": "http://www.hellointernet.fm/",
+    "lastEpisodePublished": "2020-02-28T10:13:27Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "fbbfa1ed-4129-4d2c-8ddb-39991503c804",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 2,
+    "dateAdded": "2017-03-11T03:26:28Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "CGP Grey and Brady Haran talk about YouTube, life, work, whatever.",
+    "isPrivate": false,
+    "slug": "hello-internet"
+  },
+  {
+    "uuid": "993d43c0-a347-0136-7b93-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Instant Message",
+    "author": "The Wall Street Journal",
+    "description": "Feel overwhelmed by the never-ending waves of technology news? Join The Wall Street Journal's technology columnists as they talk about the most important tech trends -- and why you should care.",
+    "url": "https://www.wsj.com/podcasts/instant-message",
+    "lastEpisodePublished": "2019-08-16T07:30:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "a08d1ac3-5ac9-4958-9bb4-369276c31b40",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 24,
+    "dateAdded": "2018-11-03T09:35:40Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Feel overwhelmed by the never-ending waves of technology news? Join The Wall Street Journal&#39;s technology columnists as they talk about the most important tech trends -- and why you should care.",
+    "isPrivate": false,
+    "slug": "instant-message"
+  },
+  {
+    "uuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Cortex",
+    "author": "Relay",
+    "description": "Cortex is a show that explores how creative people think about their work — and how they get it done. Each episode dives into the workflows they follow, the apps and devices they depend on, and the habits that keep projects moving. Hosted by CGP Grey and Myke Hurley.",
+    "url": "https://www.relay.fm/cortex",
+    "lastEpisodePublished": "2026-03-23T16:15:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "705c134b-9a0d-4f8c-a8fc-cde1a45c3126",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 22,
+    "dateAdded": "2017-06-08T11:43:29Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Cortex is a show that explores how creative people think about their work — and how they get it done. Each episode dives into the workflows they follow, the apps and devices they depend on, and the habits that keep projects moving. Hosted by CGP Grey and Myke Hurley.",
+    "isPrivate": false,
+    "slug": "cortex"
+  },
+  {
+    "uuid": "a2d05490-e823-0135-c25e-7d73a919276a",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Anthropocene Reviewed",
+    "author": "Complexly, John Green",
+    "description": "The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. On The Anthropocene Reviewed, #1 New York Times bestselling author John Green (The Fault in Our Stars, Turtles All the Way Down) reviews different facets of the human-centered planet on a five-star scale. WNYC Studios is a listener-supported producer of other leading podcasts including On the Media, Snap Judgment, Death, Sex & Money, Nancy and Here’s the Thing with Alec Baldwin. © WNYC Studios",
+    "url": "https://art19.com/shows/the-anthropocene-reviewed",
+    "lastEpisodePublished": "2021-08-26T11:12:01Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "5b535d45-0e69-43ba-a237-34a09b84e6af",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 23,
+    "dateAdded": "2020-06-03T14:08:07.950Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. On The Anthropocene Reviewed, #1 New York Times bestselling author John Green (The Fault in Our Stars, Turtles All the Way Down) reviews different facets of the human-centered planet on a five-star scale. WNYC Studios is a listener-supported producer of other leading podcasts including On the Media, Snap Judgment, Death, Sex &amp; Money, Nancy and Here’s the Thing with Alec Baldwin. © WNYC Studios",
+    "isPrivate": false,
+    "slug": "the-anthropocene-reviewed"
+  },
+  {
+    "uuid": "a4085f60-5672-0134-ec37-0d50f522381b",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "How I Built This with Guy Raz",
+    "author": "Guy Raz | Wondery",
+    "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership and how to navigate challenges of all kinds.New episodes release on Mondays and Thursdays. ",
+    "url": "https://wondery.com/shows/how-i-built-this/?utm_source=rss",
+    "lastEpisodePublished": "2026-04-02T07:10:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "05ce83db-970c-483a-a554-28f75413bc05",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 25,
+    "dateAdded": "2017-06-08T11:43:29Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. <em>How I Built This </em>is a master-class on innovation, creativity, leadership and how to navigate challenges of all kinds.</p><p>New episodes release on Mondays and Thursdays. </p>",
+    "isPrivate": false,
+    "slug": "how-i-built-this-with-guy-raz"
+  },
+  {
+    "uuid": "a5163bc0-08ab-0137-f265-1d245fc5f9cf",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Startup Therapy",
+    "author": "Startups.com",
+    "description": "The \"No BS\" version of how startups are really built, taught by actual startup Founders who have lived through all of it. Hosts Wil Schroter and Ryan Rutan talk candidly about the intense struggles Founders face both personally and professionally as they try to turn their idea into something that will change the world.",
+    "url": "https://www.startups.com/community/startup-therapy",
+    "lastEpisodePublished": "2026-03-23T16:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "7118c04e-822e-43ee-af01-326d51600137",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 26,
+    "dateAdded": "2019-05-12T19:02:49Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The &#34;No BS&#34; version of how startups are really built, taught by actual startup Founders who have lived through all of it. Hosts Wil Schroter and Ryan Rutan talk candidly about the intense struggles Founders face both personally and professionally as they try to turn their idea into something that will change the world.",
+    "isPrivate": false,
+    "slug": "startup-therapy"
+  },
+  {
+    "uuid": "acf9fe50-ca90-0130-355c-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Clockwise",
+    "author": "Relay",
+    "description": "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent.",
+    "url": "https://www.relay.fm/clockwise",
+    "lastEpisodePublished": "2026-04-01T19:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "26b462aa-2fc0-431c-b55f-ffd886905701",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 27,
+    "dateAdded": "2018-09-14T14:34:13Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we&#39;re always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent.",
+    "isPrivate": false,
+    "slug": "clockwise"
+  },
+  {
+    "uuid": "ad06bcf0-c419-0136-7b94-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "A Podcast Of Unnecessary Detail",
+    "author": "Festival of the Spoken Nerd",
+    "description": "Looking for a science comedy podcast that doesn't skimp on the details? We've got you. Join us once a month as three different science stories are dissected every month by the trio behind comedy phenomenon Festival of the Spoken Nerd. Stand-up mathematician Matt Parker, experiments maestro Steve Mould and geek songstress Helen Arney are experts at investigating things that might not seem particularly interesting on the surface, but become fascinating when you get down to the nitty and / or gritty.Check out festivalofthespokennerd.com/tickets for details of our live shows in the UK and streamed across the world. Come for the Unnecessary Detail. Stay for the A Podcast Of.  Hosted on Acast. See acast.com/privacy for more information.",
+    "url": "https://festivalofthespokennerd.com/podcast/",
+    "lastEpisodePublished": "2024-11-19T06:00:48Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "48ad9240-eb21-4060-ac3f-161316ca5515",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 28,
+    "dateAdded": "2020-09-07T04:26:01.165Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Looking for a science comedy podcast that doesn&#39;t skimp on the details? We&#39;ve got you. Join us once a month as three different science stories are dissected every month by the trio behind comedy phenomenon <a href=\"https://festivalofthespokennerd.com/\">Festival of the Spoken Nerd</a>. </p><br /><p>Stand-up mathematician <a href=\"https://standupmaths.com/\">Matt Parker</a>, experiments maestro <a href=\"https://stevemould.com/\">Steve Mould</a> and geek songstress <a href=\"https://helenarney.com/\">Helen Arney</a> are experts at investigating things that might not seem particularly interesting on the surface, but become fascinating when you get down to the nitty and / or gritty.</p><br /><p>Check out <a href=\"https://festivalofthespokennerd.com/tickets/\">festivalofthespokennerd.com/tickets</a> for details of our live shows in the UK and streamed across the world. </p><br /><p>Come for the Unnecessary Detail. Stay for the A Podcast Of. </p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
+    "isPrivate": false,
+    "slug": "a-podcast-of-unnecessary-detail"
+  },
+  {
+    "uuid": "c07ea620-6997-0135-902f-63f4b61a9224",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Unmade Podcast",
+    "author": "Tim Hein and Brady Haran",
+    "description": "Tim and Brady discuss ideas for podcasts that they will never make.",
+    "url": "https://www.unmade.fm/",
+    "lastEpisodePublished": "2026-03-25T20:19:08Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a8723eee-8e9e-4732-9da9-10e8c5842bd0",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 29,
+    "dateAdded": "2017-09-04T12:44:42Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Tim and Brady discuss ideas for podcasts that they will never make.",
+    "isPrivate": false,
+    "slug": "the-unmade-podcast"
+  },
+  {
+    "uuid": "d4dec560-f2f3-0136-324d-08b04944ede4",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Works for Me",
+    "author": "Bloomberg",
+    "description": "Hosts Francesca Levy and Rebecca Greenfield navigate the productivity industry by way of their own experiences. In each episode, one of the two becomes a human guinea pig as she tries to solve a specific work-related problem. Using the advice of so-called productivity experts, the duo tackles obstacles like ineffective to-do lists, overflowing inboxes and unruly meetings. Self-improvement is, by some estimates, a $10 billion sector, but can any of the productivity hacks these experts preach actually improve Francesca and Rebecca's work lives? Follow along with their attempts, insights and missteps, and maybe find a solution that will work for you.",
+    "url": "https://www.bloomberg.com/works-for-me",
+    "lastEpisodePublished": "2021-10-12T21:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "eef5c6d9-d234-4746-b67c-4143f448d8b8",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 30,
+    "dateAdded": "2019-01-16T19:46:46Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Hosts Francesca Levy and Rebecca Greenfield navigate the productivity industry by way of their own experiences. In each episode, one of the two becomes a human guinea pig as she tries to solve a specific work-related problem. Using the advice of so-called productivity experts, the duo tackles obstacles like ineffective to-do lists, overflowing inboxes and unruly meetings. Self-improvement is, by some estimates, a $10 billion sector, but can any of the productivity hacks these experts preach actually improve Francesca and Rebecca&#39;s work lives? Follow along with their attempts, insights and missteps, and maybe find a solution that will work for you.",
+    "isPrivate": false,
+    "slug": "works-for-me"
+  },
+  {
+    "uuid": "e6cb7460-2b3b-0139-32e6-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Frndship Time",
+    "author": "Parth & Ratik",
+    "description": "Laid-back, (hopefully) funny, and oftentimes inquisitive, Frndship Time is a weekly opportunity for Parth and Ratik to hang out with each other and explore new ideas. Each week, the boys talk to each other about their experiences and lessons they learn as they navigate this thing called life. New episodes every Friday!",
+    "url": "frndshiptime.com",
+    "lastEpisodePublished": "2024-01-14T20:05:21Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "a30c431a-e60c-479c-9964-a0ea7d048d14",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 39,
+    "dateAdded": "2023-07-11T13:50:55.469Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-07-12T08:24:03.060Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2023-07-12T08:24:03.060Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Laid-back, (hopefully) funny, and oftentimes inquisitive, Frndship Time is a weekly opportunity for Parth and Ratik to hang out with each other and explore new ideas. Each week, the boys talk to each other about their experiences and lessons they learn as they navigate this thing called life. New episodes every Friday!",
+    "isPrivate": false,
+    "slug": "frndship-time"
+  },
+  {
+    "uuid": "ecb717a0-f99a-0131-9b3f-5f4c86fd3263",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Connected",
+    "author": "Relay",
+    "description": "Connected is a weekly panel discussion on Apple and the impact of technology on our lives. With each co-host having a unique background — and accent — Connected provides a perspective that no other show can. Hosted by Federico Viticci, Stephen Hackett, and Myke Hurley.",
+    "url": "https://www.relay.fm/connected",
+    "lastEpisodePublished": "2026-04-02T21:15:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8005fd82-78dc-41dc-b793-177a7a714f46",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 31,
+    "dateAdded": "2018-09-14T14:34:13Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Connected is a weekly panel discussion on Apple and the impact of technology on our lives. With each co-host having a unique background — and accent — Connected provides a perspective that no other show can. Hosted by Federico Viticci, Stephen Hackett, and Myke Hurley.",
+    "isPrivate": false,
+    "slug": "connected"
+  },
+  {
+    "uuid": "f12efd20-d2ec-0138-e771-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The CreaTe Programming Podcast",
+    "author": "createprogramming",
+    "description": "Our approximately weekly chat about programming in Module 1 of CreaTe.",
+    "url": "https://createprogramming.podbean.com",
+    "lastEpisodePublished": "2021-11-15T21:12:47Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "fcaf8f80-be51-4e56-a8bf-eb1b85dd9bb9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 33,
+    "dateAdded": "2020-09-07T04:26:01.165Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Our approximately weekly chat about programming in Module 1 of CreaTe.",
+    "isPrivate": true,
+    "slug": "the-create-programming-podcast"
+  },
+  {
+    "uuid": "f2fb8c50-4b98-0138-977e-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Staying In with Emily & Kumail",
+    "author": "Three Uncanny Four/HyperObject Industries",
+    "description": "In this podcast — whose profits go to charities helping those affected by Coronavirus — Emily V. Gordon and Kumail Nanjiani are uniquely qualified to lead you through this forced quarantine situation. They are both writers who work from home. Emily was a therapist and currently is a chronically sick person (see: The Big Sick) who often has to quarantine herself, and Kumail is her main caretaker. Plus, we both just like being at home. Let us advise you on how to stay calm and avoid cabin fever. Let us give you entertainment recommendations. Let us give you constant updates on the squirrel vs. bird war happening right outside our window. Let us not talk about the C word at all. And most of all, let us take all of the proceeds from this podcast and spread it amongst charities that are helping those who are hit hardest by this quarantine. 100% of the Net Revenue* from the podcast will be donated in equal portions to the following charities to support their efforts to assist those affected by the COVID-19 pandemic: https://www.restaurantworkerscf.org/ https://disasterphilanthropy.org/ https://www.feedingamerica.org/ *\"Net Revenue” is defined as the “Advertising Gross Revenue” received by Hyperobject Podcast and Three Uncanny Four less agency fees and actual costs incurred to produce, distribute, and promote the Podcast. “Advertising Gross Revenue” is calculated by the (cost per thousand) rate times the total impressions delivered.",
+    "url": "",
+    "lastEpisodePublished": "2024-06-03T16:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a0160580-577a-4974-9d66-3264e65b9690",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 32,
+    "dateAdded": "2020-04-14T01:35:09.045Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "In this podcast — whose profits go to charities helping those affected by Coronavirus — Emily V. Gordon and Kumail Nanjiani are uniquely qualified to lead you through this forced quarantine situation. They are both writers who work from home. Emily was a therapist and currently is a chronically sick person (see: The Big Sick) who often has to quarantine herself, and Kumail is her main caretaker. Plus, we both just like being at home. Let us advise you on how to stay calm and avoid cabin fever. Let us give you entertainment recommendations. Let us give you constant updates on the squirrel vs. bird war happening right outside our window. Let us not talk about the C word at all. And most of all, let us take all of the proceeds from this podcast and spread it amongst charities that are helping those who are hit hardest by this quarantine. 100% of the Net Revenue* from the podcast will be donated in equal portions to the following charities to support their efforts to assist those affected by the COVID-19 pandemic: https://www.restaurantworkerscf.org/ https://disasterphilanthropy.org/ https://www.feedingamerica.org/ *&#34;Net Revenue” is defined as the “Advertising Gross Revenue” received by Hyperobject Podcast and Three Uncanny Four less agency fees and actual costs incurred to produce, distribute, and promote the Podcast. “Advertising Gross Revenue” is calculated by the (cost per thousand) rate times the total impressions delivered.",
+    "isPrivate": false,
+    "slug": "staying-in-with-emily-kumail"
+  },
+  {
+    "uuid": "f6ffd000-c8fc-0133-2e8b-6dc413d6d41d",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Embedded",
+    "author": "NPR",
+    "description": "NPR's home for audio documentaries brings untold stories to light through deeply reported narrative series. We go to hidden corners of the headlines to explore what's been sealed off, undisclosed, or overlooked – and the people at the heart of those stories. Support in-depth storytelling that matters by subscribing to Embedded+ and unlock early access to new episodes and sponsor-free listening. Learn more at plus.npr.org/embedded",
+    "url": "https://www.npr.org/podcasts/510311/embedded",
+    "lastEpisodePublished": "2025-12-23T14:06:50Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6f8a4368-a599-4e35-ad12-6fbeaa5ed72a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 34,
+    "dateAdded": "2018-04-08T09:40:29Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2022-11-13T02:08:39.906Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "NPR&#39;s home for audio documentaries brings untold stories to light through deeply reported narrative series. We go to hidden corners of the headlines to explore what&#39;s been sealed off, undisclosed, or overlooked – and the people at the heart of those stories. <br /><br /><em>Support in-depth storytelling that matters by subscribing to Embedded&#43; and unlock early access to new episodes and sponsor-free listening. Learn more at plus.npr.org/embedded<br /></em>",
+    "isPrivate": false,
+    "slug": "embedded"
+  }
+]

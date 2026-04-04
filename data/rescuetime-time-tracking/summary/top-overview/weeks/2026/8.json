@@ -1,0 +1,53 @@
+{
+  "2026-02-15": {
+    "Utilities": 365,
+    "Software Development": 9,
+    "Communication & Scheduling": 3
+  },
+  "2026-02-16": {
+    "Utilities": 9481,
+    "Software Development": 4520,
+    "Communication & Scheduling": 2465,
+    "Design & Composition": 205,
+    "Reference & Learning": 46,
+    "Uncategorized": 44
+  },
+  "2026-02-17": {
+    "Utilities": 8944,
+    "Software Development": 6939,
+    "Communication & Scheduling": 2696,
+    "Design & Composition": 170,
+    "Uncategorized": 99,
+    "Reference & Learning": 17
+  },
+  "2026-02-18": {
+    "Utilities": 10808,
+    "Communication & Scheduling": 4798,
+    "Software Development": 2560,
+    "Design & Composition": 2483,
+    "Business": 10,
+    "Uncategorized": 10,
+    "Reference & Learning": 4,
+    "Entertainment": 1
+  },
+  "2026-02-19": {
+    "Utilities": 2851,
+    "Communication & Scheduling": 1584,
+    "Design & Composition": 474,
+    "Software Development": 21,
+    "Uncategorized": 8,
+    "Entertainment": 2
+  },
+  "2026-02-20": {
+    "Utilities": 136,
+    "Design & Composition": 2,
+    "Communication & Scheduling": 2
+  },
+  "2026-02-21": {
+    "Utilities": 1533,
+    "Communication & Scheduling": 180,
+    "Software Development": 147,
+    "Design & Composition": 51,
+    "Uncategorized": 9
+  }
+}

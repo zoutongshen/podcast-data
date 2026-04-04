@@ -1,0 +1,146 @@
+[
+  {
+    "artist": {
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "#text": "Tate McRae"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/944076781ccdf455ecf790edca9f2076.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/944076781ccdf455ecf790edca9f2076.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/944076781ccdf455ecf790edca9f2076.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/944076781ccdf455ecf790edca9f2076.jpg"
+      }
+    ],
+    "mbid": "5bd9603d-1bbc-40e6-b8c4-75efe8a34056",
+    "album": {
+      "mbid": "414ab7ea-19eb-4b5b-b7b8-5f84391fde88",
+      "#text": "THINK LATER"
+    },
+    "name": "hurt my feelings",
+    "url": "https://www.last.fm/music/Tate+McRae/_/hurt+my+feelings",
+    "date": {
+      "uts": "1708534240",
+      "#text": "21 Feb 2024, 16:50"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "#text": "Kim Petras"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/51ad1603cebbeefc94724a27511e69c6.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/51ad1603cebbeefc94724a27511e69c6.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/51ad1603cebbeefc94724a27511e69c6.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/51ad1603cebbeefc94724a27511e69c6.jpg"
+      }
+    ],
+    "mbid": "6972c104-da89-41ed-865b-b5cec705cba7",
+    "album": {
+      "mbid": "4210157b-cbee-4721-9ce8-f95ed05615b2",
+      "#text": "Slut Pop Miami"
+    },
+    "name": "Head Head Honcho",
+    "url": "https://www.last.fm/music/Kim+Petras/_/Head+Head+Honcho",
+    "date": {
+      "uts": "1708534229",
+      "#text": "21 Feb 2024, 16:50"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "663f33f4-8e5f-4773-93ea-493a1135de9a",
+      "#text": "Tones and I"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0a8df2fa918c2bfa4820b06802afb3d.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0a8df2fa918c2bfa4820b06802afb3d.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0a8df2fa918c2bfa4820b06802afb3d.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a8df2fa918c2bfa4820b06802afb3d.jpg"
+      }
+    ],
+    "mbid": "d3d45960-2327-45c2-8156-bc0bffe2fc32",
+    "album": {
+      "mbid": "91c8c2a7-0752-4c98-a313-2a8dcfe063c6",
+      "#text": "Dreaming"
+    },
+    "name": "Dreaming",
+    "url": "https://www.last.fm/music/Tones+and+I/_/Dreaming",
+    "date": {
+      "uts": "1708532687",
+      "#text": "21 Feb 2024, 16:24"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "#text": "Dua Lipa"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9d522e7559ad7c4b55613737b7079ed7.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9d522e7559ad7c4b55613737b7079ed7.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9d522e7559ad7c4b55613737b7079ed7.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9d522e7559ad7c4b55613737b7079ed7.png"
+      }
+    ],
+    "mbid": "415824fa-6315-4043-aeb0-eb84a9dfa552",
+    "album": {
+      "mbid": "d64bfaf3-6554-4d65-b4bf-2d72e8c020db",
+      "#text": "Training Season"
+    },
+    "name": "Training Season",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/Training+Season",
+    "date": {
+      "uts": "1708532477",
+      "#text": "21 Feb 2024, 16:21"
+    }
+  }
+]

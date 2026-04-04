@@ -1,0 +1,302 @@
+{
+  "1": {
+    "Browsers": 14203,
+    "Editing & IDEs": 4606,
+    "Instant Message": 729,
+    "Meetings": 530,
+    "Uncategorized": 136,
+    "General Utilities": 54,
+    "Science & Technology": 21,
+    "General Reference & Learning": 20,
+    "Internet Utilities": 12,
+    "Customer Relations": 12,
+    "Voice Chat": 6
+  },
+  "2": {
+    "Browsers": 3739,
+    "Instant Message": 983,
+    "Meetings": 544,
+    "Editing & IDEs": 326,
+    "General Utilities": 8,
+    "Uncategorized": 5
+  },
+  "3": {
+    "Browsers": 2072,
+    "Editing & IDEs": 1704,
+    "Instant Message": 64,
+    "General Utilities": 7,
+    "Uncategorized": 2
+  },
+  "4": {
+    "Browsers": 14339,
+    "Editing & IDEs": 4798,
+    "Instant Message": 2929,
+    "Uncategorized": 143,
+    "Meetings": 82,
+    "General Business": 47,
+    "General Utilities": 18,
+    "General Entertainment": 16,
+    "General Reference & Learning": 14,
+    "Voice Chat": 1
+  },
+  "5": {
+    "Browsers": 5502,
+    "Meetings": 3883,
+    "Instant Message": 2925,
+    "Editing & IDEs": 1484,
+    "General Utilities": 15,
+    "Uncategorized": 9,
+    "Voice Chat": 5
+  },
+  "6": {
+    "Browsers": 7003,
+    "Editing & IDEs": 4701,
+    "Instant Message": 2111,
+    "Meetings": 1501,
+    "Uncategorized": 189,
+    "General Entertainment": 75,
+    "General Business": 34,
+    "Intelligence": 6,
+    "Voice Chat": 4,
+    "General Utilities": 2,
+    "Internet Utilities": 2
+  },
+  "7": {
+    "Browsers": 8236,
+    "Editing & IDEs": 6431,
+    "Instant Message": 4247,
+    "Meetings": 39,
+    "General Business": 37,
+    "Uncategorized": 12,
+    "General Utilities": 11,
+    "Systems Operations": 11
+  },
+  "8": {
+    "Browsers": 10618,
+    "Editing & IDEs": 7579,
+    "Meetings": 3312,
+    "Instant Message": 1258,
+    "General Utilities": 64,
+    "Uncategorized": 27,
+    "Voice Chat": 7
+  },
+  "9": {
+    "Editing & IDEs": 6165,
+    "Browsers": 4549,
+    "Uncategorized": 1006,
+    "Instant Message": 44,
+    "General Business": 27,
+    "General Utilities": 7,
+    "Internet Utilities": 3
+  },
+  "10": {
+    "Browsers": 15970,
+    "Editing & IDEs": 3208,
+    "Uncategorized": 279,
+    "General Utilities": 25,
+    "General Reference & Learning": 9,
+    "Voice Chat": 5
+  },
+  "11": {
+    "Browsers": 11800,
+    "Editing & IDEs": 5931,
+    "Instant Message": 1434,
+    "Uncategorized": 882,
+    "Meetings": 582,
+    "General Utilities": 20,
+    "Internet Utilities": 12,
+    "Voice Chat": 10,
+    "General Reference & Learning": 1
+  },
+  "12": {
+    "Browsers": 14584,
+    "Editing & IDEs": 12449,
+    "Meetings": 3917,
+    "Instant Message": 3127,
+    "Internet Utilities": 91,
+    "General Reference & Learning": 50,
+    "Maps & Regional": 46,
+    "General Utilities": 12,
+    "Uncategorized": 9,
+    "Voice Chat": 5
+  },
+  "13": {
+    "Browsers": 17896,
+    "Editing & IDEs": 7647,
+    "Instant Message": 1462,
+    "Meetings": 480,
+    "General Business": 57,
+    "General Utilities": 37,
+    "Internet Utilities": 31,
+    "General Reference & Learning": 20,
+    "Uncategorized": 8,
+    "Maps & Regional": 6,
+    "Voice Chat": 2
+  },
+  "14": {
+    "Browsers": 9124,
+    "Editing & IDEs": 6377,
+    "Meetings": 2976,
+    "Instant Message": 2556,
+    "Voice Chat": 250,
+    "Uncategorized": 77,
+    "General Utilities": 6,
+    "Internet Utilities": 1
+  },
+  "15": {
+    "Browsers": 10205,
+    "Editing & IDEs": 5763,
+    "Instant Message": 2714,
+    "Meetings": 385,
+    "Uncategorized": 206,
+    "General Utilities": 6,
+    "Customer Relations": 4,
+    "Calendars": 1
+  },
+  "16": {
+    "Meetings": 5589,
+    "Browsers": 4603,
+    "Editing & IDEs": 2737,
+    "Instant Message": 1125,
+    "Uncategorized": 329,
+    "General Utilities": 13,
+    "Internet Utilities": 8,
+    "Voice Chat": 1
+  },
+  "17": {
+    "Browsers": 7617,
+    "Editing & IDEs": 1977,
+    "Instant Message": 1446,
+    "General Reference & Learning": 73,
+    "General Utilities": 21,
+    "Uncategorized": 7
+  },
+  "18": {
+    "Browsers": 10302,
+    "Editing & IDEs": 3564,
+    "Meetings": 2774,
+    "Instant Message": 1682,
+    "General Utilities": 253,
+    "Uncategorized": 183,
+    "General Business": 67,
+    "General Reference & Learning": 31,
+    "Voice Chat": 29
+  },
+  "19": {
+    "Browsers": 11061,
+    "Editing & IDEs": 8079,
+    "Meetings": 5175,
+    "Instant Message": 4465,
+    "Uncategorized": 112,
+    "General Utilities": 63,
+    "Voice Chat": 12,
+    "Intelligence": 6,
+    "Internet Utilities": 2
+  },
+  "20": {
+    "Browsers": 10226,
+    "Instant Message": 1637,
+    "Editing & IDEs": 1031,
+    "General Design & Composition": 169,
+    "Internet Utilities": 89,
+    "General Reference & Learning": 87,
+    "General Utilities": 53,
+    "Meetings": 52,
+    "Uncategorized": 17,
+    "Customer Relations": 3
+  },
+  "21": {
+    "Browsers": 8167,
+    "Editing & IDEs": 5576,
+    "Instant Message": 1349,
+    "Uncategorized": 175,
+    "General Utilities": 158,
+    "Voice Chat": 12
+  },
+  "22": {
+    "Browsers": 8400,
+    "Editing & IDEs": 5984,
+    "Instant Message": 1573,
+    "Maps & Regional": 12,
+    "Uncategorized": 8,
+    "General Utilities": 6
+  },
+  "23": {
+    "Browsers": 12467,
+    "Editing & IDEs": 8799,
+    "Instant Message": 1341,
+    "Uncategorized": 39,
+    "General Utilities": 20,
+    "Internet Utilities": 4
+  },
+  "24": {
+    "Browsers": 7475,
+    "Editing & IDEs": 4212,
+    "Instant Message": 625,
+    "Uncategorized": 5,
+    "General Utilities": 4,
+    "Maps & Regional": 4,
+    "General Entertainment": 4
+  },
+  "25": {
+    "Editing & IDEs": 14239,
+    "Browsers": 13822,
+    "Meetings": 2799,
+    "Instant Message": 1713,
+    "Internet Utilities": 116,
+    "Uncategorized": 82,
+    "General Utilities": 32,
+    "Systems Operations": 26,
+    "Customer Relations": 12,
+    "Intelligence": 9,
+    "Voice Chat": 1
+  },
+  "26": {
+    "Browsers": 4739,
+    "Voice Chat": 1863,
+    "Editing & IDEs": 1454,
+    "Instant Message": 917,
+    "General Reference & Learning": 650,
+    "General Utilities": 146,
+    "Meetings": 48,
+    "Internet Utilities": 14,
+    "Uncategorized": 7,
+    "Systems Operations": 1
+  },
+  "27": {
+    "Browsers": 7615,
+    "Editing & IDEs": 3882,
+    "Instant Message": 1690,
+    "Meetings": 1585,
+    "Uncategorized": 75,
+    "Voice Chat": 6,
+    "General Utilities": 1
+  },
+  "28": {
+    "Meetings": 1751,
+    "Browsers": 1153,
+    "Instant Message": 401,
+    "Editing & IDEs": 92,
+    "General Utilities": 11,
+    "Internet Utilities": 3,
+    "Uncategorized": 2
+  },
+  "29": {
+    "Browsers": 438,
+    "Instant Message": 7,
+    "Uncategorized": 1
+  },
+  "30": {
+    "Editing & IDEs": 1606,
+    "Browsers": 717,
+    "Instant Message": 31,
+    "General Utilities": 6,
+    "Uncategorized": 4,
+    "Intelligence": 2
+  },
+  "31": {
+    "Browsers": 609,
+    "Instant Message": 6,
+    "Uncategorized": 1
+  }
+}

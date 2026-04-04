@@ -1,0 +1,86 @@
+{
+  "2023-07-30": {
+    "Browsers": 4447,
+    "Email": 744,
+    "Instant Message": 498,
+    "Communications": 405,
+    "General Reference & Learning": 190,
+    "Uncategorized": 42,
+    "General Utilities": 32,
+    "Calendars": 21,
+    "Internet Utilities": 15,
+    "Editing & IDEs": 12
+  },
+  "2023-07-31": {
+    "Browsers": 15119,
+    "Editing & IDEs": 12455,
+    "Communications": 1075,
+    "Email": 479,
+    "Instant Message": 119,
+    "Uncategorized": 55,
+    "General Utilities": 32,
+    "Internet Utilities": 24,
+    "Graphic Design": 9
+  },
+  "2023-08-1": {
+    "Browsers": 15347,
+    "Editing & IDEs": 10433,
+    "Communications": 2796,
+    "Email": 808,
+    "Instant Message": 283,
+    "Uncategorized": 98,
+    "Internet Utilities": 50,
+    "General Utilities": 18,
+    "Calendars": 6,
+    "Voice Chat": 2
+  },
+  "2023-08-2": {
+    "Editing & IDEs": 16453,
+    "Browsers": 10936,
+    "Communications": 1076,
+    "Email": 1019,
+    "Instant Message": 108,
+    "Uncategorized": 97,
+    "General Utilities": 90,
+    "Internet Utilities": 19,
+    "General Business": 2
+  },
+  "2023-08-3": {
+    "Browsers": 13053,
+    "Editing & IDEs": 7705,
+    "Communications": 1871,
+    "Email": 521,
+    "General Reference & Learning": 228,
+    "Instant Message": 142,
+    "Uncategorized": 103,
+    "General Utilities": 56,
+    "Internet Utilities": 39,
+    "Customer Relations": 8,
+    "Voice Chat": 7,
+    "Systems Operations": 1
+  },
+  "2023-08-4": {
+    "Browsers": 7339,
+    "Meetings": 1750,
+    "Editing & IDEs": 951,
+    "Communications": 785,
+    "Email": 567,
+    "Uncategorized": 84,
+    "Instant Message": 7,
+    "General Utilities": 4
+  },
+  "2023-08-5": {
+    "Browsers": 8834,
+    "Editing & IDEs": 471,
+    "Email": 311,
+    "Communications": 237,
+    "Instant Message": 164,
+    "Uncategorized": 137,
+    "Internet Utilities": 50,
+    "General Utilities": 26,
+    "General Reference & Learning": 22,
+    "Calendars": 21,
+    "Customer Relations": 4,
+    "General Entertainment": 1
+  }
+}

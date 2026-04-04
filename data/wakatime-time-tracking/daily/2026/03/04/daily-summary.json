@@ -1,0 +1,201 @@
+[
+  {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 1166.275,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 73.26
+      },
+      {
+        "name": "Other",
+        "total_seconds": 252.498,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 15.86
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 91.549,
+        "digital": "0:01:31",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 5.75
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 60.743,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 3.82
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 11.201,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.7
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 9.793,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.62
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1592.059,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 196,
+      "human_deletions": 2
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 1592.059,
+        "digital": "0:26:32",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 1592.059,
+        "digital": "0:26:32",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1531.316,
+        "digital": "0:25:31",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 31,
+        "percent": 96.18
+      },
+      {
+        "name": "Writing Tests",
+        "total_seconds": 50.357,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 3.16
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 10.386,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.65
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Anands-MacBook-Pro.local",
+        "total_seconds": 1592.059,
+        "machine_name_id": "4f48c88f-1d8e-4ed4-88df-af2f3fdc6a3c",
+        "digital": "0:26:32",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "website",
+        "total_seconds": 1592.059,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 196,
+        "human_deletions": 2,
+        "color": null,
+        "digital": "0:26:32",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 32,
+        "percent": 100
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 0,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2026-03-04T23:00:00Z",
+      "end": "2026-03-05T22:59:59Z",
+      "date": "2026-03-05",
+      "text": "Thu Mar 5th 2026",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "2024-12-15": {
+    "Browsers": 5422,
+    "Editing & IDEs": 4691,
+    "General Communication & Scheduling": 212,
+    "Email": 162,
+    "Instant Message": 31,
+    "Calendars": 9,
+    "Uncategorized": 8,
+    "Writing": 2
+  },
+  "2024-12-16": {
+    "Browsers": 17242,
+    "Editing & IDEs": 13979,
+    "Meetings": 1191,
+    "Instant Message": 561,
+    "Email": 161,
+    "Calendars": 105,
+    "General Communication & Scheduling": 90,
+    "General Reference & Learning": 43,
+    "General Utilities": 21,
+    "Systems Operations": 20,
+    "Uncategorized": 10,
+    "Writing": 7,
+    "Internet Utilities": 1
+  },
+  "2024-12-17": {
+    "Editing & IDEs": 12569,
+    "Browsers": 12423,
+    "Instant Message": 4869,
+    "Email": 2361,
+    "Writing": 854,
+    "General Communication & Scheduling": 172,
+    "General Utilities": 142,
+    "Meetings": 135,
+    "Calendars": 94,
+    "Systems Operations": 20,
+    "Uncategorized": 11,
+    "Internet Utilities": 3,
+    "Customer Relations": 3
+  },
+  "2024-12-18": {
+    "Browsers": 13266,
+    "Editing & IDEs": 11347,
+    "Meetings": 2562,
+    "General Communication & Scheduling": 2019,
+    "Instant Message": 611,
+    "Email": 127,
+    "Calendars": 46,
+    "Uncategorized": 11
+  },
+  "2024-12-19": {
+    "Browsers": 11865,
+    "Editing & IDEs": 11036,
+    "Meetings": 2407,
+    "General Communication & Scheduling": 798,
+    "Instant Message": 492,
+    "Calendars": 231,
+    "Maps & Regional": 171,
+    "Systems Operations": 16,
+    "Uncategorized": 8,
+    "Email": 7,
+    "General Utilities": 7,
+    "Writing": 1
+  },
+  "2024-12-20": {
+    "Meetings": 1779,
+    "Browsers": 819,
+    "Email": 140,
+    "Editing & IDEs": 120,
+    "General Communication & Scheduling": 83,
+    "General Utilities": 17,
+    "Calendars": 15,
+    "Instant Message": 13,
+    "Uncategorized": 4,
+    "Internet Utilities": 2
+  },
+  "2024-12-21": {
+    "Editing & IDEs": 3884,
+    "Browsers": 2543,
+    "Instant Message": 1453,
+    "General Communication & Scheduling": 299,
+    "Writing": 255,
+    "Email": 162,
+    "General Utilities": 23,
+    "General Reference & Learning": 18,
+    "Uncategorized": 6,
+    "Calendars": 5,
+    "Customer Relations": 5,
+    "Systems Operations": 4,
+    "Internet Utilities": 1
+  }
+}

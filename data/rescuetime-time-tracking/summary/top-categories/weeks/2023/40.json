@@ -1,0 +1,90 @@
+{
+  "2023-10-1": {
+    "Browsers": 408,
+    "Editing & IDEs": 193,
+    "Communications": 29,
+    "Email": 9,
+    "Uncategorized": 3
+  },
+  "2023-10-2": {
+    "Browsers": 9602,
+    "Editing & IDEs": 1305,
+    "Communications": 763,
+    "Email": 421,
+    "General Utilities": 105,
+    "Intelligence": 69,
+    "Uncategorized": 42,
+    "Voice Chat": 30,
+    "General Reference & Learning": 9
+  },
+  "2023-10-3": {
+    "Browsers": 14753,
+    "Editing & IDEs": 8195,
+    "Uncategorized": 5581,
+    "Email": 1374,
+    "Instant Message": 1020,
+    "Communications": 611,
+    "General Utilities": 380,
+    "General Business": 315,
+    "Administration": 286,
+    "Intelligence": 143,
+    "General Communication & Scheduling": 78,
+    "Internet Utilities": 24,
+    "Customer Relations": 20,
+    "General Entertainment": 18,
+    "General Reference & Learning": 11,
+    "Systems Operations": 8,
+    "Voice Chat": 5
+  },
+  "2023-10-4": {
+    "Browsers": 12033,
+    "Email": 1589,
+    "Editing & IDEs": 1546,
+    "Communications": 834,
+    "General Reference & Learning": 348,
+    "Uncategorized": 325,
+    "General Utilities": 115,
+    "Intelligence": 8,
+    "Voice Chat": 7,
+    "Internet Utilities": 5,
+    "Customer Relations": 4,
+    "Instant Message": 1
+  },
+  "2023-10-5": {
+    "Browsers": 9350,
+    "Editing & IDEs": 1425,
+    "Communications": 401,
+    "Email": 254,
+    "Instant Message": 201,
+    "General Utilities": 167,
+    "General Reference & Learning": 103,
+    "Administration": 62,
+    "Uncategorized": 19,
+    "General Communication & Scheduling": 14,
+    "Intelligence": 3,
+    "Calendars": 3
+  },
+  "2023-10-6": {
+    "Browsers": 9037,
+    "Editing & IDEs": 1238,
+    "Communications": 403,
+    "General Software Development": 240,
+    "Email": 226,
+    "Internet Utilities": 157,
+    "General Utilities": 115,
+    "Instant Message": 105,
+    "Uncategorized": 69,
+    "Intelligence": 25,
+    "General Reference & Learning": 24,
+    "Systems Operations": 18,
+    "General Communication & Scheduling": 11,
+    "Search": 1
+  },
+  "2023-10-7": {
+    "Browsers": 519,
+    "Email": 7,
+    "Editing & IDEs": 3,
+    "Uncategorized": 2,
+    "Communications": 1
+  }
+}

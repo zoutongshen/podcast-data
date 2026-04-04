@@ -1,0 +1,321 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 321.411049,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 321.411049,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 321.411049,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 321.411049,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 321.411049,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "slack",
+        "total_seconds": 321.411049,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 9.43
+      },
+      {
+        "name": "prisma",
+        "total_seconds": 311.357822,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 9.13
+      },
+      {
+        "name": "env",
+        "total_seconds": 311.357822,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 9.13
+      },
+      {
+        "name": "concurrency",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "client",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "send-slack-message",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "luxon",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "stripe",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "billing",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "post-teams-$teamId-billing-sync",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "magic-bell",
+        "total_seconds": 255.911387,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 7.51
+      },
+      {
+        "name": "zod",
+        "total_seconds": 65.499662,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 1.92
+      },
+      {
+        "name": "logger",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "hono",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "http-exception",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "string",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "audit",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "id",
+        "total_seconds": 55.446435,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 1.63
+      },
+      {
+        "name": "p-retry",
+        "total_seconds": 10.053227,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.29
+      },
+      {
+        "name": "axios",
+        "total_seconds": 10.053227,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.29
+      }
+    ],
+    "machines": [
+      {
+        "name": "Anand's+MacBook+Pro",
+        "total_seconds": 321.411049,
+        "machine_name_id": "018d2788-708d-4f43-a7cf-8c3020a4b466",
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "firstquadrant",
+        "total_seconds": 321.411049,
+        "color": null,
+        "digital": "0:05:21",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-09-10T22:00:00Z",
+      "end": "2024-09-11T21:59:59Z",
+      "date": "2024-09-11",
+      "text": "Wed Sep 11th 2024",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

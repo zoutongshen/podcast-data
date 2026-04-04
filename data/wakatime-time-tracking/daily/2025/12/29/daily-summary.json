@@ -1,0 +1,300 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 6454.534,
+        "digital": "1:47:34",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 34,
+        "percent": 60.62
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3117.832,
+        "digital": "0:51:57",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 57,
+        "percent": 29.28
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 713.959,
+        "digital": "0:11:53",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 53,
+        "percent": 6.71
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 322.564,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 3.03
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 36.522,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.34
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 1.906,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 57,
+      "total_seconds": 10647.317,
+      "digital": "2:57",
+      "decimal": "2.95",
+      "text": "2 hrs 57 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 200,
+      "human_deletions": 84
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 10647.317,
+        "digital": "2:57:27",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 10647.317,
+        "digital": "2:57:27",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Writing Docs",
+        "total_seconds": 6454.534,
+        "digital": "1:47:34",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 34,
+        "percent": 60.62
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 4192.783,
+        "digital": "1:09:52",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 52,
+        "percent": 39.38
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "node-html-markdown",
+        "total_seconds": 713.959,
+        "digital": "0:11:53",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 53,
+        "percent": 21.04
+      },
+      {
+        "name": "promises",
+        "total_seconds": 713.959,
+        "digital": "0:11:53",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 53,
+        "percent": 21.04
+      },
+      {
+        "name": "dotenv",
+        "total_seconds": 674.765,
+        "digital": "0:11:14",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 14,
+        "percent": 19.89
+      },
+      {
+        "name": "marked",
+        "total_seconds": 322.564,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 9.51
+      },
+      {
+        "name": "generic-section",
+        "total_seconds": 322.564,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 9.51
+      },
+      {
+        "name": "marked-smartypants",
+        "total_seconds": 322.564,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 9.51
+      },
+      {
+        "name": "slugify",
+        "total_seconds": 322.564,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 9.51
+      }
+    ],
+    "machines": [
+      {
+        "name": "Anands-MacBook-Pro.local",
+        "total_seconds": 8694.492,
+        "machine_name_id": "aeb644a0-5a66-40e2-8e13-58c9fd7b42fc",
+        "digital": "2:24:54",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 54,
+        "percent": 81.66
+      },
+      {
+        "name": "Mac.localdomain",
+        "total_seconds": 1952.825,
+        "machine_name_id": "32aa50fd-92f6-4c8f-ad2d-66db96195f92",
+        "digital": "0:32:32",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 32,
+        "percent": 18.34
+      }
+    ],
+    "projects": [
+      {
+        "name": "blog",
+        "total_seconds": 9572.366,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 187,
+        "human_deletions": 84,
+        "color": null,
+        "digital": "2:39:32",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 32,
+        "percent": 89.9
+      },
+      {
+        "name": "notes",
+        "total_seconds": 752.387,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 8,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:12:32",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 32,
+        "percent": 7.07
+      },
+      {
+        "name": "anandchowdhary.com",
+        "total_seconds": 322.564,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 5,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 3.03
+      }
+    ],
+    "range": {
+      "start": "2025-12-29T23:00:00Z",
+      "end": "2025-12-30T22:59:59Z",
+      "date": "2025-12-30",
+      "text": "Tue Dec 30th 2025",
+      "timezone": "Europe/Amsterdam"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]

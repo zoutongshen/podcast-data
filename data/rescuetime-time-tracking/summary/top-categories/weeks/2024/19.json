@@ -1,0 +1,63 @@
+{
+  "2024-05-5": {
+    "Browsers": 5561,
+    "Instant Message": 624,
+    "Maps & Regional": 68,
+    "Uncategorized": 5
+  },
+  "2024-05-6": {
+    "Browsers": 13162,
+    "Meetings": 5961,
+    "Editing & IDEs": 2520,
+    "Instant Message": 1449,
+    "Uncategorized": 183,
+    "Internet Utilities": 144,
+    "General Utilities": 4,
+    "Voice Chat": 4,
+    "General Entertainment": 2
+  },
+  "2024-05-7": {
+    "Browsers": 13193,
+    "Editing & IDEs": 9166,
+    "Instant Message": 1661,
+    "Meetings": 1159,
+    "Voice Chat": 23,
+    "Uncategorized": 16,
+    "General Utilities": 14
+  },
+  "2024-05-8": {
+    "Browsers": 7498,
+    "Editing & IDEs": 6851,
+    "Instant Message": 3005,
+    "Meetings": 461,
+    "Uncategorized": 12,
+    "General Utilities": 4,
+    "General Entertainment": 4,
+    "Calendars": 2
+  },
+  "2024-05-9": {
+    "Browsers": 6475,
+    "Instant Message": 3077,
+    "Editing & IDEs": 2747,
+    "Meetings": 1781,
+    "Uncategorized": 6,
+    "Voice Chat": 2,
+    "Intelligence": 1
+  },
+  "2024-05-10": {
+    "Browsers": 6344,
+    "Instant Message": 2048,
+    "Meetings": 1284,
+    "Editing & IDEs": 527,
+    "Uncategorized": 28
+  },
+  "2024-05-11": {
+    "Browsers": 4908,
+    "Editing & IDEs": 2022,
+    "Presentation": 1486,
+    "Instant Message": 786,
+    "General Utilities": 156,
+    "Uncategorized": 5,
+    "General News & Opinion": 4
+  }
+}

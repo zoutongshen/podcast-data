@@ -1,0 +1,78 @@
+{
+  "2023-05-28": {
+    "Browsers": 591,
+    "Communications": 46,
+    "Email": 24,
+    "Editing & IDEs": 20,
+    "Photos": 13,
+    "Internet Utilities": 8,
+    "Instant Message": 4
+  },
+  "2023-05-29": {
+    "Browsers": 4234,
+    "Editing & IDEs": 481,
+    "Communications": 299,
+    "Email": 279,
+    "Internet Utilities": 9,
+    "Uncategorized": 3
+  },
+  "2023-05-30": {
+    "Browsers": 17713,
+    "Editing & IDEs": 4448,
+    "Communications": 1299,
+    "Meetings": 718,
+    "Email": 350,
+    "Instant Message": 316,
+    "Data Modeling & Analysis": 269,
+    "Internet Utilities": 75,
+    "Intelligence": 60,
+    "Uncategorized": 25,
+    "General Reference & Learning": 8,
+    "Voice Chat": 8,
+    "Systems Operations": 4,
+    "Games": 3,
+    "General Utilities": 3
+  },
+  "2023-05-31": {
+    "Browsers": 23861,
+    "Editing & IDEs": 11248,
+    "Email": 2008,
+    "Communications": 454,
+    "Instant Message": 423,
+    "General Utilities": 21,
+    "Voice Chat": 18,
+    "Calendars": 10,
+    "Uncategorized": 10,
+    "Internet Utilities": 8
+  },
+  "2023-06-1": {
+    "Browsers": 14659,
+    "Editing & IDEs": 13580,
+    "Instant Message": 1361,
+    "Email": 1150,
+    "Communications": 470,
+    "Uncategorized": 57,
+    "Internet Utilities": 55,
+    "Intelligence": 33,
+    "Voice Chat": 18,
+    "General Utilities": 3,
+    "Systems Operations": 1,
+    "Games": 1
+  },
+  "2023-06-2": {
+    "Browsers": 21624,
+    "Editing & IDEs": 7398,
+    "Email": 1873,
+    "Communications": 1189,
+    "Instant Message": 117,
+    "Uncategorized": 74,
+    "Data Modeling & Analysis": 53,
+    "General Utilities": 9,
+    "Internet Utilities": 8,
+    "General Reference & Learning": 4,
+    "General Communication & Scheduling": 3,
+    "Calendars": 1,
+    "Voice Chat": 1
+  },
+  "2023-06-3": {}
+}

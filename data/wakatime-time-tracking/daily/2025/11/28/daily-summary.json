@@ -1,0 +1,134 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 2873.041,
+        "digital": "0:47:53",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 53,
+        "percent": 84.09
+      },
+      {
+        "name": "Other",
+        "total_seconds": 543.786,
+        "digital": "0:09:03",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 3,
+        "percent": 15.91
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 56,
+      "total_seconds": 3416.827,
+      "digital": "0:56",
+      "decimal": "0.93",
+      "text": "56 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 121,
+      "human_deletions": 21
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 3416.827,
+        "digital": "0:56:56",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 3416.827,
+        "digital": "0:56:56",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Writing Docs",
+        "total_seconds": 2873.041,
+        "digital": "0:47:53",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 53,
+        "percent": 84.09
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 543.786,
+        "digital": "0:09:03",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 3,
+        "percent": 15.91
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Anands-MBP.home",
+        "total_seconds": 3416.827,
+        "machine_name_id": "1ff3795f-c752-4858-9fa4-7090240f0ab3",
+        "digital": "0:56:56",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "firstquadrant.ai",
+        "total_seconds": 3416.827,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 121,
+        "human_deletions": 21,
+        "color": null,
+        "digital": "0:56:56",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2025-11-28T23:00:00Z",
+      "end": "2025-11-29T22:59:59Z",
+      "date": "2025-11-29",
+      "text": "Sat Nov 29th 2025",
+      "timezone": "Europe/Amsterdam"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]

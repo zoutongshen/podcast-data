@@ -1,0 +1,305 @@
+{
+  "1": {
+    "Browsers": 3369,
+    "Editing & IDEs": 1266,
+    "Instant Message": 1154,
+    "Calendars": 20,
+    "Uncategorized": 5,
+    "General Utilities": 1
+  },
+  "2": {
+    "Browsers": 14799,
+    "Editing & IDEs": 5979,
+    "Instant Message": 2703,
+    "Meetings": 1346,
+    "Calendars": 459,
+    "General Utilities": 254,
+    "Uncategorized": 60,
+    "Voice Chat": 11,
+    "Internet Utilities": 7
+  },
+  "3": {
+    "Browsers": 1119,
+    "Editing & IDEs": 344,
+    "Instant Message": 219,
+    "Uncategorized": 2
+  },
+  "4": {
+    "Browsers": 3853,
+    "General Shopping": 696,
+    "Instant Message": 384,
+    "Calendars": 197,
+    "Photos": 90,
+    "Editing & IDEs": 48,
+    "Uncategorized": 17,
+    "General Utilities": 12,
+    "Maps & Regional": 5,
+    "General Reference & Learning": 3
+  },
+  "5": {
+    "Editing & IDEs": 10611,
+    "Browsers": 9276,
+    "Instant Message": 2530,
+    "Meetings": 2361,
+    "Uncategorized": 313,
+    "Calendars": 200,
+    "General Utilities": 5
+  },
+  "6": {
+    "Browsers": 12436,
+    "Editing & IDEs": 6560,
+    "Instant Message": 5247,
+    "Meetings": 2242,
+    "Calendars": 235,
+    "General Utilities": 58,
+    "General Reference & Learning": 30,
+    "General Business": 28,
+    "Uncategorized": 14,
+    "Customer Relations": 7,
+    "Internet Utilities": 5
+  },
+  "7": {
+    "Browsers": 13058,
+    "Editing & IDEs": 12391,
+    "Instant Message": 3558,
+    "Meetings": 2369,
+    "Calendars": 281,
+    "Uncategorized": 126,
+    "Maps & Regional": 19,
+    "Voice Chat": 13
+  },
+  "8": {
+    "Browsers": 16391,
+    "Editing & IDEs": 4129,
+    "Instant Message": 3035,
+    "Meetings": 1498,
+    "Internet Utilities": 290,
+    "Calendars": 115,
+    "General Utilities": 17,
+    "Uncategorized": 16,
+    "General Reference & Learning": 14,
+    "Travel & Outdoors": 12
+  },
+  "9": {
+    "Browsers": 5346,
+    "Editing & IDEs": 3633,
+    "Instant Message": 2385,
+    "Meetings": 604,
+    "Calendars": 345,
+    "Uncategorized": 16,
+    "General Utilities": 7
+  },
+  "10": {},
+  "11": {
+    "Browsers": 3133,
+    "Editing & IDEs": 1069,
+    "Instant Message": 1037,
+    "General Utilities": 254,
+    "Uncategorized": 135,
+    "Calendars": 27,
+    "Photos": 7,
+    "Voice Chat": 4
+  },
+  "12": {
+    "Browsers": 14906,
+    "Editing & IDEs": 10866,
+    "Meetings": 4788,
+    "Instant Message": 2840,
+    "Calendars": 437,
+    "Uncategorized": 127,
+    "General Utilities": 88,
+    "Intelligence": 4,
+    "Internet Utilities": 3,
+    "Systems Operations": 1
+  },
+  "13": {
+    "Editing & IDEs": 11855,
+    "Browsers": 8150,
+    "Meetings": 2355,
+    "Instant Message": 2298,
+    "Calendars": 239,
+    "Uncategorized": 92,
+    "General Business": 10,
+    "General Utilities": 9,
+    "Voice Chat": 6,
+    "Writing": 2
+  },
+  "14": {
+    "Browsers": 12531,
+    "Editing & IDEs": 3802,
+    "Instant Message": 2460,
+    "Calendars": 324,
+    "Meetings": 230,
+    "General Utilities": 73,
+    "General Reference & Learning": 45,
+    "Uncategorized": 23,
+    "General Communication & Scheduling": 7,
+    "Intelligence": 2
+  },
+  "15": {
+    "Browsers": 8722,
+    "Editing & IDEs": 7838,
+    "Meetings": 4471,
+    "Instant Message": 988,
+    "Calendars": 69,
+    "Uncategorized": 22,
+    "Voice Chat": 6
+  },
+  "16": {
+    "Browsers": 10663,
+    "Editing & IDEs": 5363,
+    "Instant Message": 1178,
+    "Calendars": 227,
+    "Photos": 112,
+    "Internet Utilities": 78,
+    "General Design & Composition": 74,
+    "General Utilities": 73,
+    "Meetings": 51,
+    "Uncategorized": 32,
+    "General Reference & Learning": 14,
+    "Voice Chat": 7
+  },
+  "17": {
+    "Editing & IDEs": 2355,
+    "Browsers": 1319,
+    "Instant Message": 372,
+    "Calendars": 7,
+    "Uncategorized": 3
+  },
+  "18": {
+    "Editing & IDEs": 4094,
+    "Browsers": 2813,
+    "Instant Message": 247,
+    "Uncategorized": 22,
+    "General Utilities": 9,
+    "Calendars": 8
+  },
+  "19": {
+    "Editing & IDEs": 4440,
+    "Browsers": 4238,
+    "Instant Message": 626,
+    "Calendars": 104,
+    "Uncategorized": 43,
+    "General Utilities": 33,
+    "Photos": 21,
+    "Customer Relations": 3,
+    "Internet Utilities": 1
+  },
+  "20": {
+    "Editing & IDEs": 16997,
+    "Browsers": 15843,
+    "Instant Message": 3364,
+    "Meetings": 2067,
+    "Calendars": 180,
+    "Uncategorized": 154,
+    "Maps & Regional": 8,
+    "Voice Chat": 6
+  },
+  "21": {
+    "Browsers": 12857,
+    "Editing & IDEs": 12807,
+    "Instant Message": 2679,
+    "Meetings": 2315,
+    "Calendars": 247,
+    "General Utilities": 64,
+    "Uncategorized": 23,
+    "Systems Operations": 7,
+    "Internet Utilities": 2,
+    "Voice Chat": 1
+  },
+  "22": {
+    "Editing & IDEs": 9020,
+    "Browsers": 4660,
+    "Instant Message": 1147,
+    "Calendars": 36,
+    "General Utilities": 14,
+    "Uncategorized": 10,
+    "Voice Chat": 4,
+    "Intelligence": 2
+  },
+  "23": {
+    "Browsers": 10580,
+    "Meetings": 4881,
+    "Editing & IDEs": 1882,
+    "Instant Message": 309,
+    "Calendars": 216,
+    "General Utilities": 22,
+    "Uncategorized": 9,
+    "Internet Utilities": 8,
+    "Voice Chat": 4
+  },
+  "24": {
+    "Editing & IDEs": 4105,
+    "Browsers": 1815,
+    "Meetings": 523,
+    "Calendars": 234,
+    "Instant Message": 107,
+    "General Utilities": 10,
+    "General Reference & Learning": 7,
+    "Uncategorized": 4
+  },
+  "25": {
+    "Editing & IDEs": 4981,
+    "Browsers": 1030,
+    "Uncategorized": 3,
+    "General Utilities": 1
+  },
+  "26": {
+    "Browsers": 12839,
+    "Editing & IDEs": 5641,
+    "Meetings": 3848,
+    "Instant Message": 2032,
+    "Calendars": 337,
+    "General Utilities": 132,
+    "Voice Chat": 13,
+    "Uncategorized": 9,
+    "Maps & Regional": 9
+  },
+  "27": {
+    "Browsers": 11358,
+    "Editing & IDEs": 9215,
+    "Meetings": 5180,
+    "Instant Message": 2922,
+    "Calendars": 453,
+    "Uncategorized": 53,
+    "General Communication & Scheduling": 26,
+    "General Utilities": 11,
+    "Customer Relations": 7
+  },
+  "28": {
+    "Browsers": 3727,
+    "Editing & IDEs": 2187,
+    "Instant Message": 1619,
+    "Uncategorized": 297,
+    "General Reference & Learning": 94,
+    "General Utilities": 50,
+    "Calendars": 41,
+    "Systems Operations": 1,
+    "Voice Chat": 1
+  },
+  "29": {
+    "Browsers": 11634,
+    "Editing & IDEs": 9320,
+    "Instant Message": 3377,
+    "Meetings": 3362,
+    "Calendars": 795,
+    "Uncategorized": 53,
+    "Internet Utilities": 27,
+    "Voice Chat": 2
+  },
+  "30": {
+    "Browsers": 8802,
+    "Editing & IDEs": 5811,
+    "Instant Message": 648,
+    "Calendars": 143,
+    "Uncategorized": 20,
+    "Voice Chat": 9,
+    "General Utilities": 5,
+    "General Entertainment": 3
+  },
+  "31": {
+    "Editing & IDEs": 903,
+    "Browsers": 599,
+    "Uncategorized": 1
+  }
+}

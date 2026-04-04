@@ -1,0 +1,557 @@
+[
+  {
+    "created_at": "Sat Apr 15 20:41:35 +0000 2023",
+    "id": 1647339407173664800,
+    "id_str": "1647339407173664772",
+    "text": "OpenAssistant is officially released!\n\nOpenAssistant is an open-source chat model. The release includes models, dat… https://t.co/H9YamSQGUX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/H9YamSQGUX",
+          "expanded_url": "https://twitter.com/i/web/status/1647339407173664772",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3448284313,
+      "id_str": "3448284313",
+      "name": "elvis",
+      "screen_name": "omarsar0",
+      "location": "",
+      "description": "Machine Learning & NLP • Building @dair_ai • Previously: Meta AI, Galactica LLM, Papers with Code, Elastic, PhD • Exploring and building with LLMs",
+      "url": "https://t.co/o4KzoHf52W",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/o4KzoHf52W",
+              "expanded_url": "https://www.promptingguide.ai/",
+              "display_url": "promptingguide.ai",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 137666,
+      "friends_count": 372,
+      "listed_count": 2525,
+      "created_at": "Fri Sep 04 12:59:26 +0000 2015",
+      "favourites_count": 22511,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8880,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3448284313/1565974901",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 468,
+    "favorite_count": 2064,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 15 19:57:46 +0000 2023",
+    "id": 1647328379266551800,
+    "id_str": "1647328379266551808",
+    "text": "What have the eight ex-Google Brain authors of the Transformers paper been doing since December 2017? 🧐 \n\nLet’s fin… https://t.co/jwK0SFQ17V",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jwK0SFQ17V",
+          "expanded_url": "https://twitter.com/i/web/status/1647328379266551808",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1648999932,
+      "id_str": "1648999932",
+      "name": "JJ",
+      "screen_name": "JosephJacks_",
+      "location": "🌱",
+      "description": "Accelerating an Open Future @OSSCapital",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 13644,
+      "friends_count": 3,
+      "listed_count": 508,
+      "created_at": "Tue Aug 06 00:23:53 +0000 2013",
+      "favourites_count": 97165,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35746,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1585009019374034944/lGfsV8XD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1585009019374034944/lGfsV8XD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648999932/1679891020",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 647,
+    "favorite_count": 3789,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 15 17:38:29 +0000 2023",
+    "id": 1647293329724285000,
+    "id_str": "1647293329724284928",
+    "text": "-----BEGIN PRIVATE KEY----- https://t.co/bppljUx1nd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bppljUx1nd",
+          "expanded_url": "https://twitter.com/ladygaga/status/266036172122365952",
+          "display_url": "twitter.com/ladygaga/statu…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3435721257,
+      "id_str": "3435721257",
+      "name": "Even Stensberg",
+      "screen_name": "evenstensberg",
+      "location": "Norway 🇳🇴",
+      "description": "SWE ⚒️ Focusing on webdev & Front End tooling🦩 @webpack/@rstructe maintainer. 🦀 Current: https://t.co/TBcTPlh365🧑🏾‍💻",
+      "url": "https://t.co/VuqbbZiRka",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/VuqbbZiRka",
+              "expanded_url": "https://bento.me/even",
+              "display_url": "bento.me/even",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/TBcTPlh365",
+              "expanded_url": "http://studix.com",
+              "display_url": "studix.com",
+              "indices": [
+                89,
+                112
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1815,
+      "friends_count": 1468,
+      "listed_count": 133,
+      "created_at": "Sat Aug 22 18:23:20 +0000 2015",
+      "favourites_count": 24885,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5503,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1587973272850792449/AeX2_5kw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587973272850792449/AeX2_5kw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3435721257/1667437306",
+      "profile_link_color": "465E69",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 266036172122365950,
+    "quoted_status_id_str": "266036172122365952",
+    "quoted_status": {
+      "created_at": "Wed Nov 07 04:35:40 +0000 2012",
+      "id": 266036172122365950,
+      "id_str": "266036172122365952",
+      "text": "AAAAAAAAAAAAAHHHHHRHRGRGRGRRRGURBHJB EORWPSOJWPJORGWOIRGWSGODEWPGOHEPW09GJEDPOKSD!!!!!!!!!!!!!!!0924QU8T63095JRGHWPE09UJ0PWHRGW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14230524,
+        "id_str": "14230524",
+        "name": "Lady Gaga",
+        "screen_name": "ladygaga",
+        "location": "",
+        "description": "THE CHROMATICA BALL ⚔️💓 | Hold My Hand ✈️ Out Now | HAUS LABS 💄 @hauslabs | Love For Sale 🎺 Out Now https://t.co/CO0n8zLh7T",
+        "url": "https://t.co/BaPZcMQV2f",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BaPZcMQV2f",
+                "expanded_url": "https://ladygaga.lnk.to/HoldMyHand",
+                "display_url": "ladygaga.lnk.to/HoldMyHand",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/CO0n8zLh7T",
+                "expanded_url": "https://TonyGaga.lnk.to/LoveForSale",
+                "display_url": "TonyGaga.lnk.to/LoveForSale",
+                "indices": [
+                  100,
+                  123
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 84600806,
+        "friends_count": 115464,
+        "listed_count": 200095,
+        "created_at": "Wed Mar 26 22:37:48 +0000 2008",
+        "favourites_count": 2986,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9943,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "0A090A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1548557958564364289/6ewE00_O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1548557958564364289/6ewE00_O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14230524/1658039973",
+        "profile_link_color": "050505",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 289379,
+      "favorite_count": 628275,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in"
+    },
+    "retweet_count": 577,
+    "favorite_count": 4302,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 15 17:10:26 +0000 2023",
+    "id": 1647286271008551000,
+    "id_str": "1647286271008550923",
+    "text": "a tip i got from @daltonc during YC worth sharing:\n\ndont cheap out on one-off expenses \n\n- dont buy cheap/bad lapto… https://t.co/J53fJMwlcH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "daltonc",
+          "name": "Dalton Caldwell",
+          "id": 9151842,
+          "id_str": "9151842",
+          "indices": [
+            17,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J53fJMwlcH",
+          "expanded_url": "https://twitter.com/i/web/status/1647286271008550923",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1004742187,
+      "id_str": "1004742187",
+      "name": "Peer Richelsen 🗓🍊⚡️",
+      "screen_name": "peer_rich",
+      "location": "",
+      "description": "Co-CEO https://t.co/oh9qdi79Qv @calcom 🗓 open source, open heart, open mind. ⚡ #nostr: https://t.co/7EHLYxElC9 & https://t.co/vL7ncOgU9L maintainer – https://t.co/DIYrDH2bho",
+      "url": "https://t.co/Q5gt6s1kya",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Q5gt6s1kya",
+              "expanded_url": "http://cal.com/peer",
+              "display_url": "cal.com/peer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/oh9qdi79Qv",
+              "expanded_url": "http://Cal.com",
+              "display_url": "Cal.com",
+              "indices": [
+                7,
+                30
+              ]
+            },
+            {
+              "url": "https://t.co/7EHLYxElC9",
+              "expanded_url": "http://no.str.bio/peer",
+              "display_url": "no.str.bio/peer",
+              "indices": [
+                87,
+                110
+              ]
+            },
+            {
+              "url": "https://t.co/vL7ncOgU9L",
+              "expanded_url": "http://nostrgit.com",
+              "display_url": "nostrgit.com",
+              "indices": [
+                113,
+                136
+              ]
+            },
+            {
+              "url": "https://t.co/DIYrDH2bho",
+              "expanded_url": "http://nostrlabs.org",
+              "display_url": "nostrlabs.org",
+              "indices": [
+                150,
+                173
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 11576,
+      "friends_count": 3223,
+      "listed_count": 327,
+      "created_at": "Tue Dec 11 19:38:18 +0000 2012",
+      "favourites_count": 62917,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 29943,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1623291991709700097/aBL_VpMC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623291991709700097/aBL_VpMC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1004742187/1632848128",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 133,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
