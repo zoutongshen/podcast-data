@@ -1,0 +1,5516 @@
+[
+  {
+    "uuid": "03aa9370-cff8-0137-1e1b-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "What's Next｜科技早知道",
+    "author": "声动活泼",
+    "description": "原「硅谷早知道」，全新改版的「What's Next｜科技早知道」我们会继续放眼全球，不仅聚焦纯科技的话题，也会关注科技引领世界以及商业格局变化等新话题。\n新一季我们的节目会由多个模块共同组成，除了延续我们以往不同科技领域新技术新动向的话题，我们也会加入出海、多视角解读科技行业大事件。\n本节目由声动活泼制作播出。",
+    "url": "https://guiguzaozhidao.fireside.fm",
+    "lastEpisodePublished": "2026-04-01T09:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "10625ef8-4bcd-4c10-879e-bb90582ee637",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:53.223Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "原「硅谷早知道」&#xff0c;全新改版的「What&#39;s Next&#xff5c;科技早知道」我们会继续放眼全球&#xff0c;不仅聚焦纯科技的话题&#xff0c;也会关注科技引领世界以及商业格局变化等新话题。<br />新一季我们的节目会由多个模块共同组成&#xff0c;除了延续我们以往不同科技领域新技术新动向的话题&#xff0c;我们也会加入出海、多视角解读科技行业大事件。<br />本节目由声动活泼制作播出。",
+    "isPrivate": false,
+    "slug": "whats-next科技早知道"
+  },
+  {
+    "uuid": "06122770-1538-0139-41e7-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "没折腰FM",
+    "author": "空山",
+    "description": "我们对同一部电影的理解如此大相径庭，因而试图说明彼此的理解可以变为一场生机勃勃的对话。\n\n“客观”往往是用一个错误的词汇形容“这个人的观点跟朕差不多”，或者“这个人把优缺点都说了下而且没冒犯我”。世界上没有客观的影评、客观的审美。\n\n公号：没折腰\n微博：空山daily\n读者来信+商务合作：meizheyao@outlook.com\n\n*不接影视行业软广，不做在映/在播作品主创访谈",
+    "url": "https://www.ximalaya.com/album/43584169",
+    "lastEpisodePublished": "2026-03-18T00:58:03Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "77b3910b-d884-4a8b-acdc-f6f179495222",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "531726e0-0604-4742-ab94-45c375f74d8b",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:54.560Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "我们对同一部电影的理解如此大相径庭&#xff0c;因而试图说明彼此的理解可以变为一场生机勃勃的对话。<br /><br />“客观”往往是用一个错误的词汇形容“这个人的观点跟朕差不多”&#xff0c;或者“这个人把优缺点都说了下而且没冒犯我”。世界上没有客观的影评、客观的审美。<br /><br />公号&#xff1a;没折腰<br />微博&#xff1a;空山daily<br />读者来信&#43;商务合作&#xff1a;meizheyao&#64;outlook.com<br /><br />*不接影视行业软广&#xff0c;不做在映/在播作品主创访谈",
+    "isPrivate": false,
+    "slug": "没折腰fm"
+  },
+  {
+    "uuid": "062dc5b0-f5fc-0131-98b1-5f4c86fd3263",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "野史下酒｜有趣的历史故事",
+    "author": "恶霸波",
+    "description": "人生总有酸甜苦辣，梦里浮现魑魅魍魉。合卷难掩功名利禄，举杯溢满贪嗔痴狂。",
+    "url": "https://www.ximalaya.com/album/264295",
+    "lastEpisodePublished": "2026-03-31T12:48:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6dafc7b3-caec-48fa-b14a-6e9b57a5c8ca",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "defa22a6-f1bb-43bf-a87f-79af7e796ea1",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:57.349Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>人生总有酸甜苦辣&#xff0c;</p><p>梦里浮现魑魅魍魉。</p><p>合卷难掩功名利禄&#xff0c;</p><p>举杯溢满贪嗔痴狂。</p>",
+    "isPrivate": false,
+    "slug": "野史下酒有趣的历史故事"
+  },
+  {
+    "uuid": "079dcb50-a051-0134-9123-3327a14bcdba",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "声东击西",
+    "author": "ETW Studio",
+    "description": "社会剧烈变动，我们如何理解自己所处的坐标？\n作为拥有记者背景的观察者和记录者，我们以审慎的视角捕捉当下的社会切片，不仅对话提供启发的专业人士，也记录那些身处风暴中心的个体叙事。\n声东击西试图推开那些被日常限制的窗户，通过创新的声音实验与深度访谈，帮你厘清社会变迁的脉络，并探寻这些宏大变化如何真实地投影在你我的生活之中。\n🎙 本节目由声动活泼制作播出",
+    "url": "http://etw.fm",
+    "lastEpisodePublished": "2026-04-02T10:15:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "41993a15-03f3-4243-9043-2038f06767a9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:54.754Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "社会剧烈变动&#xff0c;我们如何理解自己所处的坐标&#xff1f;<br />作为拥有记者背景的观察者和记录者&#xff0c;我们以审慎的视角捕捉当下的社会切片&#xff0c;不仅对话提供启发的专业人士&#xff0c;也记录那些身处风暴中心的个体叙事。<br />声东击西试图推开那些被日常限制的窗户&#xff0c;通过创新的声音实验与深度访谈&#xff0c;帮你厘清社会变迁的脉络&#xff0c;并探寻这些宏大变化如何真实地投影在你我的生活之中。<br />&#x1f399; 本节目由声动活泼制作播出",
+    "isPrivate": false,
+    "slug": "声东击西"
+  },
+  {
+    "uuid": "07cf0710-e9aa-013a-da19-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "三言两语 | 脱口秀演员闲谈录",
+    "author": "三言两语播客",
+    "description": "拒绝EMO，FUN肆笑。这是一档由「肆笑喜剧」出品的播客节目，每期话题我们都会邀请单口喜剧演员和观众一起：聊一聊八卦、抖一抖不太好笑的包袱；听搞笑段子、说有的没的。\n公众号「肆笑喜剧」回复「三言两语」，进播客听友群&参与现场录制~",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/60ed7b3a8d856ac2965d7ee6?utm_source=rss",
+    "lastEpisodePublished": "2026-03-29T16:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "636e9b4b-158b-47e9-82a5-67a960ae3c36",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:50.836Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "拒绝EMO&#xff0c;FUN肆笑。这是一档由「肆笑喜剧」出品的播客节目&#xff0c;每期话题我们都会邀请单口喜剧演员和观众一起&#xff1a;聊一聊八卦、抖一抖不太好笑的包袱&#xff1b;听搞笑段子、说有的没的。<br />公众号「肆笑喜剧」回复「三言两语」&#xff0c;进播客听友群&amp;参与现场录制~",
+    "isPrivate": false,
+    "slug": "三言两语-脱口秀演员闲谈录"
+  },
+  {
+    "uuid": "0930f560-83b5-0138-ee27-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "中间地带",
+    "author": "海博",
+    "description": "「中间地带」是一档关注商业、文化、历史的演进的播客节目。商业进程、文化现象、历史书写从来不是单独存在，它是社会系统的反应。说回来，关注这些终归是对现实社会的理解与回应：社会的运行机制和发展历程，社会中人和人群的行为逻辑和思维方式，社会与其环境的互动方式和历史路径。",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/5ece95fa418a84a046b9db3b?utm_source=rss",
+    "lastEpisodePublished": "2026-03-10T23:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "2dcb628c-5f34-4b46-b47e-fb4435fdf041",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:57.006Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "「中间地带」是一档关注商业、文化、历史的演进的播客节目。商业进程、文化现象、历史书写从来不是单独存在&#xff0c;它是社会系统的反应。说回来&#xff0c;关注这些终归是对现实社会的理解与回应&#xff1a;社会的运行机制和发展历程&#xff0c;社会中人和人群的行为逻辑和思维方式&#xff0c;社会与其环境的互动方式和历史路径。",
+    "isPrivate": false,
+    "slug": "中间地带"
+  },
+  {
+    "uuid": "0cc43410-1d2f-012e-0175-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "99% Invisible",
+    "author": "Roman Mars",
+    "description": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
+    "url": "https://www.siriusxm.com",
+    "lastEpisodePublished": "2026-04-03T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "4a0a3c1f-21da-4cd8-b4c0-117abd37e1c1",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "92e3872b-45f1-484f-a7ad-779aa07c08e0",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:54.099Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Design is everywhere in our lives, perhaps most importantly in the places where we&#39;ve just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
+    "isPrivate": false,
+    "slug": "99-invisible"
+  },
+  {
+    "uuid": "0d607840-7e0c-0138-ee06-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "世界莫名其妙物语",
+    "author": "世界莫名其妙物语",
+    "description": "《世界莫名其妙物语》是一档介绍世界中莫名其妙知识的女子相声节目，以科研废料炒冷饭和南京口音说段子为主要卖点，每周一各大播客平台同步更新。曾荣获2021年度苹果最佳播客。",
+    "url": "https://www.ximalaya.com/album/38212408",
+    "lastEpisodePublished": "2026-03-22T21:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6730768e-9113-4e3b-91b0-37bb7d95084e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:31:00.161Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>《世界莫名其妙物语》是一档介绍世界中莫名其妙知识的女子相声节目&#xff0c;以科研废料炒冷饭和南京口音说段子为主要卖点&#xff0c;每周一各大播客平台同步更新。曾荣获2021年度苹果最佳播客。</p>",
+    "isPrivate": false,
+    "slug": "世界莫名其妙物语"
+  },
+  {
+    "uuid": "0e3b1080-a5d4-012e-56d0-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Wait Wait... Don't Tell Me!",
+    "author": "NPR",
+    "description": "NPR's weekly news quiz hosted by Peter Sagal. Have a laugh and test your knowledge with today's funniest comedians and a celebrity guest.Hate free content? Try a subscription to Wait Wait... Don't Tell Me!+. Your subscription supports public radio and unlocks fun bonus episodes along with sponsor-free listening. Learn more at https://plus.npr.org/waitwait",
+    "url": "https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me",
+    "lastEpisodePublished": "2026-04-04T08:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "56014125-37fc-4d3d-a6e3-347b17445b53",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 4,
+    "dateAdded": "2025-07-07T21:30:56.493Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "NPR&#39;s weekly news quiz hosted by Peter Sagal. Have a laugh and test your knowledge with today&#39;s funniest comedians and a celebrity guest.<em><br /><br /></em><em>Hate free content? Try a subscription to Wait Wait... Don&#39;t Tell Me!&#43;. Your subscription supports public radio and unlocks fun bonus episodes along with sponsor-free listening. Learn more at </em><em>https://plus.npr.org/waitwait</em>",
+    "isPrivate": false,
+    "slug": "wait-wait-dont-tell-me"
+  },
+  {
+    "uuid": "12012c20-0423-012e-f9a0-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Stuff You Should Know",
+    "author": "iHeartPodcasts",
+    "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
+    "url": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/",
+    "lastEpisodePublished": "2026-04-04T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d60e3fd3-60fc-4b26-88f9-884301d10bd5",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 5,
+    "dateAdded": "2025-07-07T21:30:51.786Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "If you&#39;ve ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
+    "isPrivate": false,
+    "slug": "stuff-you-should-know"
+  },
+  {
+    "uuid": "180e00a0-0626-0131-cbb1-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "段子来了",
+    "author": "采采",
+    "description": "每天笑一笑，烦恼都忘掉，微信公众号：采采，微博@1053采采，喜马拉雅ID：采采。",
+    "url": "https://www.ximalaya.com/album/203355",
+    "lastEpisodePublished": "2026-04-03T19:25:14Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d4360965-b645-40f5-ad6b-352f21754d79",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:56.243Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "每天笑一笑&#xff0c;烦恼都忘掉&#xff0c;微信公众号&#xff1a;采采&#xff0c;微博&#64;1053采采&#xff0c;喜马拉雅ID&#xff1a;采采。",
+    "isPrivate": false,
+    "slug": "段子来了"
+  },
+  {
+    "uuid": "19c9e960-efdd-0138-e80b-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Maintenance Phase",
+    "author": "Aubrey Gordon & Michael Hobbes",
+    "description": "Debunking the junk science behind health fads, wellness scams and nonsensical nutrition advice.",
+    "url": "http://maintenancephase.com",
+    "lastEpisodePublished": "2026-04-01T09:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "77d53a63-577c-4f75-adac-9a9e07a6aea9",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 18,
+    "dateAdded": "2025-12-16T03:02:28.544Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:08:00.110Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:08:00.110Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Debunking the junk science behind health fads, wellness scams and nonsensical nutrition advice.",
+    "isPrivate": false,
+    "slug": "maintenance-phase"
+  },
+  {
+    "uuid": "25cfb930-2985-013a-d60e-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "晚点聊 LateTalk",
+    "author": "晚点 LatePost",
+    "description": "《晚点聊 LateTalk》由《晚点 LatePost》出品。\n最一手的科技访谈，最真实的从业者思考。",
+    "url": "https://podcast.latepost.com",
+    "lastEpisodePublished": "2026-04-02T09:45:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9f6a422c-1d2d-446a-bd6d-b549d325b886",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:51.993Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "《晚点聊 LateTalk》由《晚点 LatePost》出品。<br />最一手的科技访谈&#xff0c;最真实的从业者思考。",
+    "isPrivate": false,
+    "slug": "晚点聊-latetalk"
+  },
+  {
+    "uuid": "25eb0010-dfda-012e-dbd6-525400c11844",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Monocle Daily",
+    "author": "Monocle",
+    "description": "Hear our take on the news and enjoy sharp reporting on the big stories every weekday. Tune in as our guest panel reviews the day’s events in Europe, follows developing stories in the Americas and welcomes early risers in Asia and Australasia. Plus: reports and analysis from Monocle’s correspondents and bureaux around the world. Nominated for ‘Best Daily Podcast’ in the 2022 British Podcast Awards. ",
+    "url": "https://monocle.com/radio/shows/the-monocle-daily/",
+    "lastEpisodePublished": "2026-04-03T17:45:48Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "7962c38a-9075-4b8e-ac89-2a6c0983289c",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 22,
+    "dateAdded": "2026-02-21T23:52:18.005Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": false
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": false
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Hear our take on the news and enjoy sharp reporting on the big stories every weekday. Tune in as our guest panel reviews the day’s events in Europe, follows developing stories in the Americas and welcomes early risers in Asia and Australasia. Plus: reports and analysis from Monocle’s correspondents and bureaux around the world. Nominated for ‘Best Daily Podcast’ in the 2022 British Podcast Awards. </p>",
+    "isPrivate": false,
+    "slug": "the-monocle-daily"
+  },
+  {
+    "uuid": "299aad50-48a3-0138-976e-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "All-In with Chamath, Jason, Sacks & Friedberg",
+    "author": "All-In Podcast, LLC",
+    "description": "Industry veterans, degenerate gamblers & besties Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.",
+    "url": "http://allinchamathjason.libsyn.com/website",
+    "lastEpisodePublished": "2026-04-03T21:08:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8d0f7673-2b32-47e2-acc5-f519d2569d82",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:55.088Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Industry veterans, degenerate gamblers &amp; besties Chamath Palihapitiya, Jason Calacanis, David Sacks &amp; David Friedberg cover all things economic, tech, political, social &amp; poker.",
+    "isPrivate": false,
+    "slug": "all-in-with-chamath-jason-sacks-friedberg"
+  },
+  {
+    "uuid": "2ac13080-6199-012f-1423-525400c11844",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Bookclub",
+    "author": "BBC Radio 4",
+    "description": "Led by James Naughtie, a group of readers talk to acclaimed authors about their best-known novels",
+    "url": "http://www.bbc.co.uk/programmes/b006s5sf",
+    "lastEpisodePublished": "2026-03-01T16:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9261bd4f-b74c-4146-a481-c2e02fa7ff6a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:53.712Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Led by James Naughtie, a group of readers talk to acclaimed authors about their best-known novels</p>",
+    "isPrivate": false,
+    "slug": "bookclub"
+  },
+  {
+    "uuid": "2ae03fe0-b8a1-013a-d902-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "半拿铁 | 商业沉浮录",
+    "author": "潇磊&刘飞",
+    "description": "商业不枯燥财经媒体人和互联网老兵陪你闲聊商业见闻。来杯半拿铁，边喝边唠。",
+    "url": "https://www.ximalaya.com/album/60629838",
+    "lastEpisodePublished": "2026-04-01T12:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "80098041-4636-4f19-8f70-0bd99c007a2f",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "sortPosition": 4,
+    "dateAdded": "2025-07-07T21:30:59.836Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>商业不枯燥</p><p>财经媒体人和互联网老兵陪你闲聊商业见闻。</p><p>来杯半拿铁&#xff0c;边喝边唠。<br /></p>",
+    "isPrivate": false,
+    "slug": "半拿铁-商业沉浮录"
+  },
+  {
+    "uuid": "2f4eb300-c469-013c-5cbf-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "FarmRPG: The Podcast",
+    "author": "boobun",
+    "description": "Join boobun and Forcepath to talk about Farm RPG, a mobile farming RPG / MMO game where you start a farm, plant crops, fish, craft and explore. Available on iOS, Android, Web",
+    "url": "Https://play.farmRPG.com",
+    "lastEpisodePublished": "2026-02-06T23:39:04Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "e50b732e-50df-4d4d-a0f4-2625eb925a12",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 5,
+    "dateAdded": "2025-07-07T21:30:57.182Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>Join boobun and Forcepath to talk about Farm RPG, a mobile farming RPG / MMO game where you start a farm, plant crops, fish, craft and explore. Available on iOS, Android, Web</p>",
+    "isPrivate": false,
+    "slug": "farmrpg-the-podcast"
+  },
+  {
+    "uuid": "3251ddb0-bb20-0133-2e57-6dc413d6d41d",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Learn Cantonese Daily",
+    "author": "InspirLang",
+    "description": "Listen to our weekly podcast to build up your Cantonese vocabulary on the go! We offer Zoom classes for you to join from wherever you are: https://inspirlang.com/zoom. Our book is also available at www.inspirlang.com/lovecanto",
+    "url": "https://www.podomatic.com/podcasts/inspiringjade",
+    "lastEpisodePublished": "2025-05-17T00:06:14Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9908b9a4-945d-4851-8284-3eeb16d9f69f",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:57.805Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Listen to our weekly podcast to build up your Cantonese vocabulary on the go! We offer Zoom classes for you to join from wherever you are: https://inspirlang.com/zoom. Our book is also available at www.inspirlang.com/lovecanto",
+    "isPrivate": false,
+    "slug": "learn-cantonese-daily"
+  },
+  {
+    "uuid": "34d9da90-59e1-012e-229c-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Ask Penguin",
+    "author": "Penguin Books UK",
+    "description": "What should I read next? Ask Penguin is the podcast where your quirkiest, trickiest, and most urgent book questions get answered. Hosted by Rhianna Dhillon, we bring bestselling authors and Penguin insiders to explore some of your favourite books and discover new ones that you are yet to read.  Hosted on Acast. See acast.com/privacy for more information.",
+    "url": "https://www.penguin.co.uk/discover/podcast",
+    "lastEpisodePublished": "2026-02-13T00:01:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "122b8fd2-9625-4584-b231-3e093b95f7c2",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:31:00.504Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "What should I read next? Ask Penguin is the podcast where your quirkiest, trickiest, and most urgent book questions get answered. Hosted by Rhianna Dhillon, we bring bestselling authors and Penguin insiders to explore some of your favourite books and discover new ones that you are yet to read. <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
+    "isPrivate": false,
+    "slug": "ask-penguin"
+  },
+  {
+    "uuid": "352a0f50-e9b8-0137-b6ef-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "谐星聊天会",
+    "author": "谐星聊天会",
+    "description": "谐星聊天会是一档单口喜剧演员与听众一同线下录制完成的音频节目，用幽默开解生活中的沉杂琐事！",
+    "url": "https://www.ximalaya.com/album/30516031",
+    "lastEpisodePublished": "2025-12-31T00:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "7b1c9f85-6e14-487c-9418-4880d15704a1",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:31:00.866Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "谐星聊天会是一档单口喜剧演员与听众一同线下录制完成的音频节目&#xff0c;用幽默开解生活中的沉杂琐事&#xff01;",
+    "isPrivate": false,
+    "slug": "谐星聊天会"
+  },
+  {
+    "uuid": "3b23efd0-ce45-0136-3246-08b04944ede4",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "THE INTELLECTUAL DARK WEB PODCAST (HOBBES + LOCKE + ROUSSEAU + US CONSTITUTION in ONE SINGLE BOOK)",
+    "author": "Intellectual Dark Web Podcast",
+    "description": "THE INTELLECTUAL DARK WEB PODCAST \n\nWe Search the Web for the Best Intellectual Dark Web Podcasts, Lectures and Videos that can be understood by merely listening to save YOUR time. Then we make those Intellectual Dark Web Episodes available on Spotify and downloadable.\n\n---\n\nFOR HUMAN RIGHTS, A GLOBAL PEACEFUL WORLD BASED ON FREEDOM, REASON AND PROGRESS. \n\n***NOT AFFILIATED WITH PETER KANZLER OR ANY OF THE SPEAKERS***\n\nThe Leviathan, The Two Treatises of Government, The Social Contract, The Prince and The US Constitution BOUND TOGETHER INTO JUST ONE PRACTICAL BOOK!",
+    "url": "https://www.amazon.com/Leviathan-Treatises-Government-Constitution-Pennsylvania/dp/1716278317",
+    "lastEpisodePublished": "2024-04-16T22:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8dcaf30a-cc1f-452c-8c86-dd2d97559d1e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:53.313Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "",
+    "isPrivate": true,
+    "slug": "the-intellectual-dark-web-podcast-hobbes-locke-rousseau-us-constitution-in-one-single-book"
+  },
+  {
+    "uuid": "40907220-b8ee-0133-2e57-6dc413d6d41d",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "黑水公园",
+    "author": "赵艾文",
+    "description": "黑水公园是一档以电影、剧集、科幻、动漫为载体，畅谈人生的趣谈节目。\n（金花微信：uwwwsc；金花微博：黑水公园_金花）",
+    "url": "https://www.ximalaya.com/album/3558668",
+    "lastEpisodePublished": "2026-04-03T02:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "def41d68-5c9d-4a84-adda-c8768ac2be03",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "531726e0-0604-4742-ab94-45c375f74d8b",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:59.483Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "黑水公园是一档以电影、剧集、科幻、动漫为载体&#xff0c;畅谈人生的趣谈节目。<br />&#xff08;金花微信&#xff1a;uwwwsc&#xff1b;金花微博&#xff1a;黑水公园_金花&#xff09;",
+    "isPrivate": false,
+    "slug": "黑水公园"
+  },
+  {
+    "uuid": "467b49a0-c657-0138-e72e-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Hard Fork",
+    "author": "The New York Times",
+    "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. \n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
+    "url": "https://www.nytimes.com/column/hard-fork",
+    "lastEpisodePublished": "2026-04-03T11:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "589939fc-eddf-406a-a045-3c28572690c3",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:53.832Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-07T21:31:34.658Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. <br /><br />Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source&#61;podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
+    "isPrivate": false,
+    "slug": "hard-fork"
+  },
+  {
+    "uuid": "4978c410-6e64-0139-3438-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "知行小酒馆｜关注投资理财，更关注怎样更好地生活",
+    "author": "有知有行",
+    "description": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。如果你对节目有任何建议，或者有推荐的嘉宾，或者想来小酒馆做客，欢迎在微博@知行小酒馆 或 @有知有行 给我们留言。【联系我们】微博：@知行小酒馆 或 @有知有行 微信公众号：有知有行服务号App：有知有行",
+    "url": "https://www.ximalaya.com/album/46199233",
+    "lastEpisodePublished": "2026-04-03T12:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "11ff3eee-2baa-4cab-821b-7b32e454ae1a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:58.887Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财&#xff0c;更关注怎样更好地生活。在我们看来&#xff0c;投资成功&#xff0c;是我们变成一个更好的人之后&#xff0c;自然的结果。</p><p>如果你对节目有任何建议&#xff0c;或者有推荐的嘉宾&#xff0c;或者想来小酒馆做客&#xff0c;欢迎在微博&#64;知行小酒馆 或 &#64;有知有行 给我们留言。</p><p>【联系我们】</p><p>微博&#xff1a;&#64;知行小酒馆 或 &#64;有知有行 </p><p>微信公众号&#xff1a;有知有行服务号</p><p>App&#xff1a;有知有行</p><br />",
+    "isPrivate": false,
+    "slug": "知行小酒馆关注投资理财更关注怎样更好地生活"
+  },
+  {
+    "uuid": "5cda9490-4117-012e-1622-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Vergecast",
+    "author": "The Verge",
+    "description": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel and David Pierce hang out and make sense of the week’s most important technology news. And every Tuesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours.",
+    "url": "https://www.theverge.com/the-vergecast",
+    "lastEpisodePublished": "2026-04-03T09:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "a42d8237-71ac-4b18-a575-1e1747fa1a29",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "sortPosition": 4,
+    "dateAdded": "2025-07-07T21:30:52.566Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-08-19T02:01:16.749Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-08-19T02:01:16.749Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel and David Pierce hang out and make sense of the week’s most important technology news. And every Tuesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours.",
+    "isPrivate": false,
+    "slug": "the-vergecast"
+  },
+  {
+    "uuid": "65e704e0-3572-0138-9703-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "硅谷101",
+    "author": "硅谷101",
+    "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。\n公众账号：硅谷101\n联系邮箱：podcast@sv101.net",
+    "url": "https://sv101.fireside.fm",
+    "lastEpisodePublished": "2026-04-01T00:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "13d54616-cd08-4d36-80b5-eed237edd21e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:52.088Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "失败、背叛、不被理解&#xff0c;硅谷精神领袖一直都不是完美的存在&#xff1b;他们是科学家&#xff0c;创造者&#xff0c;行动派&#xff0c;他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目&#xff0c;是一档分享当下最新鲜的技术、知识与思想的科技播客。<br />公众账号&#xff1a;硅谷101<br />联系邮箱&#xff1a;podcast&#64;sv101.net",
+    "isPrivate": false,
+    "slug": "硅谷101"
+  },
+  {
+    "uuid": "66648910-39e9-013c-f6ba-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "碳基生物生存指南",
+    "author": "梦妮爱读文献",
+    "description": "用很科学的角度，去爱很鲜活的生命 🌱\n\n=关于主播=\n\n我是梦妮，牛津大学生物医学博士。读博时不爱读文献，现在却在科研数据的坑里越挖越深 🎓\n\n年纪轻轻便腰酸背痛的我，在枸杞秋裤和热水都表示束手无策后，决心利用自己读文献的速度和能力，开辟一条日常实用的生存指南，帮助大家也帮助自己更了解自身，更了解彼此，更了解这个世界 💝\n\n我们接受一切批评和质疑，拒绝玄学养生 🙅🏻‍♀️\n以生物学原理为锚点，高质量数据为支撑产出内容 📚\n这不只是一份人类生存指南，还是猫猫狗狗动物植物..各种各样鲜活生命的说明书 🌱\n\n=节目荣誉=\n\n2024年度 Apple 播客年度编辑精选，2024年度 CPA（Chines Podcast Award）年度播客，2024年小宇宙趋势播客 & 年度特别推荐单集",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/64d8b36380c9ec4c5f22d225?utm_source=rss",
+    "lastEpisodePublished": "2026-03-30T14:27:30Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "40d92d39-c722-424c-9a82-5058c5c63baf",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:53.926Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "用很科学的角度&#xff0c;去爱很鲜活的生命 &#x1f331;<br /><br />&#61;关于主播&#61;<br /><br />我是梦妮&#xff0c;牛津大学生物医学博士。读博时不爱读文献&#xff0c;现在却在科研数据的坑里越挖越深 &#x1f393;<br /><br />年纪轻轻便腰酸背痛的我&#xff0c;在枸杞秋裤和热水都表示束手无策后&#xff0c;决心利用自己读文献的速度和能力&#xff0c;开辟一条日常实用的生存指南&#xff0c;帮助大家也帮助自己更了解自身&#xff0c;更了解彼此&#xff0c;更了解这个世界 &#x1f49d;<br /><br />我们接受一切批评和质疑&#xff0c;拒绝玄学养生 &#x1f645;&#x1f3fb;‍♀️<br />以生物学原理为锚点&#xff0c;高质量数据为支撑产出内容 &#x1f4da;<br />这不只是一份人类生存指南&#xff0c;还是猫猫狗狗动物植物..各种各样鲜活生命的说明书 &#x1f331;<br /><br />&#61;节目荣誉&#61;<br /><br />2024年度 Apple 播客年度编辑精选&#xff0c;2024年度 CPA&#xff08;Chines Podcast Award&#xff09;年度播客&#xff0c;2024年小宇宙趋势播客 &amp; 年度特别推荐单集",
+    "isPrivate": false,
+    "slug": "碳基生物生存指南"
+  },
+  {
+    "uuid": "7160b1f0-4a71-0137-f266-1d245fc5f9cf",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Life Kit",
+    "author": "NPR",
+    "description": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, host Marielle Segarra talks to experts to get the best advice out there. Life Kit is here to help you get it together. Want another life hack? Try Life Kit+. You'll support the show and unlock exclusive curated playlists and sponsor-free listening. Learn more at plus.npr.org/lifekit",
+    "url": "https://www.npr.org/podcasts/510338/all-guides",
+    "lastEpisodePublished": "2026-04-02T07:00:03Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "d95c4da2-e1a2-4901-98c1-a398cc98b973",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 19,
+    "dateAdded": "2025-12-16T03:02:50.546Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:08:00.110Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:08:00.110Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, host Marielle Segarra talks to experts to get the best advice out there. Life Kit is here to help you get it together. <br /><br />Want another life hack? Try Life Kit&#43;. You&#39;ll support the show and unlock exclusive curated playlists and sponsor-free listening. Learn more at plus.npr.org/lifekit",
+    "isPrivate": false,
+    "slug": "life-kit"
+  },
+  {
+    "uuid": "73a8bd60-1b70-013a-d5bb-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "不开玩笑 Jokes Aside",
+    "author": "不开玩笑JokesAside",
+    "description": "一档时而开玩笑，时而不开玩笑的播客。是播客，不是喜剧播客。关注公众号“猫头鹰喜剧”回复“听友群”，小助手会把你拉进群聊～",
+    "url": "https://www.ximalaya.com/album/54201905",
+    "lastEpisodePublished": "2026-04-03T16:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "238f3a32-cc00-44b9-9b46-9960c8a7ea37",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 7,
+    "dateAdded": "2025-07-13T22:04:41.569Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>一档时而开玩笑&#xff0c;时而不开玩笑的播客。是播客&#xff0c;不是喜剧播客。<br />关注公众号“猫头鹰喜剧”回复“听友群”&#xff0c;小助手会把你拉进群聊&#xff5e;<br /><br /></p><br />",
+    "isPrivate": false,
+    "slug": "不开玩笑-jokes-aside"
+  },
+  {
+    "uuid": "7a84abd0-15dd-013c-f5f5-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "福说聊天会",
+    "author": "福立社喜剧",
+    "description": "节目名称：福说聊天会\n节目简介： 起初来自于福州几名脱口秀爱好者之间的闲扯——自己聊天把自己逗笑就太亏了，为啥不录成节目逗笑大家呢？\n\n这是一个杂谈类的播客节目，话题天马行空。偶尔有一些相对小众或专业的话题，我们会以番外篇的方式推出。\n\n我们的初衷就是让大家开心，但是也想尽可能地聊出点东西来，每一期我们会诚挚邀请有趣可爱的朋友，聊一聊他们擅长的话题——有兴趣的你也可以报名哟~\n\n在这个碎片化的快节奏时代，一群陌生人，愿意听我们闲唠嗑，对于讲述者和倾听者，也许都能感受到对方的善意吧！",
+    "url": "https://www.ximalaya.com/album/76735246",
+    "lastEpisodePublished": "2026-03-28T16:01:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "446228e2-4cea-4acf-b8fb-a802fe544ecc",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 20,
+    "dateAdded": "2025-12-16T10:02:59.700Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T10:04:19.333Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T10:04:19.333Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "节目名称&#xff1a;福说聊天会<br />节目简介&#xff1a; 起初来自于福州几名脱口秀爱好者之间的闲扯——自己聊天把自己逗笑就太亏了&#xff0c;为啥不录成节目逗笑大家呢&#xff1f;<br /><br />这是一个杂谈类的播客节目&#xff0c;话题天马行空。偶尔有一些相对小众或专业的话题&#xff0c;我们会以番外篇的方式推出。<br /><br />我们的初衷就是让大家开心&#xff0c;但是也想尽可能地聊出点东西来&#xff0c;每一期我们会诚挚邀请有趣可爱的朋友&#xff0c;聊一聊他们擅长的话题——有兴趣的你也可以报名哟~<br /><br />在这个碎片化的快节奏时代&#xff0c;一群陌生人&#xff0c;愿意听我们闲唠嗑&#xff0c;对于讲述者和倾听者&#xff0c;也许都能感受到对方的善意吧&#xff01;",
+    "isPrivate": false,
+    "slug": "福说聊天会"
+  },
+  {
+    "uuid": "7c6c1c10-8897-0136-7b90-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "无聊斋",
+    "author": "教主_单口喜剧",
+    "description": "在无聊斋，笑着遇见人间。",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/5e280fac418a84a0461fb129?utm_source=rss",
+    "lastEpisodePublished": "2026-03-29T16:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "5d724dcd-e89f-419a-b5db-da7ec47a3754",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:58.570Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "在无聊斋&#xff0c;笑着遇见人间。",
+    "isPrivate": false,
+    "slug": "无聊斋"
+  },
+  {
+    "uuid": "8a778760-a1de-0138-e66a-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "SmartLess",
+    "author": "Jason Bateman, Sean Hayes, Will Arnett",
+    "description": "\"SmartLess\" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early. \nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "url": "https://www.smartless.com/",
+    "lastEpisodePublished": "2026-03-30T07:01:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "afd78e2c-207d-4422-81a5-190de2a8462e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:53.366Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "&#34;SmartLess&#34; with Jason Bateman, Sean Hayes, &amp; Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.<br /><br />Subscribe to SiriusXM Podcasts&#43; to listen to new episodes of SmartLess ad-free and a whole week early. <br />Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "isPrivate": false,
+    "slug": "smartless"
+  },
+  {
+    "uuid": "8d0aa0f0-50fc-013a-d6d9-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "肥话连篇",
+    "author": "肥杰",
+    "description": "我是肥杰（微博：@肥杰_FatJay），喜欢讲有趣的故事，这是我的播客，会有很多欢乐。一起聊天的还有惠子（微博：@惠子老师_），她比我智慧、比我稳重，甚至有时候比我搞笑。每周一更新，偶尔会加更，希望陪你度过美好时光。",
+    "url": "https://www.ximalaya.com/album/56109512",
+    "lastEpisodePublished": "2026-03-29T23:25:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "44e46be1-8669-4158-b3be-9e7bc054762b",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:56.667Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>我是肥杰&#xff08;微博&#xff1a;&#64;肥杰_FatJay&#xff09;&#xff0c;喜欢讲有趣的故事&#xff0c;这是我的播客&#xff0c;会有很多欢乐。<br /><br />一起聊天的还有惠子&#xff08;微博&#xff1a;&#64;惠子老师_&#xff09;&#xff0c;她比我智慧、比我稳重&#xff0c;甚至有时候比我搞笑。<br /><br />每周一更新&#xff0c;偶尔会加更&#xff0c;希望陪你度过美好时光。<br /></p>",
+    "isPrivate": false,
+    "slug": "肥话连篇"
+  },
+  {
+    "uuid": "8d728390-249c-0131-73be-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Making Sense with Sam Harris",
+    "author": "Sam Harris",
+    "description": "Join neuroscientist, philosopher, and five-time New York Times best-selling author Sam Harris as he explores important and controversial questions about the mind, society, current events, moral philosophy, religion, and rationality—with an overarching focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. \n\nSam is also the creator of the Waking Up app. Combining Sam's decades of mindfulness practice, profound wisdom from varied philosophical and contemplative traditions, and a commitment to a secular, scientific worldview, Waking Up is a resource for anyone interested in living a more examined, fulfilling life—and a new operating system for the mind. \n\nWaking Up offers free subscriptions to anyone who can't afford one, and donates a minimum of 10% of profits to the most effective charities around the world. To learn more, please go to WakingUp.com.  \n\nSam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
+    "url": "http://www.samharris.org",
+    "lastEpisodePublished": "2026-03-30T17:40:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a163c88a-75c4-4b2c-8a3c-9f7693d021b5",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:52.021Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Join neuroscientist, philosopher, and five-time New York Times best-selling author Sam Harris as he explores important and controversial questions about the mind, society, current events, moral philosophy, religion, and rationality—with an overarching focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. <br /><br />Sam is also the creator of the Waking Up app. Combining Sam&#39;s decades of mindfulness practice, profound wisdom from varied philosophical and contemplative traditions, and a commitment to a secular, scientific worldview, Waking Up is a resource for anyone interested in living a more examined, fulfilling life—and a new operating system for the mind. <br /><br />Waking Up offers free subscriptions to anyone who can&#39;t afford one, and donates a minimum of 10% of profits to the most effective charities around the world. To learn more, please go to WakingUp.com.  <br /><br />Sam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
+    "isPrivate": false,
+    "slug": "making-sense-with-sam-harris"
+  },
+  {
+    "uuid": "91bd7550-2479-013c-f63c-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "三个火呛手",
+    "author": "思宇_XgEd",
+    "description": "“三个火呛手”是三个同时开始讲脱口秀的喜剧伙伴，一起合计着整一个的播客节目，聊一聊脱口秀行业背后的故事，唠一唠社会上的热点话题，骂一骂那些该骂的人或事，真诚是我们的必杀技，好笑是我们的座右铭。\n\n加听友群，添加V信号：hqs3ge\n\n商务合作请发邮件至 ：hqs3ge@sina.com",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/642ea4a1f54371d8b2d75168?utm_source=rss",
+    "lastEpisodePublished": "2026-04-01T16:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "5006edd1-93f7-4132-8e1f-9683c4e68e1b",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-13T22:05:12.560Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "“三个火呛手”是三个同时开始讲脱口秀的喜剧伙伴&#xff0c;一起合计着整一个的播客节目&#xff0c;聊一聊脱口秀行业背后的故事&#xff0c;唠一唠社会上的热点话题&#xff0c;骂一骂那些该骂的人或事&#xff0c;真诚是我们的必杀技&#xff0c;好笑是我们的座右铭。<br /><br />加听友群&#xff0c;添加V信号&#xff1a;hqs3ge<br /><br />商务合作请发邮件至 &#xff1a;hqs3ge&#64;sina.com",
+    "isPrivate": false,
+    "slug": "三个火呛手"
+  },
+  {
+    "uuid": "9640e5f0-bda1-013a-d91b-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "不明白播客",
+    "author": "袁莉和她的朋友们",
+    "description": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众，在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目，不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。 Hosted on Acast. See acast.com/privacy for more information.",
+    "url": "https://bumingbai.net/",
+    "lastEpisodePublished": "2026-04-03T01:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "1751bddf-3342-4eb8-b3d8-f015893fa534",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 21,
+    "dateAdded": "2026-02-01T00:12:23.682Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": false
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": false
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众&#xff0c;在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目&#xff0c;不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。<p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
+    "isPrivate": false,
+    "slug": "不明白播客"
+  },
+  {
+    "uuid": "968cc2a0-50bd-013c-9eb8-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "What Now? with Trevor Noah",
+    "author": "Trevor Noah",
+    "description": "Trevor currently hosts a weekly podcast titled What Now? with Trevor Noah. In this new podcast, listeners get a chance to hear Trevor like never before. Trevor is joined each episode by celebrities, thought leaders, athletes, and friends to chat about the contemporary topics on everyone’s minds. He brings the kinds of conversations that happen behind the scenes to light - full of radical candor, authentic back-and-forths, and honest reactions, with Trevor bringing to bear his classic, effortlessly playful and equally probing style.\nGet in touch with us! Send your voice recordings to whatnow@dayzeroproductions.com with suggestions for topics, guests, or what you would do If You Ruled the World and we may just use it on the show!\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of What Now ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "url": "https://www.siriusxm.com",
+    "lastEpisodePublished": "2026-04-02T04:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9156853f-b7e6-4373-87fb-9a67944b9273",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:55.493Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Trevor currently hosts a weekly podcast titled What Now? with Trevor Noah. In this new podcast, listeners get a chance to hear Trevor like never before. Trevor is joined each episode by celebrities, thought leaders, athletes, and friends to chat about the contemporary topics on everyone’s minds. He brings the kinds of conversations that happen behind the scenes to light - full of radical candor, authentic back-and-forths, and honest reactions, with Trevor bringing to bear his classic, effortlessly playful and equally probing style.<br />Get in touch with us! Send your voice recordings to whatnow&#64;dayzeroproductions.com with suggestions for topics, guests, or what you would do If You Ruled the World and we may just use it on the show!<br />Subscribe to SiriusXM Podcasts&#43; to listen to new episodes of What Now ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "isPrivate": false,
+    "slug": "what-now-with-trevor-noah"
+  },
+  {
+    "uuid": "98e970a0-aa77-013c-a030-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "李诞",
+    "author": "李诞",
+    "description": "李诞的播客\n\n播客让我有种使用古早互联网的感觉，真诚的分享，遥远的共鸣，匿名般的交流，人与人更显亲密，我好像也不是那么“李诞”了。\n\n我由于说话太多，对自己的话究竟有没有人想听早已失去了判断。\n\n袁袁是我非常信赖的朋友，我们好像都没一起吃过饭，只是聊过几次很长的天，请她来做这个播客的制作人再合适不过。\n\n在这里与你分享我的所见所闻，所思所想，所困所惑。现代生活就是一场茫茫黑夜漫游，因为种种误会我们总希望找到灯塔，总误以为看到了灯塔，然而其实看到的往往只是另一个人晃来晃去的手电。希望这个播客能成为一个照亮你某时某刻的手电，如果不能，那我们就共享黑暗，enjoy！\n\n商务合作：youla@easy-ent.com",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/65bb55f6513a776b57dedb32?utm_source=rss",
+    "lastEpisodePublished": "2026-01-08T16:00:26Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "df26afd8-e04f-4e5a-abf4-567efbcad7b8",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 6,
+    "dateAdded": "2025-07-07T21:30:58.060Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "李诞的播客<br /><br />播客让我有种使用古早互联网的感觉&#xff0c;真诚的分享&#xff0c;遥远的共鸣&#xff0c;匿名般的交流&#xff0c;人与人更显亲密&#xff0c;我好像也不是那么“李诞”了。<br /><br />我由于说话太多&#xff0c;对自己的话究竟有没有人想听早已失去了判断。<br /><br />袁袁是我非常信赖的朋友&#xff0c;我们好像都没一起吃过饭&#xff0c;只是聊过几次很长的天&#xff0c;请她来做这个播客的制作人再合适不过。<br /><br />在这里与你分享我的所见所闻&#xff0c;所思所想&#xff0c;所困所惑。现代生活就是一场茫茫黑夜漫游&#xff0c;因为种种误会我们总希望找到灯塔&#xff0c;总误以为看到了灯塔&#xff0c;然而其实看到的往往只是另一个人晃来晃去的手电。希望这个播客能成为一个照亮你某时某刻的手电&#xff0c;如果不能&#xff0c;那我们就共享黑暗&#xff0c;enjoy&#xff01;<br /><br />商务合作&#xff1a;youla&#64;easy-ent.com",
+    "isPrivate": false,
+    "slug": "李诞"
+  },
+  {
+    "uuid": "99cf6a50-9946-013b-f341-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "高贵FM",
+    "author": "高嘉程",
+    "description": "本节目由《小高的岛》的主播高嘉程，和《真实的人类》的主播曹富贵搭档主持。\n🍠：高贵Videos\n🧣：@高嘉程Gjc @曹富贵儿本人",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/632bdd5ef9101a1a5422db47?utm_source=rss",
+    "lastEpisodePublished": "2026-03-31T22:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "ec7db924-b354-4ac1-99af-88586e8e683f",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:31:01.678Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "本节目由《小高的岛》的主播高嘉程&#xff0c;和《真实的人类》的主播曹富贵搭档主持。<br />&#x1f360;&#xff1a;高贵Videos<br />&#x1f9e3;&#xff1a;&#64;高嘉程Gjc &#64;曹富贵儿本人",
+    "isPrivate": false,
+    "slug": "高贵fm"
+  },
+  {
+    "uuid": "9afe72f0-48aa-013d-194c-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "半拿铁·故事篇",
+    "author": "刘飞Lufy",
+    "description": "半拿铁宇宙的衍生播客，这次我们来，聊西游。请坐，咱们边喝边唠。",
+    "url": "https://www.ximalaya.com/album/83323735",
+    "lastEpisodePublished": "2026-01-06T12:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "fa3954b8-f76f-4237-8bc8-9cf4984370f2",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 17,
+    "dateAdded": "2025-07-19T19:33:47.121Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>半拿铁宇宙的衍生播客&#xff0c;这次我们来&#xff0c;聊西游。</p><p>请坐&#xff0c;咱们边喝边唠。<br /></p>",
+    "isPrivate": false,
+    "slug": "半拿铁故事篇"
+  },
+  {
+    "uuid": "9ea03270-1ff6-0131-6ebd-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Stuff They Don't Want You To Know",
+    "author": "iHeartPodcasts",
+    "description": "From UFOs to psychic powers and government cover-ups, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don't Want You To Know ... an audio podcast from iHeartRadio.",
+    "url": "https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/",
+    "lastEpisodePublished": "2026-04-03T17:35:02Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "4eb0e250-9e78-4413-99e0-a1f21833db3c",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 16,
+    "dateAdded": "2025-07-19T14:58:13.207Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>From UFOs to psychic powers and government cover-ups, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don&#39;t Want You To Know ... an audio podcast from iHeartRadio.</p>",
+    "isPrivate": false,
+    "slug": "stuff-they-dont-want-you-to-know"
+  },
+  {
+    "uuid": "a3a97cd0-caec-013d-ef18-0e2c841e8133",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "资讯早7点",
+    "author": "王子Wz",
+    "description": "资讯早7点，一起来了解过去24小时有哪些值得关注的消息！\n\n#工作日 #早七点 #十分钟 #日更 #资讯",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/67891a429407dcd1bfbfcfcb?utm_source=rss",
+    "lastEpisodePublished": "2026-04-02T23:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "217c2e16-f0bc-4721-94ce-e0e972b12c1d",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:52.498Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:01:27.265Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-12-16T03:01:27.265Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "资讯早7点&#xff0c;一起来了解过去24小时有哪些值得关注的消息&#xff01;<br /><br />#工作日 #早七点 #十分钟 #日更 #资讯",
+    "isPrivate": false,
+    "slug": "资讯早7点"
+  },
+  {
+    "uuid": "ac4b5a00-4d71-0139-338e-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "商业就是这样",
+    "author": "商业就是这样",
+    "description": "用简单易懂的语言解读商业现象。联系我们：thatisbiz@yicai.com",
+    "url": "https://www.ximalaya.com/album/46587439",
+    "lastEpisodePublished": "2026-04-01T23:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "b4fd7012-7c64-4df4-ad86-33049d10ecac",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:52.830Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "用简单易懂的语言解读商业现象。联系我们&#xff1a;thatisbiz&#64;yicai.com",
+    "isPrivate": false,
+    "slug": "商业就是这样"
+  },
+  {
+    "uuid": "b07971e0-a35b-012f-41f3-525400c11844",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "新闻酸菜馆",
+    "author": "新闻酸菜馆",
+    "description": "够酸够劲爆！公众号：酸菜馆播客，荣获Apple精选播客奖",
+    "url": "https://wzzgg.com/",
+    "lastEpisodePublished": "2026-03-30T07:19:59Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "4ce90bcc-b10b-4bb9-a685-95c6e6280117",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:51.414Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "够酸够劲爆&#xff01;公众号&#xff1a;酸菜馆播客&#xff0c;荣获Apple精选播客奖",
+    "isPrivate": false,
+    "slug": "新闻酸菜馆"
+  },
+  {
+    "uuid": "b45f7320-b909-0136-7b93-27f978dac4db",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Big Picture",
+    "author": "The Ringer",
+    "description": "Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Van Lathan, and Bill Simmons.",
+    "url": "https://www.theringer.com",
+    "lastEpisodePublished": "2026-04-03T10:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8081d91b-2830-472f-9889-3fe909fec03e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "7cfe0d10-efd5-4d4d-85e0-b48c9a41c72a",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:53.983Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Van Lathan, and Bill Simmons.",
+    "isPrivate": false,
+    "slug": "the-big-picture"
+  },
+  {
+    "uuid": "b67a4cf0-4b30-0130-e316-723c91aeae46",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "EconTalk",
+    "author": "Russ Roberts",
+    "description": "EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.",
+    "url": "https://simplecast.econtalk.org",
+    "lastEpisodePublished": "2026-03-30T10:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "0fa55c1d-cd89-4e91-be9e-a53b093ae8c6",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:31:01.236Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&#39;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&#39;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000&#43; episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.",
+    "isPrivate": false,
+    "slug": "econtalk"
+  },
+  {
+    "uuid": "c59b45b0-0bc4-012e-fb02-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Planet Money",
+    "author": "NPR",
+    "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money, we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world.Wanna go deeper? Subscribe to Planet Money+ and get sponsor-free episodes of Planet Money, The Indicator, and Planet Money Summer School. Plus access to bonus content. It's a new way to support the show you love. Learn more at plus.npr.org/planetmoney",
+    "url": "https://www.npr.org/podcasts/510289/planet-money",
+    "lastEpisodePublished": "2026-04-04T02:24:15Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a0a1e490-a3bf-4bd4-90cc-1d099ff577e4",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "sortPosition": 4,
+    "dateAdded": "2025-07-07T21:30:52.690Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At <em>Planet Money</em>, we explore the forces that shape our lives and bring you along for the ride. Don&#39;t just understand the economy – understand the world.<br /><br /><em>Wanna go deeper? <em>Subscribe to </em><em>Planet Money&#43; and get sponsor-free episodes of Planet Money, The Indicator, and Planet Money Summer School. Plus access to bonus content. It&#39;s a new way to support the show you love. Learn more at plus.npr.org/planetmoney</em><br /></em>",
+    "isPrivate": false,
+    "slug": "planet-money"
+  },
+  {
+    "uuid": "cc235c70-28cb-0137-f265-1d245fc5f9cf",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "凹凸电波",
+    "author": "凹凸电波",
+    "description": "《凹凸电波》是一档打破传统认知的两性杂谈类脱口秀节目。这里是属于当代男女的情感自留地。我们热衷于剖析那些微妙又有趣的情感话题，分享每个人成长经历中那些不可思议的爆笑瞬间。在快节奏的日常里，我们希望《凹凸电波》能成为你繁忙生活中的一个小小避风港。没有压力，只有共鸣，在这里，让我们一起通过欢笑找回最真实的自己。别着急，慢慢来。本节目由播客厂牌——凹凸宇宙出品公众号：凹凸电波微博：凹凸电波商务合作： aotu_hezuo@163.com版权所有，保留一切权利。禁止未经授权的二次上传、修改及任何商业用途，包括AI学习、采样或训练。基于本作品的二次创作，请在明确标注原始出处的前提下进行，感谢理解。如需举报侵权行为，请通过官方渠道向我们联系。",
+    "url": "https://www.ximalaya.com/album/19206382",
+    "lastEpisodePublished": "2026-03-30T12:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "c38204d8-83a0-4361-b10e-724937e66d03",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:51.106Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>《凹凸电波》是一档打破传统认知的两性杂谈类脱口秀节目。这里是属于当代男女的情感自留地。我们热衷于剖析那些微妙又有趣的情感话题&#xff0c;分享每个人成长经历中那些不可思议的爆笑瞬间。<br />在快节奏的日常里&#xff0c;我们希望《凹凸电波》能成为你繁忙生活中的一个小小避风港。没有压力&#xff0c;只有共鸣&#xff0c;在这里&#xff0c;让我们一起通过欢笑找回最真实的自己。<br />别着急&#xff0c;慢慢来。<br /><br /><br />本节目由播客厂牌——凹凸宇宙出品<br /><br /><br />公众号&#xff1a;凹凸电波<br />微博&#xff1a;凹凸电波<br />商务合作&#xff1a; aotu_hezuo&#64;163.com<br /><br /><br />版权所有&#xff0c;保留一切权利。禁止未经授权的二次上传、修改及任何商业用途&#xff0c;包括AI学习、采样或训练。基于本作品的二次创作&#xff0c;请在明确标注原始出处的前提下进行&#xff0c;感谢理解。如需举报侵权行为&#xff0c;请通过官方渠道向我们联系。<br /></p><br /><br /><br />",
+    "isPrivate": false,
+    "slug": "凹凸电波"
+  },
+  {
+    "uuid": "d07e58e0-d338-0137-1e20-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "文化有限",
+    "author": "文化有限",
+    "description": "「文化有限」是一档泛文化播客，每周二更新，和你分享最打动我们的作品。主播大壹、星光和超哥，是三位来自互联网和文化行业的从业者。在这个可以把“知识”做成产品售卖的时代，很多人说通过几个视频、几条音频、几篇文章，就能让人认知升级、人格跃迁。和他们相比，「文化有限」除了能给你解解闷儿以外，百无一用。我们也知道，自己对这个世界乃至我们自己，知之甚少。好在，我们希望通过这档播客提醒自己，永远对这个世界保持好奇，保持谦卑。在各大音频平台都能搜到我们，欢迎点击订阅。",
+    "url": "https://www.ximalaya.com/album/29887212",
+    "lastEpisodePublished": "2026-03-30T23:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "a26e13e8-2415-43f2-8fcc-62fdba4cb61a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:58.286Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>「文化有限」是一档泛文化播客&#xff0c;每周二更新&#xff0c;和你分享最打动我们的作品。<br /><br />主播大壹、星光和超哥&#xff0c;是三位来自互联网和文化行业的从业者。<br /><br />在这个可以把“知识”做成产品售卖的时代&#xff0c;很多人说通过几个视频、几条音频、几篇文章&#xff0c;就能让人认知升级、人格跃迁。<br /><br />和他们相比&#xff0c;「文化有限」除了能给你解解闷儿以外&#xff0c;百无一用。我们也知道&#xff0c;自己对这个世界乃至我们自己&#xff0c;知之甚少。<br /><br />好在&#xff0c;我们希望通过这档播客提醒自己&#xff0c;永远对这个世界保持好奇&#xff0c;保持谦卑。<br /><br />在各大音频平台都能搜到我们&#xff0c;欢迎点击订阅。<br /></p>",
+    "isPrivate": false,
+    "slug": "文化有限"
+  },
+  {
+    "uuid": "d55e41b0-bdcb-0133-2e7c-6dc413d6d41d",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "津津乐道",
+    "author": "DAO",
+    "description": "「津津乐道」是互联网老兵携手各领域达人，联手制作的高质量对谈播客。内容涵盖备受关注的泛科技、创业、技术、商业、生活方式等话题内容。在轻松有趣的气氛下，为职场人士带来从实际经验出发的观点和更有深度的内容。\n\n分享经验、传播体验，让我们一起用耳朵体验世界。\n\n「津津乐道播客网络」旗下拥有多档节目，是苹果播客年度最佳播客获得者、RODE全球播客大赛奖项获得者。",
+    "url": "https://dao.fm/",
+    "lastEpisodePublished": "2026-04-03T09:41:24Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "22a57d08-f35d-4a45-bae2-111d9913a729",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:55.335Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "「津津乐道」是互联网老兵携手各领域达人&#xff0c;联手制作的高质量对谈播客。内容涵盖备受关注的泛科技、创业、技术、商业、生活方式等话题内容。在轻松有趣的气氛下&#xff0c;为职场人士带来从实际经验出发的观点和更有深度的内容。<br />\n<br />\n分享经验、传播体验&#xff0c;让我们一起用耳朵体验世界。<br />\n<br />\n「津津乐道播客网络」旗下拥有多档节目&#xff0c;是苹果播客年度最佳播客获得者、RODE全球播客大赛奖项获得者。",
+    "isPrivate": false,
+    "slug": "津津乐道"
+  },
+  {
+    "uuid": "d6419550-fe83-013a-da8f-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "M字闲聊",
+    "author": "庄尼走路",
+    "description": "闲聊关于爱情、城市、音乐或八卦，希望可以陪你上班，也伴你睡着，用轻松幽默的态度看待万物",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/61caf0508bb4cd867fcabe15?utm_source=rss",
+    "lastEpisodePublished": "2026-03-24T16:00:03Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6326d67e-0dd0-4189-a47f-b0c20a224b4f",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:55.619Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "闲聊关于爱情、城市、音乐或八卦&#xff0c;希望可以陪你上班&#xff0c;也伴你睡着&#xff0c;用轻松幽默的态度看待万物",
+    "isPrivate": false,
+    "slug": "m字闲聊"
+  },
+  {
+    "uuid": "d8b89fc0-67aa-0138-a0e1-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "东亚观察局",
+    "author": "东亚观察局",
+    "description": "《东亚观察局》是由主播梵一如、沙青青、权小星三人为固定成员的对谈聊天节目，聚焦以中日韩三国为核心的“东亚地区”的热点话题、文化现象以及历史趣闻。节目每周五上线。【出品/制作：番薯剥壳工作室 Yakimo Studio】",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/5e9a4e25418a84a046bc6156?utm_source=rss",
+    "lastEpisodePublished": "2026-04-02T22:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "649a7d82-f40c-4936-8c2e-f8cae7073cd9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:55.207Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "《东亚观察局》是由主播梵一如、沙青青、权小星三人为固定成员的对谈聊天节目&#xff0c;聚焦以中日韩三国为核心的“东亚地区”的热点话题、文化现象以及历史趣闻。节目每周五上线。【出品/制作&#xff1a;番薯剥壳工作室 Yakimo Studio】",
+    "isPrivate": false,
+    "slug": "东亚观察局"
+  },
+  {
+    "uuid": "db70dab0-1ca7-0133-25a3-059c869cc4eb",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "加州101",
+    "author": "加州101",
+    "description": "观察世界，认识自己",
+    "url": "http://www.lizhi.fm",
+    "lastEpisodePublished": "2026-03-02T01:50:28Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "aa176acf-74ec-4665-8a26-41b29b99f79c",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "e21b56ea-266d-4bc5-8a3a-4c0248471371",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:51.965Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "观察世界&#xff0c;认识自己",
+    "isPrivate": false,
+    "slug": "加州101"
+  },
+  {
+    "uuid": "dd58ca30-f8b3-0139-d505-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "正经叭叭",
+    "author": "惊讶喜剧",
+    "description": "欢迎收听由「惊讶喜剧」出品的「正经叭叭」。我们的单口喜剧（脱口秀）演员们，每期会在录制现场和观众朋友们一起聊一些有趣的、日常的话题，希望可以给大家带来一点点快乐，发现生活的更多美好。加听友群参与录制，添加V信号:musicandcomedy商务合作请发邮件至88@wowcomedy.club",
+    "url": "https://www.ximalaya.com/album/50908022",
+    "lastEpisodePublished": "2026-03-30T16:55:42Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "37ca93c5-bb9c-41fd-8c84-feea09d12928",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:53.105Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>欢迎收听由「惊讶喜剧」出品的「正经叭叭」。我们的单口喜剧&#xff08;脱口秀&#xff09;演员们&#xff0c;每期会在录制现场和观众朋友们一起聊一些有趣的、日常的话题&#xff0c;希望可以给大家带来一点点快乐&#xff0c;发现生活的更多美好。</p><p>加听友群参与录制&#xff0c;添加V信号:musicandcomedy<br /></p><p>商务合作请发邮件至88&#64;wowcomedy.club</p>",
+    "isPrivate": false,
+    "slug": "正经叭叭"
+  },
+  {
+    "uuid": "e21e3ff0-947c-012e-4b0c-00163e1b201c",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Learn Dutch | DutchPod101.com",
+    "author": "DutchPod101.com",
+    "description": "Learn Dutch fast, easy and at your own pace with DutchPod101.com Audio Podcasts and Videocasts. **--- Free Lifetime Account and password protected iTunes lesson feed available at DutchPod101.com ---** ... NOW OVER --- 101,000,000 --- Language Lessons downloaded so far and Brian Heater of  -- PC Magazine -- says \"These podcasts offer a painless and FREE way to bone up on the language and culture in a relevant, real world way that you won't get in a class room or on a CDROM.\"  You get comprehensive, easy to use lessons that make learning Dutch fun for anyone. Each audio podcast contains a complete lesson and can be downloaded in seconds to your iPod, iPhone, iPad, computer or mp3 player so that you can learn Dutch quickly and actually be speaking Dutch in no time at all. These Audio Podcasts and Videocasts are your ticket to learning to speak Dutch with confidence and accuracy, and you'll be speaking Dutch with your very first lesson! :)\r\nWant more? If you are serious about learning Dutch, you are missing out here! Get the full Free Dutch Language Learning podcast experience.  It's simple, easy [and did I mention free] to get a lifetime learning account on DutchPod101.com where you will get access to hundreds more full lessons, and direct access to our members only password protected iTunes feed.  All Free lifetime account media files including the audio podcast, informal, bonus audio tracks, the dialog track, the lesson review track, videos, and all PDF lesson materials will be automatically downloaded for each new lesson as they become available. This is a great time saver and a way to give you consistent, instant access to the latest and best Dutch lesson materials.  Make Learning Dutch fun, start listening today and don't miss out on getting your FREE Lifetime Account and password protected iTunes lesson feed available only at DutchPod101.com.",
+    "url": "https://www.dutchpod101.com",
+    "lastEpisodePublished": "2026-02-06T09:30:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "9379b958-db5b-49ec-82f2-2afec1191438",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "sortPosition": 2,
+    "dateAdded": "2025-07-07T21:30:54.338Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Learn Dutch fast, easy and at your own pace with DutchPod101.com Audio Podcasts and Videocasts. **--- Free Lifetime Account and password protected iTunes lesson feed available at DutchPod101.com ---** ... NOW OVER --- 101,000,000 --- Language Lessons downloaded so far and Brian Heater of  -- PC Magazine -- says &#34;These podcasts offer a painless and FREE way to bone up on the language and culture in a relevant, real world way that you won&#39;t get in a class room or on a CDROM.&#34;  You get comprehensive, easy to use lessons that make learning Dutch fun for anyone. Each audio podcast contains a complete lesson and can be downloaded in seconds to your iPod, iPhone, iPad, computer or mp3 player so that you can learn Dutch quickly and actually be speaking Dutch in no time at all. These Audio Podcasts and Videocasts are your ticket to learning to speak Dutch with confidence and accuracy, and you&#39;ll be speaking Dutch with your very first lesson! :)<br />\r\nWant more? If you are serious about learning Dutch, you are missing out here! Get the full Free Dutch Language Learning podcast experience.  It&#39;s simple, easy [and did I mention free] to get a lifetime learning account on DutchPod101.com where you will get access to hundreds more full lessons, and direct access to our members only password protected iTunes feed.  All Free lifetime account media files including the audio podcast, informal, bonus audio tracks, the dialog track, the lesson review track, videos, and all PDF lesson materials will be automatically downloaded for each new lesson as they become available. This is a great time saver and a way to give you consistent, instant access to the latest and best Dutch lesson materials.  Make Learning Dutch fun, start listening today and don&#39;t miss out on getting your FREE Lifetime Account and password protected iTunes lesson feed available only at DutchPod101.com.",
+    "isPrivate": false,
+    "slug": "learn-dutch-dutchpod101com"
+  },
+  {
+    "uuid": "e353ebb0-1341-0139-41da-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "东腔西调",
+    "author": "大观天下志",
+    "description": "一样的世界，不一样的思考。「东腔西调」是由大观天下志制作播出的一档文化类对谈播客。在这里，主播将与来自不同领域的嘉宾学者聊聊他们关心的世界和生活，探寻社会文化观念背后的来龙去脉。我们还将不定期放送「思想季」与「冷思考」等特别策划栏目。突破茧房，不赶浪潮，学术也可以接地气。",
+    "url": "https://www.ximalaya.com/album/41153937",
+    "lastEpisodePublished": "2026-03-27T10:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "bbe4d286-aa2e-465e-bb79-e6fe1ed01831",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:51.163Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "一样的世界&#xff0c;不一样的思考。「东腔西调」是由大观天下志制作播出的一档文化类对谈播客。在这里&#xff0c;主播将与来自不同领域的嘉宾学者聊聊他们关心的世界和生活&#xff0c;探寻社会文化观念背后的来龙去脉。我们还将不定期放送「思想季」与「冷思考」等特别策划栏目。突破茧房&#xff0c;不赶浪潮&#xff0c;学术也可以接地气。",
+    "isPrivate": false,
+    "slug": "东腔西调"
+  },
+  {
+    "uuid": "e5521d00-7bc3-013b-f2a1-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "The Economics of Everyday Things",
+    "author": "Freakonomics Network & Zachary Crockett",
+    "description": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories.\n\nTo get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts+ on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "url": "https://freakonomics.com",
+    "lastEpisodePublished": "2026-04-02T00:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "acc6aa9c-2219-4af7-bcd4-51096869fd02",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:56.835Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories.<br /><br />To get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts&#43; on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+    "isPrivate": false,
+    "slug": "the-economics-of-everyday-things"
+  },
+  {
+    "uuid": "ef99e990-4428-0135-902a-63f4b61a9224",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "infoier | 设计乘数",
+    "author": "infoier | 设计乘数",
+    "description": "《设计乘数》是由用户体验设计师龚子仪发起的播客，他相信多学科整合的力量能够给设计带来乘数效应。播客试图讨论科技、哲学、社会、经济、心理等诸多话题，用多元的角度参与并不断进行探索。",
+    "url": "http://www.lizhi.fm",
+    "lastEpisodePublished": "2026-02-26T05:18:43Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "e8eaecc3-3f16-4e7d-8aee-d0bcebebb4da",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "sortPosition": 3,
+    "dateAdded": "2025-07-07T21:30:59.187Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "《设计乘数》是由用户体验设计师龚子仪发起的播客&#xff0c;他相信多学科整合的力量能够给设计带来乘数效应。播客试图讨论科技、哲学、社会、经济、心理等诸多话题&#xff0c;用多元的角度参与并不断进行探索。",
+    "isPrivate": false,
+    "slug": "infoier-设计乘数"
+  },
+  {
+    "uuid": "f1a00860-010e-013c-f567-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "思文，败类",
+    "author": "思文败类",
+    "description": "思文的播客。",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/64228877179eec53318a7182?utm_source=rss",
+    "lastEpisodePublished": "2026-03-30T12:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "630778ec-2580-4657-9ecc-7dc0d9f52d35",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:54.975Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "思文的播客。",
+    "isPrivate": false,
+    "slug": "思文败类"
+  },
+  {
+    "uuid": "f5a28790-ae2c-0135-9e5c-5bb073f92b78",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "Slow Burn",
+    "author": "Slate Podcasts",
+    "description": "Slow Burn illuminates America’s most consequential moments, making sense of the past to better understand the present. Through archival tape and first-person interviews, the series uncovers the surprising events and little-known characters lurking within the biggest stories of our time.Want more Slow Burn? Join Slate Plus to unlock full, ad-free access to Slow Burn and your other favorite Slate podcasts. You can subscribe directly from the Slow Burn show page on Apple Podcasts and Spotify. Or, visit slate.com/slowburnplus to get access wherever you listen.Season 10: The Rise of Fox NewsHow a cable news channel became a cultural and political force—and how a whole bunch of people rose up to try and stop it.Season 9: Gays Against BriggsA nationwide moral panic, a California legislator who rode the anti-gay wave, and the LGBTQ+ people who stepped up and came out to try and stop him.Season 8: Becoming Justice ThomasWhere Clarence Thomas came from, how he rose to power, and how he’s brought the rest of us along with him, whether we like it or not. Winner of the Podcast of the Year at the 2024 Ambies Awards.Season 7: Roe v. WadeThe women who fought for legal abortion, the activists who pushed back, and the justices who thought they could solve the issue for good. Winner of Apple Podcasts Show of the Year in 2022.Season 6: The L.A. RiotsHow decades of police brutality, a broken justice system, and a video tape set off six days of unrest in Los Angeles.Season 5: The Road to the Iraq WarEighteen months after 9/11, the United States invaded a country that had nothing to do with the attacks. Who’s to blame? And was there any way to stop it?Season 4: David DukeAmerica’s most famous white supremacist came within a runoff of controlling Louisiana. How did David Duke rise to power? And what did it take to stop him?Season 3: Biggie and TupacHow is it that two of the most famous performers in the world were murdered within a year of each other—and their killings were never solved?Season 2: The Clinton ImpeachmentA reexamination of the scandals that nearly destroyed the 42nd president and forever changed the life of a former White House intern.Season 1: WatergateWhat did it feel like to live through the scandal that brought down President Nixon? Hosted on Acast. See acast.com/privacy for more information.",
+    "url": "https://slate.com/slowburn",
+    "lastEpisodePublished": "2026-03-25T07:50:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "6c099c80-4110-4815-8293-49ec99f8e2a7",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "sortPosition": 1,
+    "dateAdded": "2025-07-07T21:30:53.437Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Slow Burn illuminates America’s most consequential moments, making sense of the past to better understand the present. Through archival tape and first-person interviews, the series uncovers the surprising events and little-known characters lurking within the biggest stories of our time.Want more Slow Burn? Join Slate Plus to unlock full, ad-free access to Slow Burn and your other favorite Slate podcasts. You can subscribe directly from the Slow Burn show page on Apple Podcasts and Spotify. Or, visit slate.com/slowburnplus to get access wherever you listen.Season 10: The Rise of Fox NewsHow a cable news channel became a cultural and political force—and how a whole bunch of people rose up to try and stop it.Season 9: Gays Against BriggsA nationwide moral panic, a California legislator who rode the anti-gay wave, and the LGBTQ&#43; people who stepped up and came out to try and stop him.Season 8: Becoming Justice ThomasWhere Clarence Thomas came from, how he rose to power, and how he’s brought the rest of us along with him, whether we like it or not. Winner of the Podcast of the Year at the 2024 Ambies Awards.Season 7: Roe v. WadeThe women who fought for legal abortion, the activists who pushed back, and the justices who thought they could solve the issue for good. Winner of Apple Podcasts Show of the Year in 2022.Season 6: The L.A. RiotsHow decades of police brutality, a broken justice system, and a video tape set off six days of unrest in Los Angeles.Season 5: The Road to the Iraq WarEighteen months after 9/11, the United States invaded a country that had nothing to do with the attacks. Who’s to blame? And was there any way to stop it?Season 4: David DukeAmerica’s most famous white supremacist came within a runoff of controlling Louisiana. How did David Duke rise to power? And what did it take to stop him?Season 3: Biggie and TupacHow is it that two of the most famous performers in the world were murdered within a year of each other—and their killings were never solved?Season 2: The Clinton ImpeachmentA reexamination of the scandals that nearly destroyed the 42nd president and forever changed the life of a former White House intern.Season 1: WatergateWhat did it feel like to live through the scandal that brought down President Nixon?<p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
+    "isPrivate": false,
+    "slug": "slow-burn"
+  },
+  {
+    "uuid": "fba5e580-1ef6-0138-9fc0-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "没理想编辑部",
+    "author": "看理想新媒体部",
+    "description": "「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客，a.k.a编辑们的午饭闲聊精选集，欢迎入座。每两周日更新一集。\n欢迎下载「看理想」App留言互动，更多精彩内容请搜索微信公众号或微博 @看理想。",
+    "url": "https://api.vistopia.com.cn/rss/program/116.xml",
+    "lastEpisodePublished": "2026-04-01T12:59:02Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "5c780cfe-0710-4bb5-83ed-0173df0014e9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "sortPosition": 4,
+    "dateAdded": "2025-07-07T21:31:02.052Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2025-07-23T22:44:11.505Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客&#xff0c;a.k.a编辑们的午饭闲聊精选集&#xff0c;欢迎入座。每两周日更新一集。<br />欢迎下载「看理想」App留言互动&#xff0c;更多精彩内容请搜索微信公众号或微博 &#64;看理想。",
+    "isPrivate": false,
+    "slug": "没理想编辑部"
+  }
+]
