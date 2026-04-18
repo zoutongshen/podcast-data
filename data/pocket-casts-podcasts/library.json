@@ -1075,9 +1075,9 @@
     "author": "晚点 LatePost",
     "description": "《晚点聊 LateTalk》由《晚点 LatePost》出品。\n最一手的科技访谈，最真实的从业者思考。",
     "url": "https://podcast.latepost.com",
-    "lastEpisodePublished": "2026-04-07T22:30:00Z",
+    "lastEpisodePublished": "2026-04-17T01:30:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "79871458-ef9f-4b30-b500-56bd8f65d941",
+    "lastEpisodeUuid": "7889fb82-1feb-4cfe-909b-322ece921da4",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -1164,9 +1164,9 @@
     "author": "Monocle",
     "description": "Hear our take on the news and enjoy sharp reporting on the big stories every weekday. Tune in as our guest panel reviews the day’s events in Europe, follows developing stories in the Americas and welcomes early risers in Asia and Australasia. Plus: reports and analysis from Monocle’s correspondents and bureaux around the world. Nominated for ‘Best Daily Podcast’ in the 2022 British Podcast Awards. ",
     "url": "https://monocle.com/radio/shows/the-monocle-daily/",
-    "lastEpisodePublished": "2026-04-16T18:01:39Z",
+    "lastEpisodePublished": "2026-04-17T18:00:43Z",
     "unplayed": true,
-    "lastEpisodeUuid": "b0acd632-d611-4d9e-8b52-9d183b7e31d6",
+    "lastEpisodeUuid": "4f4dab1c-63ae-4fde-9504-d996ac36e43b",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -1251,9 +1251,9 @@
     "author": "All-In Podcast, LLC",
     "description": "Industry veterans, degenerate gamblers & besties Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.",
     "url": "http://allinchamathjason.libsyn.com/website",
-    "lastEpisodePublished": "2026-04-10T22:17:00Z",
+    "lastEpisodePublished": "2026-04-17T20:35:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "adb427f8-80f4-4dae-8fd7-bba23ff1312a",
+    "lastEpisodeUuid": "3ce67d82-6f28-4528-b369-4453b2ccea98",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -1598,6 +1598,95 @@
     "descriptionHtml": "<p>Join boobun and Forcepath to talk about Farm RPG, a mobile farming RPG / MMO game where you start a farm, plant crops, fish, craft and explore. Available on iOS, Android, Web</p>",
     "isPrivate": false,
     "slug": "farmrpg-the-podcast"
+  },
+  {
+    "uuid": "3130fba0-fa84-0138-4156-0acc26574db2",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "剧谈社｜翻译艺术品",
+    "author": "剧谈社",
+    "description": "艺术文化类播客。通过对艺术及背后文化现象的硬核解读，推动博雅教育。从绘画到书法、从音乐到诗歌、从建筑到珠宝、从香料到美食，我们试图理解人类如何通过审美创造意义，在时间中留下足迹。荣誉：- 小宇宙播客大赏2025年度特别推荐单集- 小宇宙播客大赏2024年度特别推荐单集- 小宇宙播客大赏2023年度趋势播客- 小宇宙播客大赏2023年度特别推荐单集- 2022年度苹果播客编辑精选- 2022年CPA中文播客奖年度艺术类播客- 小宇宙播客大赏2022年度特别推荐单集- 2021年度苹果播客编辑精选",
+    "url": "https://www.ximalaya.com/album/43127335",
+    "lastEpisodePublished": "2026-04-12T16:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "bfd796a8-066a-4a72-8a64-ce9fe01df4e7",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": true,
+    "autoSkipLast": 0,
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 23,
+    "dateAdded": "2026-04-17T21:00:49.240Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2026-04-17T21:06:42.282Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2026-04-17T21:06:42.282Z"
+      },
+      "episodesSortOrder": {
+        "value": 3,
+        "changed": false
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "<p>艺术文化类播客。通过对艺术及背后文化现象的硬核解读&#xff0c;推动博雅教育。从绘画到书法、从音乐到诗歌、从建筑到珠宝、从香料到美食&#xff0c;我们试图理解人类如何通过审美创造意义&#xff0c;在时间中留下足迹。</p><br /><p><strong>荣誉&#xff1a;</strong></p><p>- 小宇宙播客大赏2025年度特别推荐单集</p><p>- 小宇宙播客大赏2024年度特别推荐单集</p><p>- 小宇宙播客大赏2023年度趋势播客</p><p>- 小宇宙播客大赏2023年度特别推荐单集</p><p>- 2022年度苹果播客编辑精选</p><p>- 2022年CPA中文播客奖年度艺术类播客</p><p>- 小宇宙播客大赏2022年度特别推荐单集</p><p>- 2021年度苹果播客编辑精选</p>",
+    "isPrivate": false,
+    "slug": "剧谈社翻译艺术品"
   },
   {
     "uuid": "3251ddb0-bb20-0133-2e57-6dc413d6d41d",
@@ -1963,9 +2052,9 @@
     "author": "赵艾文",
     "description": "黑水公园是一档以电影、剧集、科幻、动漫为载体，畅谈人生的趣谈节目。\n（金花微信：uwwwsc；金花微博：黑水公园_金花）",
     "url": "https://www.ximalaya.com/album/3558668",
-    "lastEpisodePublished": "2026-04-10T02:00:00Z",
+    "lastEpisodePublished": "2026-04-17T02:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "369d40b6-9173-4107-9afa-d9954aa7aab5",
+    "lastEpisodeUuid": "2eb299f0-128e-45b3-a272-9de6a8b3ca12",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -2052,11 +2141,11 @@
     "author": "The New York Times",
     "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. \n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
     "url": "https://www.nytimes.com/column/hard-fork",
-    "lastEpisodePublished": "2026-04-10T11:00:00Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "292c6f71-4244-4071-812f-4e5f0649f9fc",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-04-17T11:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "5f3a1252-7fa4-494d-83e0-18338e775f23",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
     "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
     "sortPosition": 2,
@@ -2141,9 +2230,9 @@
     "author": "有知有行",
     "description": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。如果你对节目有任何建议，或者有推荐的嘉宾，或者想来小酒馆做客，欢迎在微博@知行小酒馆 或 @有知有行 给我们留言。【联系我们】微博：@知行小酒馆 或 @有知有行 微信公众号：有知有行服务号App：有知有行",
     "url": "https://www.ximalaya.com/album/46199233",
-    "lastEpisodePublished": "2026-04-10T12:00:00Z",
+    "lastEpisodePublished": "2026-04-17T12:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "c2a6a022-a79f-49c5-93ab-5b39e7fcbe37",
+    "lastEpisodeUuid": "63f0a86b-5bb8-4563-b9f0-689359ea82b6",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -2230,11 +2319,11 @@
     "author": "The Verge",
     "description": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel and David Pierce hang out and make sense of the week’s most important technology news. And every Tuesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours.",
     "url": "https://www.theverge.com/the-vergecast",
-    "lastEpisodePublished": "2026-04-14T09:00:00Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "82974643-e819-4d09-956e-0e178de933a0",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-04-17T09:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "12ebb772-a68b-458e-bd82-1c5d4d636202",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
     "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
     "sortPosition": 4,
@@ -2586,11 +2675,11 @@
     "author": "不开玩笑JokesAside",
     "description": "一档时而开玩笑，时而不开玩笑的播客。是播客，不是喜剧播客。关注公众号“猫头鹰喜剧”回复“听友群”，小助手会把你拉进群聊～",
     "url": "https://www.ximalaya.com/album/54201905",
-    "lastEpisodePublished": "2026-04-10T16:00:00Z",
+    "lastEpisodePublished": "2026-04-17T16:00:00Z",
     "unplayed": false,
-    "lastEpisodeUuid": "ae5e2109-14e9-40f7-8e88-4f6940e92e18",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodeUuid": "d8f9f4f4-bbf6-4234-a853-f11b2ee00f0a",
+    "lastEpisodePlayingStatus": 2,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
     "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
     "sortPosition": 7,
@@ -3031,9 +3120,9 @@
     "author": "Sam Harris",
     "description": "Join neuroscientist, philosopher, and five-time New York Times best-selling author Sam Harris as he explores important and controversial questions about the mind, society, current events, moral philosophy, religion, and rationality—with an overarching focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. \n\nSam is also the creator of the Waking Up app. Combining Sam's decades of mindfulness practice, profound wisdom from varied philosophical and contemplative traditions, and a commitment to a secular, scientific worldview, Waking Up is a resource for anyone interested in living a more examined, fulfilling life—and a new operating system for the mind. \n\nWaking Up offers free subscriptions to anyone who can't afford one, and donates a minimum of 10% of profits to the most effective charities around the world. To learn more, please go to WakingUp.com.  \n\nSam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
     "url": "http://www.samharris.org",
-    "lastEpisodePublished": "2026-04-13T17:55:00Z",
+    "lastEpisodePublished": "2026-04-16T18:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "def28237-b86d-4d51-8267-d9369bede4df",
+    "lastEpisodeUuid": "f1b21042-c2af-4e18-a8be-447da67d31c7",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -3652,9 +3741,9 @@
     "author": "iHeartPodcasts",
     "description": "From UFOs to psychic powers and government cover-ups, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don't Want You To Know ... an audio podcast from iHeartRadio.",
     "url": "https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/",
-    "lastEpisodePublished": "2026-04-15T16:35:52Z",
+    "lastEpisodePublished": "2026-04-17T19:07:06Z",
     "unplayed": true,
-    "lastEpisodeUuid": "08cc96ac-5d40-400a-bd1b-fc1bf74eb701",
+    "lastEpisodeUuid": "50651342-99ba-4311-8b69-06e3f325a1e5",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -3742,10 +3831,10 @@
     "description": "资讯早7点，一起来了解过去24小时有哪些值得关注的消息！\n\n#工作日 #早七点 #十分钟 #日更 #资讯",
     "url": "https://www.xiaoyuzhoufm.com/podcast/67891a429407dcd1bfbfcfcb?utm_source=rss",
     "lastEpisodePublished": "2026-04-16T23:00:00Z",
-    "unplayed": true,
+    "unplayed": false,
     "lastEpisodeUuid": "c371d6c0-9b85-42a1-9b39-e4e94e41a3d4",
-    "lastEpisodePlayingStatus": 1,
-    "lastEpisodeArchived": false,
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
     "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
     "sortPosition": 0,
@@ -5254,9 +5343,9 @@
     "author": "思文败类",
     "description": "思文的播客。",
     "url": "https://www.xiaoyuzhoufm.com/podcast/64228877179eec53318a7182?utm_source=rss",
-    "lastEpisodePublished": "2026-04-07T12:00:02Z",
+    "lastEpisodePublished": "2026-04-17T12:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "d1f8be43-6b0e-410d-a3af-178fc66331f7",
+    "lastEpisodeUuid": "5603ed35-dbf6-4bbe-b961-72bec12191f5",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
