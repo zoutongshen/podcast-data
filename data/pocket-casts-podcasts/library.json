@@ -86,7 +86,8 @@
     },
     "descriptionHtml": "原「硅谷早知道」&#xff0c;全新改版的「What&#39;s Next&#xff5c;科技早知道」我们会继续放眼全球&#xff0c;不仅聚焦纯科技的话题&#xff0c;也会关注科技引领世界以及商业格局变化等新话题。<br />新一季我们的节目会由多个模块共同组成&#xff0c;除了延续我们以往不同科技领域新技术新动向的话题&#xff0c;我们也会加入出海、多视角解读科技行业大事件。<br />本节目由声动活泼制作播出。",
     "isPrivate": false,
-    "slug": "whats-next科技早知道"
+    "slug": "whats-next科技早知道",
+    "explicit": false
   },
   {
     "uuid": "06122770-1538-0139-41e7-0acc26574db2",
@@ -175,7 +176,8 @@
     },
     "descriptionHtml": "我们对同一部电影的理解如此大相径庭&#xff0c;因而试图说明彼此的理解可以变为一场生机勃勃的对话。<br /><br />“客观”往往是用一个错误的词汇形容“这个人的观点跟朕差不多”&#xff0c;或者“这个人把优缺点都说了下而且没冒犯我”。世界上没有客观的影评、客观的审美。<br /><br />公号&#xff1a;没折腰<br />微博&#xff1a;空山daily<br />读者来信&#43;商务合作&#xff1a;meizheyao&#64;outlook.com<br /><br />*不接影视行业软广&#xff0c;不做在映/在播作品主创访谈",
     "isPrivate": false,
-    "slug": "没折腰fm"
+    "slug": "没折腰fm",
+    "explicit": true
   },
   {
     "uuid": "062dc5b0-f5fc-0131-98b1-5f4c86fd3263",
@@ -185,9 +187,9 @@
     "author": "恶霸波",
     "description": "人生总有酸甜苦辣，梦里浮现魑魅魍魉。合卷难掩功名利禄，举杯溢满贪嗔痴狂。",
     "url": "https://www.ximalaya.com/album/264295",
-    "lastEpisodePublished": "2026-05-05T06:10:11Z",
+    "lastEpisodePublished": "2026-05-12T13:44:03Z",
     "unplayed": true,
-    "lastEpisodeUuid": "82357a3e-e0b6-42f6-a359-a14fb01d30e3",
+    "lastEpisodeUuid": "ac3f88f4-1c6b-44e9-9a54-3f337934118e",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -264,7 +266,8 @@
     },
     "descriptionHtml": "<p>人生总有酸甜苦辣&#xff0c;</p><p>梦里浮现魑魅魍魉。</p><p>合卷难掩功名利禄&#xff0c;</p><p>举杯溢满贪嗔痴狂。</p>",
     "isPrivate": false,
-    "slug": "野史下酒有趣的历史故事"
+    "slug": "野史下酒有趣的历史故事",
+    "explicit": false
   },
   {
     "uuid": "079dcb50-a051-0134-9123-3327a14bcdba",
@@ -353,7 +356,8 @@
     },
     "descriptionHtml": "社会剧烈变动&#xff0c;我们如何理解自己所处的坐标&#xff1f;<br />作为拥有记者背景的观察者和记录者&#xff0c;我们以审慎的视角捕捉当下的社会切片&#xff0c;不仅对话提供启发的专业人士&#xff0c;也记录那些身处风暴中心的个体叙事。<br />声东击西试图推开那些被日常限制的窗户&#xff0c;通过创新的声音实验与深度访谈&#xff0c;帮你厘清社会变迁的脉络&#xff0c;并探寻这些宏大变化如何真实地投影在你我的生活之中。<br />&#x1f399; 本节目由声动活泼制作播出",
     "isPrivate": false,
-    "slug": "声东击西"
+    "slug": "声东击西",
+    "explicit": false
   },
   {
     "uuid": "07cf0710-e9aa-013a-da19-0acc26574db2",
@@ -442,7 +446,8 @@
     },
     "descriptionHtml": "拒绝EMO&#xff0c;FUN肆笑。这是一档由「肆笑喜剧」出品的播客节目&#xff0c;每期话题我们都会邀请单口喜剧演员和观众一起&#xff1a;聊一聊八卦、抖一抖不太好笑的包袱&#xff1b;听搞笑段子、说有的没的。<br />公众号「肆笑喜剧」回复「三言两语」&#xff0c;进播客听友群&amp;参与现场录制~",
     "isPrivate": false,
-    "slug": "三言两语-脱口秀演员闲谈录"
+    "slug": "三言两语-脱口秀演员闲谈录",
+    "explicit": false
   },
   {
     "uuid": "0930f560-83b5-0138-ee27-0acc26574db2",
@@ -531,7 +536,8 @@
     },
     "descriptionHtml": "「中间地带」是一档关注商业、文化、历史的演进的播客节目。商业进程、文化现象、历史书写从来不是单独存在&#xff0c;它是社会系统的反应。说回来&#xff0c;关注这些终归是对现实社会的理解与回应&#xff1a;社会的运行机制和发展历程&#xff0c;社会中人和人群的行为逻辑和思维方式&#xff0c;社会与其环境的互动方式和历史路径。",
     "isPrivate": false,
-    "slug": "中间地带"
+    "slug": "中间地带",
+    "explicit": false
   },
   {
     "uuid": "0cc43410-1d2f-012e-0175-00163e1b201c",
@@ -541,9 +547,9 @@
     "author": "Roman Mars",
     "description": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
     "url": "https://www.siriusxm.com",
-    "lastEpisodePublished": "2026-05-08T09:00:00Z",
+    "lastEpisodePublished": "2026-05-12T09:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "7bf43eb9-e8bc-4aac-a39a-e17d2e964de1",
+    "lastEpisodeUuid": "50351df1-c625-4a4e-a99f-0c39461f2525",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -620,7 +626,8 @@
     },
     "descriptionHtml": "Design is everywhere in our lives, perhaps most importantly in the places where we&#39;ve just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
     "isPrivate": false,
-    "slug": "99-invisible"
+    "slug": "99-invisible",
+    "explicit": false
   },
   {
     "uuid": "0d607840-7e0c-0138-ee06-0acc26574db2",
@@ -709,7 +716,8 @@
     },
     "descriptionHtml": "<p>《世界莫名其妙物语》是一档介绍世界中莫名其妙知识的女子相声节目&#xff0c;以科研废料炒冷饭和南京口音说段子为主要卖点&#xff0c;每周一各大播客平台同步更新。曾荣获2021年度苹果最佳播客。</p>",
     "isPrivate": false,
-    "slug": "世界莫名其妙物语"
+    "slug": "世界莫名其妙物语",
+    "explicit": false
   },
   {
     "uuid": "0e3b1080-a5d4-012e-56d0-00163e1b201c",
@@ -808,9 +816,9 @@
     "author": "iHeartPodcasts",
     "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
     "url": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/",
-    "lastEpisodePublished": "2026-05-09T09:00:00Z",
+    "lastEpisodePublished": "2026-05-12T09:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "279257e0-c6d3-4f13-86c6-3e8688f239ea",
+    "lastEpisodeUuid": "1bee645d-0d53-406e-a2b8-8b05f4db28d7",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -887,7 +895,8 @@
     },
     "descriptionHtml": "If you&#39;ve ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
     "isPrivate": false,
-    "slug": "stuff-you-should-know"
+    "slug": "stuff-you-should-know",
+    "explicit": false
   },
   {
     "uuid": "180e00a0-0626-0131-cbb1-723c91aeae46",
@@ -976,7 +985,8 @@
     },
     "descriptionHtml": "每天笑一笑&#xff0c;烦恼都忘掉&#xff0c;微信公众号&#xff1a;采采&#xff0c;微博&#64;1053采采&#xff0c;喜马拉雅ID&#xff1a;采采。",
     "isPrivate": false,
-    "slug": "段子来了"
+    "slug": "段子来了",
+    "explicit": false
   },
   {
     "uuid": "19c9e960-efdd-0138-e80b-0acc26574db2",
@@ -1065,7 +1075,8 @@
     },
     "descriptionHtml": "Debunking the junk science behind health fads, wellness scams and nonsensical nutrition advice.",
     "isPrivate": false,
-    "slug": "maintenance-phase"
+    "slug": "maintenance-phase",
+    "explicit": true
   },
   {
     "uuid": "25cfb930-2985-013a-d60e-0acc26574db2",
@@ -1154,7 +1165,8 @@
     },
     "descriptionHtml": "《晚点聊 LateTalk》由《晚点 LatePost》出品。<br />最一手的科技访谈&#xff0c;最真实的从业者思考。",
     "isPrivate": false,
-    "slug": "晚点聊-latetalk"
+    "slug": "晚点聊-latetalk",
+    "explicit": false
   },
   {
     "uuid": "25eb0010-dfda-012e-dbd6-525400c11844",
@@ -1164,9 +1176,9 @@
     "author": "Monocle",
     "description": "Hear our take on the news and enjoy sharp reporting on the big stories every weekday. Tune in as our guest panel reviews the day’s events in Europe, follows developing stories in the Americas and welcomes early risers in Asia and Australasia. Plus: reports and analysis from Monocle’s correspondents and bureaux around the world. Nominated for ‘Best Daily Podcast’ in the 2022 British Podcast Awards. ",
     "url": "https://monocle.com/radio/shows/the-monocle-daily/",
-    "lastEpisodePublished": "2026-05-11T17:51:37Z",
+    "lastEpisodePublished": "2026-05-12T17:49:37Z",
     "unplayed": true,
-    "lastEpisodeUuid": "aeab1ac5-831f-4d65-9878-178c8e67c2b0",
+    "lastEpisodeUuid": "67e8a27c-faf7-441e-847e-0ca74de03da0",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -1241,7 +1253,8 @@
     },
     "descriptionHtml": "<p>Hear our take on the news and enjoy sharp reporting on the big stories every weekday. Tune in as our guest panel reviews the day’s events in Europe, follows developing stories in the Americas and welcomes early risers in Asia and Australasia. Plus: reports and analysis from Monocle’s correspondents and bureaux around the world. Nominated for ‘Best Daily Podcast’ in the 2022 British Podcast Awards. </p>",
     "isPrivate": false,
-    "slug": "the-monocle-daily"
+    "slug": "the-monocle-daily",
+    "explicit": false
   },
   {
     "uuid": "299aad50-48a3-0138-976e-0acc26574db2",
@@ -1251,9 +1264,9 @@
     "author": "All-In Podcast, LLC",
     "description": "Industry veterans, degenerate gamblers & besties Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.",
     "url": "http://allinchamathjason.libsyn.com/website",
-    "lastEpisodePublished": "2026-05-10T21:00:00Z",
+    "lastEpisodePublished": "2026-05-12T21:03:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "34d5dcfc-0c51-4b6d-a402-7f4514d02e98",
+    "lastEpisodeUuid": "a91d0570-762a-4315-a360-9fe9fe3e5a7d",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -1330,7 +1343,8 @@
     },
     "descriptionHtml": "Industry veterans, degenerate gamblers &amp; besties Chamath Palihapitiya, Jason Calacanis, David Sacks &amp; David Friedberg cover all things economic, tech, political, social &amp; poker.",
     "isPrivate": false,
-    "slug": "all-in-with-chamath-jason-sacks-friedberg"
+    "slug": "all-in-with-chamath-jason-sacks-friedberg",
+    "explicit": false
   },
   {
     "uuid": "2ac13080-6199-012f-1423-525400c11844",
@@ -1419,7 +1433,8 @@
     },
     "descriptionHtml": "<p>Led by James Naughtie, a group of readers talk to acclaimed authors about their best-known novels</p>",
     "isPrivate": false,
-    "slug": "bookclub"
+    "slug": "bookclub",
+    "explicit": false
   },
   {
     "uuid": "2ae03fe0-b8a1-013a-d902-0acc26574db2",
@@ -1509,7 +1524,8 @@
     },
     "descriptionHtml": "<p>商业不枯燥</p><p>财经媒体人和互联网老兵陪你闲聊商业见闻。</p><p>来杯半拿铁&#xff0c;边喝边唠。<br /></p>",
     "isPrivate": false,
-    "slug": "半拿铁-商业沉浮录"
+    "slug": "半拿铁-商业沉浮录",
+    "explicit": false
   },
   {
     "uuid": "2f4eb300-c469-013c-5cbf-0acc26574db2",
@@ -1519,11 +1535,11 @@
     "author": "boobun",
     "description": "Join boobun and Forcepath to talk about Farm RPG, a mobile farming RPG / MMO game where you start a farm, plant crops, fish, craft and explore. Available on iOS, Android, Web",
     "url": "Https://play.farmRPG.com",
-    "lastEpisodePublished": "2026-02-06T23:39:04Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "e50b732e-50df-4d4d-a0f4-2625eb925a12",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-05-12T12:24:44Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "b4cc271a-3512-4a94-a123-39dd4ea530f9",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
     "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
     "sortPosition": 5,
@@ -1598,7 +1614,8 @@
     },
     "descriptionHtml": "<p>Join boobun and Forcepath to talk about Farm RPG, a mobile farming RPG / MMO game where you start a farm, plant crops, fish, craft and explore. Available on iOS, Android, Web</p>",
     "isPrivate": false,
-    "slug": "farmrpg-the-podcast"
+    "slug": "farmrpg-the-podcast",
+    "explicit": false
   },
   {
     "uuid": "3130fba0-fa84-0138-4156-0acc26574db2",
@@ -1687,7 +1704,8 @@
     },
     "descriptionHtml": "<p>艺术文化类播客。通过对艺术及背后文化现象的硬核解读&#xff0c;推动博雅教育。从绘画到书法、从音乐到诗歌、从建筑到珠宝、从香料到美食&#xff0c;我们试图理解人类如何通过审美创造意义&#xff0c;在时间中留下足迹。</p><br /><p><strong>荣誉&#xff1a;</strong></p><p>- 小宇宙播客大赏2025年度特别推荐单集</p><p>- 小宇宙播客大赏2024年度特别推荐单集</p><p>- 小宇宙播客大赏2023年度趋势播客</p><p>- 小宇宙播客大赏2023年度特别推荐单集</p><p>- 2022年度苹果播客编辑精选</p><p>- 2022年CPA中文播客奖年度艺术类播客</p><p>- 小宇宙播客大赏2022年度特别推荐单集</p><p>- 2021年度苹果播客编辑精选</p>",
     "isPrivate": false,
-    "slug": "剧谈社翻译艺术品"
+    "slug": "剧谈社翻译艺术品",
+    "explicit": false
   },
   {
     "uuid": "3251ddb0-bb20-0133-2e57-6dc413d6d41d",
@@ -1776,7 +1794,8 @@
     },
     "descriptionHtml": "Listen to our weekly podcast to build up your Cantonese vocabulary on the go! We offer Zoom classes for you to join from wherever you are: https://inspirlang.com/zoom. Our book is also available at www.inspirlang.com/lovecanto",
     "isPrivate": false,
-    "slug": "learn-cantonese-daily"
+    "slug": "learn-cantonese-daily",
+    "explicit": false
   },
   {
     "uuid": "34d9da90-59e1-012e-229c-00163e1b201c",
@@ -1865,7 +1884,8 @@
     },
     "descriptionHtml": "What should I read next? Ask Penguin is the podcast where your quirkiest, trickiest, and most urgent book questions get answered. Hosted by Rhianna Dhillon, we bring bestselling authors and Penguin insiders to explore some of your favourite books and discover new ones that you are yet to read. <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
     "isPrivate": false,
-    "slug": "ask-penguin"
+    "slug": "ask-penguin",
+    "explicit": false
   },
   {
     "uuid": "352a0f50-e9b8-0137-b6ef-0acc26574db2",
@@ -1954,7 +1974,8 @@
     },
     "descriptionHtml": "谐星聊天会是一档单口喜剧演员与听众一同线下录制完成的音频节目&#xff0c;用幽默开解生活中的沉杂琐事&#xff01;",
     "isPrivate": false,
-    "slug": "谐星聊天会"
+    "slug": "谐星聊天会",
+    "explicit": true
   },
   {
     "uuid": "3b23efd0-ce45-0136-3246-08b04944ede4",
@@ -2132,7 +2153,8 @@
     },
     "descriptionHtml": "黑水公园是一档以电影、剧集、科幻、动漫为载体&#xff0c;畅谈人生的趣谈节目。<br />&#xff08;金花微信&#xff1a;uwwwsc&#xff1b;金花微博&#xff1a;黑水公园_金花&#xff09;",
     "isPrivate": false,
-    "slug": "黑水公园"
+    "slug": "黑水公园",
+    "explicit": true
   },
   {
     "uuid": "467b49a0-c657-0138-e72e-0acc26574db2",
@@ -2221,7 +2243,8 @@
     },
     "descriptionHtml": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. <br /><br />Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source&#61;podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
     "isPrivate": false,
-    "slug": "hard-fork"
+    "slug": "hard-fork",
+    "explicit": false
   },
   {
     "uuid": "4978c410-6e64-0139-3438-0acc26574db2",
@@ -2310,7 +2333,8 @@
     },
     "descriptionHtml": "<p>《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财&#xff0c;更关注怎样更好地生活。在我们看来&#xff0c;投资成功&#xff0c;是我们变成一个更好的人之后&#xff0c;自然的结果。</p><p>如果你对节目有任何建议&#xff0c;或者有推荐的嘉宾&#xff0c;或者想来小酒馆做客&#xff0c;欢迎在微博&#64;知行小酒馆 或 &#64;有知有行 给我们留言。</p><p>【联系我们】</p><p>微博&#xff1a;&#64;知行小酒馆 或 &#64;有知有行 </p><p>微信公众号&#xff1a;有知有行服务号</p><p>App&#xff1a;有知有行</p><br />",
     "isPrivate": false,
-    "slug": "知行小酒馆关注投资理财更关注怎样更好地生活"
+    "slug": "知行小酒馆关注投资理财更关注怎样更好地生活",
+    "explicit": false
   },
   {
     "uuid": "5cda9490-4117-012e-1622-00163e1b201c",
@@ -2399,7 +2423,8 @@
     },
     "descriptionHtml": "The Vergecast is the flagship podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, hosts Nilay Patel and David Pierce hang out and make sense of the week’s most important technology news. And every Tuesday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours.",
     "isPrivate": false,
-    "slug": "the-vergecast"
+    "slug": "the-vergecast",
+    "explicit": false
   },
   {
     "uuid": "65e704e0-3572-0138-9703-0acc26574db2",
@@ -2488,7 +2513,8 @@
     },
     "descriptionHtml": "失败、背叛、不被理解&#xff0c;硅谷精神领袖一直都不是完美的存在&#xff1b;他们是科学家&#xff0c;创造者&#xff0c;行动派&#xff0c;他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目&#xff0c;是一档分享当下最新鲜的技术、知识与思想的科技播客。<br />公众账号&#xff1a;硅谷101<br />联系邮箱&#xff1a;podcast&#64;sv101.net",
     "isPrivate": false,
-    "slug": "硅谷101"
+    "slug": "硅谷101",
+    "explicit": false
   },
   {
     "uuid": "66648910-39e9-013c-f6ba-0acc26574db2",
@@ -2577,7 +2603,8 @@
     },
     "descriptionHtml": "用很科学的角度&#xff0c;去爱很鲜活的生命 &#x1f331;<br /><br />&#61;关于主播&#61;<br /><br />我是梦妮&#xff0c;牛津大学生物医学博士。读博时不爱读文献&#xff0c;现在却在科研数据的坑里越挖越深 &#x1f393;<br /><br />年纪轻轻便腰酸背痛的我&#xff0c;在枸杞秋裤和热水都表示束手无策后&#xff0c;决心利用自己读文献的速度和能力&#xff0c;开辟一条日常实用的生存指南&#xff0c;帮助大家也帮助自己更了解自身&#xff0c;更了解彼此&#xff0c;更了解这个世界 &#x1f49d;<br /><br />我们接受一切批评和质疑&#xff0c;拒绝玄学养生 &#x1f645;&#x1f3fb;‍♀️<br />以生物学原理为锚点&#xff0c;高质量数据为支撑产出内容 &#x1f4da;<br />这不只是一份人类生存指南&#xff0c;还是猫猫狗狗动物植物..各种各样鲜活生命的说明书 &#x1f331;<br /><br />&#61;节目荣誉&#61;<br /><br />2024年度 Apple 播客年度编辑精选&#xff0c;2024年度 CPA&#xff08;Chines Podcast Award&#xff09;年度播客&#xff0c;2024年小宇宙趋势播客 &amp; 年度特别推荐单集",
     "isPrivate": false,
-    "slug": "碳基生物生存指南"
+    "slug": "碳基生物生存指南",
+    "explicit": false
   },
   {
     "uuid": "7160b1f0-4a71-0137-f266-1d245fc5f9cf",
@@ -2587,9 +2614,9 @@
     "author": "NPR",
     "description": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, host Marielle Segarra talks to experts to get the best advice out there. Life Kit is here to help you get it together. Want another life hack? Try Life Kit+. You'll support the show and unlock exclusive curated playlists and sponsor-free listening. Learn more at plus.npr.org/lifekit",
     "url": "https://www.npr.org/podcasts/510338/all-guides",
-    "lastEpisodePublished": "2026-05-11T07:00:04Z",
+    "lastEpisodePublished": "2026-05-12T07:00:03Z",
     "unplayed": true,
-    "lastEpisodeUuid": "aa4cdccf-fc10-4258-a1b3-d3f189939a8f",
+    "lastEpisodeUuid": "4501d4ea-921a-46ef-ab73-9eab021eb74b",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -2755,7 +2782,8 @@
     },
     "descriptionHtml": "<p>一档时而开玩笑&#xff0c;时而不开玩笑的播客。是播客&#xff0c;不是喜剧播客。<br />关注公众号“猫头鹰喜剧”回复“听友群”&#xff0c;小助手会把你拉进群聊&#xff5e;<br /><br /></p><br />",
     "isPrivate": false,
-    "slug": "不开玩笑-jokes-aside"
+    "slug": "不开玩笑-jokes-aside",
+    "explicit": false
   },
   {
     "uuid": "7a84abd0-15dd-013c-f5f5-0acc26574db2",
@@ -2844,7 +2872,8 @@
     },
     "descriptionHtml": "节目名称&#xff1a;福说聊天会<br />节目简介&#xff1a; 起初来自于福州几名脱口秀爱好者之间的闲扯——自己聊天把自己逗笑就太亏了&#xff0c;为啥不录成节目逗笑大家呢&#xff1f;<br /><br />这是一个杂谈类的播客节目&#xff0c;话题天马行空。偶尔有一些相对小众或专业的话题&#xff0c;我们会以番外篇的方式推出。<br /><br />我们的初衷就是让大家开心&#xff0c;但是也想尽可能地聊出点东西来&#xff0c;每一期我们会诚挚邀请有趣可爱的朋友&#xff0c;聊一聊他们擅长的话题——有兴趣的你也可以报名哟~<br /><br />在这个碎片化的快节奏时代&#xff0c;一群陌生人&#xff0c;愿意听我们闲唠嗑&#xff0c;对于讲述者和倾听者&#xff0c;也许都能感受到对方的善意吧&#xff01;",
     "isPrivate": false,
-    "slug": "福说聊天会"
+    "slug": "福说聊天会",
+    "explicit": false
   },
   {
     "uuid": "7c6c1c10-8897-0136-7b90-27f978dac4db",
@@ -2933,7 +2962,8 @@
     },
     "descriptionHtml": "在无聊斋&#xff0c;笑着遇见人间。",
     "isPrivate": false,
-    "slug": "无聊斋"
+    "slug": "无聊斋",
+    "explicit": false
   },
   {
     "uuid": "8a778760-a1de-0138-e66a-0acc26574db2",
@@ -3022,7 +3052,8 @@
     },
     "descriptionHtml": "&#34;SmartLess&#34; with Jason Bateman, Sean Hayes, &amp; Will Arnett is a podcast that connects and unites people from all walks of life to learn about shared experiences through thoughtful dialogue and organic hilarity. A nice surprise: in each episode of SmartLess, one of the hosts reveals his mystery guest to the other two. What ensues is a genuinely improvised and authentic conversation filled with laughter and newfound knowledge to feed the SmartLess mind.<br /><br />Subscribe to SiriusXM Podcasts&#43; to listen to new episodes of SmartLess ad-free and a whole week early. <br />Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
     "isPrivate": false,
-    "slug": "smartless"
+    "slug": "smartless",
+    "explicit": true
   },
   {
     "uuid": "8d0aa0f0-50fc-013a-d6d9-0acc26574db2",
@@ -3033,10 +3064,10 @@
     "description": "我是肥杰（微博：@肥杰_FatJay），喜欢讲有趣的故事，这是我的播客，会有很多欢乐。一起聊天的还有惠子（微博：@惠子老师_），她比我智慧、比我稳重，甚至有时候比我搞笑。每周一更新，偶尔会加更，希望陪你度过美好时光。",
     "url": "https://www.ximalaya.com/album/56109512",
     "lastEpisodePublished": "2026-05-10T23:25:00Z",
-    "unplayed": true,
+    "unplayed": false,
     "lastEpisodeUuid": "faaeccdd-fba2-4272-aaef-06512389655d",
-    "lastEpisodePlayingStatus": 1,
-    "lastEpisodeArchived": false,
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
     "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
     "sortPosition": 3,
@@ -3111,7 +3142,8 @@
     },
     "descriptionHtml": "<p>我是肥杰&#xff08;微博&#xff1a;&#64;肥杰_FatJay&#xff09;&#xff0c;喜欢讲有趣的故事&#xff0c;这是我的播客&#xff0c;会有很多欢乐。<br /><br />一起聊天的还有惠子&#xff08;微博&#xff1a;&#64;惠子老师_&#xff09;&#xff0c;她比我智慧、比我稳重&#xff0c;甚至有时候比我搞笑。<br /><br />每周一更新&#xff0c;偶尔会加更&#xff0c;希望陪你度过美好时光。<br /></p>",
     "isPrivate": false,
-    "slug": "肥话连篇"
+    "slug": "肥话连篇",
+    "explicit": false
   },
   {
     "uuid": "8d728390-249c-0131-73be-723c91aeae46",
@@ -3121,9 +3153,9 @@
     "author": "Sam Harris",
     "description": "Join neuroscientist, philosopher, and five-time New York Times best-selling author Sam Harris as he explores important and controversial questions about the mind, society, current events, moral philosophy, religion, and rationality—with an overarching focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. \n\nSam is also the creator of the Waking Up app. Combining Sam's decades of mindfulness practice, profound wisdom from varied philosophical and contemplative traditions, and a commitment to a secular, scientific worldview, Waking Up is a resource for anyone interested in living a more examined, fulfilling life—and a new operating system for the mind. \n\nWaking Up offers free subscriptions to anyone who can't afford one, and donates a minimum of 10% of profits to the most effective charities around the world. To learn more, please go to WakingUp.com.  \n\nSam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
     "url": "http://www.samharris.org",
-    "lastEpisodePublished": "2026-05-07T19:45:00Z",
+    "lastEpisodePublished": "2026-05-12T17:30:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "dbd0b76e-ae34-4fea-b117-a26f76858396",
+    "lastEpisodeUuid": "1d128d64-9540-4441-9499-96c3122a8bc2",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -3200,7 +3232,8 @@
     },
     "descriptionHtml": "Join neuroscientist, philosopher, and five-time New York Times best-selling author Sam Harris as he explores important and controversial questions about the mind, society, current events, moral philosophy, religion, and rationality—with an overarching focus on how a growing understanding of ourselves and the world is changing our sense of how we should live. <br /><br />Sam is also the creator of the Waking Up app. Combining Sam&#39;s decades of mindfulness practice, profound wisdom from varied philosophical and contemplative traditions, and a commitment to a secular, scientific worldview, Waking Up is a resource for anyone interested in living a more examined, fulfilling life—and a new operating system for the mind. <br /><br />Waking Up offers free subscriptions to anyone who can&#39;t afford one, and donates a minimum of 10% of profits to the most effective charities around the world. To learn more, please go to WakingUp.com.  <br /><br />Sam Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.",
     "isPrivate": false,
-    "slug": "making-sense-with-sam-harris"
+    "slug": "making-sense-with-sam-harris",
+    "explicit": false
   },
   {
     "uuid": "91bd7550-2479-013c-f63c-0acc26574db2",
@@ -3289,7 +3322,8 @@
     },
     "descriptionHtml": "“三个火呛手”是三个同时开始讲脱口秀的喜剧伙伴&#xff0c;一起合计着整一个的播客节目&#xff0c;聊一聊脱口秀行业背后的故事&#xff0c;唠一唠社会上的热点话题&#xff0c;骂一骂那些该骂的人或事&#xff0c;真诚是我们的必杀技&#xff0c;好笑是我们的座右铭。<br /><br />加听友群&#xff0c;添加V信号&#xff1a;hqs3ge<br /><br />商务合作请发邮件至 &#xff1a;hqs3ge&#64;sina.com",
     "isPrivate": false,
-    "slug": "三个火呛手"
+    "slug": "三个火呛手",
+    "explicit": false
   },
   {
     "uuid": "9640e5f0-bda1-013a-d91b-0acc26574db2",
@@ -3299,11 +3333,11 @@
     "author": "袁莉和她的朋友们",
     "description": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众，在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目，不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。 Hosted on Acast. See acast.com/privacy for more information.",
     "url": "https://bumingbai.net/",
-    "lastEpisodePublished": "2026-05-08T13:42:29Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "a7aec12a-2480-41c7-85ac-677a2507e519",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-05-12T12:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "0ce21285-124b-4ad6-902a-7aff192e5bcb",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
     "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
     "sortPosition": 21,
@@ -3376,7 +3410,8 @@
     },
     "descriptionHtml": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众&#xff0c;在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目&#xff0c;不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。<p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
     "isPrivate": false,
-    "slug": "不明白播客"
+    "slug": "不明白播客",
+    "explicit": false
   },
   {
     "uuid": "968cc2a0-50bd-013c-9eb8-0acc26574db2",
@@ -3465,7 +3500,8 @@
     },
     "descriptionHtml": "Trevor currently hosts a weekly podcast titled What Now? with Trevor Noah. In this new podcast, listeners get a chance to hear Trevor like never before. Trevor is joined each episode by celebrities, thought leaders, athletes, and friends to chat about the contemporary topics on everyone’s minds. He brings the kinds of conversations that happen behind the scenes to light - full of radical candor, authentic back-and-forths, and honest reactions, with Trevor bringing to bear his classic, effortlessly playful and equally probing style.<br />Get in touch with us! Send your voice recordings to whatnow&#64;dayzeroproductions.com with suggestions for topics, guests, or what you would do If You Ruled the World and we may just use it on the show!<br />Subscribe to SiriusXM Podcasts&#43; to listen to new episodes of What Now ad-free. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
     "isPrivate": false,
-    "slug": "what-now-with-trevor-noah"
+    "slug": "what-now-with-trevor-noah",
+    "explicit": false
   },
   {
     "uuid": "98e970a0-aa77-013c-a030-0acc26574db2",
@@ -3554,7 +3590,8 @@
     },
     "descriptionHtml": "李诞的播客<br /><br />播客让我有种使用古早互联网的感觉&#xff0c;真诚的分享&#xff0c;遥远的共鸣&#xff0c;匿名般的交流&#xff0c;人与人更显亲密&#xff0c;我好像也不是那么“李诞”了。<br /><br />我由于说话太多&#xff0c;对自己的话究竟有没有人想听早已失去了判断。<br /><br />袁袁是我非常信赖的朋友&#xff0c;我们好像都没一起吃过饭&#xff0c;只是聊过几次很长的天&#xff0c;请她来做这个播客的制作人再合适不过。<br /><br />在这里与你分享我的所见所闻&#xff0c;所思所想&#xff0c;所困所惑。现代生活就是一场茫茫黑夜漫游&#xff0c;因为种种误会我们总希望找到灯塔&#xff0c;总误以为看到了灯塔&#xff0c;然而其实看到的往往只是另一个人晃来晃去的手电。希望这个播客能成为一个照亮你某时某刻的手电&#xff0c;如果不能&#xff0c;那我们就共享黑暗&#xff0c;enjoy&#xff01;<br /><br />商务合作&#xff1a;youla&#64;easy-ent.com",
     "isPrivate": false,
-    "slug": "李诞"
+    "slug": "李诞",
+    "explicit": false
   },
   {
     "uuid": "99cf6a50-9946-013b-f341-0acc26574db2",
@@ -3643,7 +3680,8 @@
     },
     "descriptionHtml": "本节目由《小高的岛》的主播高嘉程&#xff0c;和《真实的人类》的主播曹富贵搭档主持。<br />&#x1f360;&#xff1a;高贵Videos<br />&#x1f9e3;&#xff1a;&#64;高嘉程Gjc &#64;曹富贵儿本人",
     "isPrivate": false,
-    "slug": "高贵fm"
+    "slug": "高贵fm",
+    "explicit": true
   },
   {
     "uuid": "9afe72f0-48aa-013d-194c-0acc26574db2",
@@ -3732,7 +3770,8 @@
     },
     "descriptionHtml": "<p>半拿铁宇宙的衍生播客&#xff0c;这次我们来&#xff0c;聊西游。</p><p>请坐&#xff0c;咱们边喝边唠。<br /></p>",
     "isPrivate": false,
-    "slug": "半拿铁故事篇"
+    "slug": "半拿铁故事篇",
+    "explicit": false
   },
   {
     "uuid": "9ea03270-1ff6-0131-6ebd-723c91aeae46",
@@ -3742,9 +3781,9 @@
     "author": "iHeartPodcasts",
     "description": "From UFOs to psychic powers and government cover-ups, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don't Want You To Know ... an audio podcast from iHeartRadio.",
     "url": "https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/",
-    "lastEpisodePublished": "2026-05-11T16:05:00Z",
+    "lastEpisodePublished": "2026-05-12T10:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "79434f59-4468-43bf-8a63-a3aad57ae569",
+    "lastEpisodeUuid": "13fa8c1c-b3d4-41d3-9570-0b380b6f1e86",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -3821,7 +3860,8 @@
     },
     "descriptionHtml": "<p>From UFOs to psychic powers and government cover-ups, history is riddled with unexplained events. You can turn back now or learn the Stuff They Don&#39;t Want You To Know ... an audio podcast from iHeartRadio.</p>",
     "isPrivate": false,
-    "slug": "stuff-they-dont-want-you-to-know"
+    "slug": "stuff-they-dont-want-you-to-know",
+    "explicit": false
   },
   {
     "uuid": "a3a97cd0-caec-013d-ef18-0e2c841e8133",
@@ -3831,9 +3871,9 @@
     "author": "王子Wz",
     "description": "资讯早7点，一起来了解过去24小时有哪些值得关注的消息！\n\n#工作日 #早七点 #十分钟 #日更 #资讯",
     "url": "https://www.xiaoyuzhoufm.com/podcast/67891a429407dcd1bfbfcfcb?utm_source=rss",
-    "lastEpisodePublished": "2026-05-11T23:00:00Z",
+    "lastEpisodePublished": "2026-05-12T23:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "c4cfff16-62e0-4541-8f43-87c860f25fb7",
+    "lastEpisodeUuid": "8d5ef21b-5a09-4353-a8f4-405779146e59",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -3910,7 +3950,8 @@
     },
     "descriptionHtml": "资讯早7点&#xff0c;一起来了解过去24小时有哪些值得关注的消息&#xff01;<br /><br />#工作日 #早七点 #十分钟 #日更 #资讯",
     "isPrivate": false,
-    "slug": "资讯早7点"
+    "slug": "资讯早7点",
+    "explicit": false
   },
   {
     "uuid": "ac4b5a00-4d71-0139-338e-0acc26574db2",
@@ -3921,10 +3962,10 @@
     "description": "用简单易懂的语言解读商业现象。联系我们：thatisbiz@yicai.com",
     "url": "https://www.ximalaya.com/album/46587439",
     "lastEpisodePublished": "2026-05-10T23:00:00Z",
-    "unplayed": true,
+    "unplayed": false,
     "lastEpisodeUuid": "0eebfe21-76f6-48b2-9188-e845564e2571",
-    "lastEpisodePlayingStatus": 1,
-    "lastEpisodeArchived": false,
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
     "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
     "sortPosition": 1,
@@ -3999,7 +4040,8 @@
     },
     "descriptionHtml": "用简单易懂的语言解读商业现象。联系我们&#xff1a;thatisbiz&#64;yicai.com",
     "isPrivate": false,
-    "slug": "商业就是这样"
+    "slug": "商业就是这样",
+    "explicit": false
   },
   {
     "uuid": "b07971e0-a35b-012f-41f3-525400c11844",
@@ -4088,7 +4130,8 @@
     },
     "descriptionHtml": "够酸够劲爆&#xff01;公众号&#xff1a;酸菜馆播客&#xff0c;荣获Apple精选播客奖",
     "isPrivate": false,
-    "slug": "新闻酸菜馆"
+    "slug": "新闻酸菜馆",
+    "explicit": false
   },
   {
     "uuid": "b45f7320-b909-0136-7b93-27f978dac4db",
@@ -4177,7 +4220,8 @@
     },
     "descriptionHtml": "Sean Fennessey and Amanda Dobbins review the movies you need to see. Plus: Top 5s, Movie Drafts, Oscars analysis, and more, featuring a rotating cast of Ringer colleagues like Chris Ryan, Van Lathan, and Bill Simmons.",
     "isPrivate": false,
-    "slug": "the-big-picture"
+    "slug": "the-big-picture",
+    "explicit": false
   },
   {
     "uuid": "b67a4cf0-4b30-0130-e316-723c91aeae46",
@@ -4266,7 +4310,8 @@
     },
     "descriptionHtml": "EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&#39;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&#39;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000&#43; episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.",
     "isPrivate": false,
-    "slug": "econtalk"
+    "slug": "econtalk",
+    "explicit": false
   },
   {
     "uuid": "c59b45b0-0bc4-012e-fb02-00163e1b201c",
@@ -4444,7 +4489,8 @@
     },
     "descriptionHtml": "<p>《凹凸电波》是一档打破传统认知的两性杂谈类脱口秀节目。这里是属于当代男女的情感自留地。我们热衷于剖析那些微妙又有趣的情感话题&#xff0c;分享每个人成长经历中那些不可思议的爆笑瞬间。<br />在快节奏的日常里&#xff0c;我们希望《凹凸电波》能成为你繁忙生活中的一个小小避风港。没有压力&#xff0c;只有共鸣&#xff0c;在这里&#xff0c;让我们一起通过欢笑找回最真实的自己。<br />别着急&#xff0c;慢慢来。<br /><br /><br />本节目由播客厂牌——凹凸宇宙出品<br /><br /><br />公众号&#xff1a;凹凸电波<br />微博&#xff1a;凹凸电波<br />商务合作&#xff1a; aotu_hezuo&#64;163.com<br /><br /><br />版权所有&#xff0c;保留一切权利。禁止未经授权的二次上传、修改及任何商业用途&#xff0c;包括AI学习、采样或训练。基于本作品的二次创作&#xff0c;请在明确标注原始出处的前提下进行&#xff0c;感谢理解。如需举报侵权行为&#xff0c;请通过官方渠道向我们联系。<br /></p><br /><br /><br />",
     "isPrivate": false,
-    "slug": "凹凸电波"
+    "slug": "凹凸电波",
+    "explicit": true
   },
   {
     "uuid": "d07e58e0-d338-0137-1e20-0acc26574db2",
@@ -4533,7 +4579,8 @@
     },
     "descriptionHtml": "<p>「文化有限」是一档泛文化播客&#xff0c;每周二更新&#xff0c;和你分享最打动我们的作品。<br /><br />主播大壹、星光和超哥&#xff0c;是三位来自互联网和文化行业的从业者。<br /><br />在这个可以把“知识”做成产品售卖的时代&#xff0c;很多人说通过几个视频、几条音频、几篇文章&#xff0c;就能让人认知升级、人格跃迁。<br /><br />和他们相比&#xff0c;「文化有限」除了能给你解解闷儿以外&#xff0c;百无一用。我们也知道&#xff0c;自己对这个世界乃至我们自己&#xff0c;知之甚少。<br /><br />好在&#xff0c;我们希望通过这档播客提醒自己&#xff0c;永远对这个世界保持好奇&#xff0c;保持谦卑。<br /><br />在各大音频平台都能搜到我们&#xff0c;欢迎点击订阅。<br /></p>",
     "isPrivate": false,
-    "slug": "文化有限"
+    "slug": "文化有限",
+    "explicit": false
   },
   {
     "uuid": "d55e41b0-bdcb-0133-2e7c-6dc413d6d41d",
@@ -4622,7 +4669,8 @@
     },
     "descriptionHtml": "「津津乐道」是互联网老兵携手各领域达人&#xff0c;联手制作的高质量对谈播客。内容涵盖备受关注的泛科技、创业、技术、商业、生活方式等话题内容。在轻松有趣的气氛下&#xff0c;为职场人士带来从实际经验出发的观点和更有深度的内容。<br />\n<br />\n分享经验、传播体验&#xff0c;让我们一起用耳朵体验世界。<br />\n<br />\n「津津乐道播客网络」旗下拥有多档节目&#xff0c;是苹果播客年度最佳播客获得者、RODE全球播客大赛奖项获得者。",
     "isPrivate": false,
-    "slug": "津津乐道"
+    "slug": "津津乐道",
+    "explicit": false
   },
   {
     "uuid": "d6419550-fe83-013a-da8f-0acc26574db2",
@@ -4632,9 +4680,9 @@
     "author": "庄尼走路",
     "description": "闲聊关于爱情、城市、音乐或八卦，希望可以陪你上班，也伴你睡着，用轻松幽默的态度看待万物",
     "url": "https://www.xiaoyuzhoufm.com/podcast/61caf0508bb4cd867fcabe15?utm_source=rss",
-    "lastEpisodePublished": "2026-04-28T16:00:00Z",
+    "lastEpisodePublished": "2026-05-12T16:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "ddfcc4e9-f873-4768-8acb-bc4b7d3cf064",
+    "lastEpisodeUuid": "84f348a0-52e7-474d-8247-e0abc718891e",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -4711,7 +4759,8 @@
     },
     "descriptionHtml": "闲聊关于爱情、城市、音乐或八卦&#xff0c;希望可以陪你上班&#xff0c;也伴你睡着&#xff0c;用轻松幽默的态度看待万物",
     "isPrivate": false,
-    "slug": "m字闲聊"
+    "slug": "m字闲聊",
+    "explicit": false
   },
   {
     "uuid": "d8b89fc0-67aa-0138-a0e1-0acc26574db2",
@@ -4800,7 +4849,8 @@
     },
     "descriptionHtml": "《东亚观察局》是由主播梵一如、沙青青、权小星三人为固定成员的对谈聊天节目&#xff0c;聚焦以中日韩三国为核心的“东亚地区”的热点话题、文化现象以及历史趣闻。节目每周五上线。【出品/制作&#xff1a;番薯剥壳工作室 Yakimo Studio】",
     "isPrivate": false,
-    "slug": "东亚观察局"
+    "slug": "东亚观察局",
+    "explicit": false
   },
   {
     "uuid": "db70dab0-1ca7-0133-25a3-059c869cc4eb",
@@ -4889,7 +4939,8 @@
     },
     "descriptionHtml": "观察世界&#xff0c;认识自己",
     "isPrivate": false,
-    "slug": "加州101"
+    "slug": "加州101",
+    "explicit": false
   },
   {
     "uuid": "dd58ca30-f8b3-0139-d505-0acc26574db2",
@@ -4978,7 +5029,8 @@
     },
     "descriptionHtml": "<p>欢迎收听由「惊讶喜剧」出品的「正经叭叭」。我们的单口喜剧&#xff08;脱口秀&#xff09;演员们&#xff0c;每期会在录制现场和观众朋友们一起聊一些有趣的、日常的话题&#xff0c;希望可以给大家带来一点点快乐&#xff0c;发现生活的更多美好。</p><p>加听友群参与录制&#xff0c;添加V信号:musicandcomedy<br /></p><p>商务合作请发邮件至88&#64;wowcomedy.club</p>",
     "isPrivate": false,
-    "slug": "正经叭叭"
+    "slug": "正经叭叭",
+    "explicit": true
   },
   {
     "uuid": "e21e3ff0-947c-012e-4b0c-00163e1b201c",
@@ -4990,7 +5042,7 @@
     "url": "https://www.dutchpod101.com",
     "lastEpisodePublished": "2026-05-09T09:30:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "33df580b-6db2-4f19-85b0-34ef414e46fa",
+    "lastEpisodeUuid": "3a8ed063-8fd5-4463-90a4-dde4f4e9ab1f",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
@@ -5067,7 +5119,8 @@
     },
     "descriptionHtml": "Learn Dutch fast, easy and at your own pace with DutchPod101.com Audio Podcasts and Videocasts. **--- Free Lifetime Account and password protected iTunes lesson feed available at DutchPod101.com ---** ... NOW OVER --- 101,000,000 --- Language Lessons downloaded so far and Brian Heater of  -- PC Magazine -- says &#34;These podcasts offer a painless and FREE way to bone up on the language and culture in a relevant, real world way that you won&#39;t get in a class room or on a CDROM.&#34;  You get comprehensive, easy to use lessons that make learning Dutch fun for anyone. Each audio podcast contains a complete lesson and can be downloaded in seconds to your iPod, iPhone, iPad, computer or mp3 player so that you can learn Dutch quickly and actually be speaking Dutch in no time at all. These Audio Podcasts and Videocasts are your ticket to learning to speak Dutch with confidence and accuracy, and you&#39;ll be speaking Dutch with your very first lesson! :)<br />\r\nWant more? If you are serious about learning Dutch, you are missing out here! Get the full Free Dutch Language Learning podcast experience.  It&#39;s simple, easy [and did I mention free] to get a lifetime learning account on DutchPod101.com where you will get access to hundreds more full lessons, and direct access to our members only password protected iTunes feed.  All Free lifetime account media files including the audio podcast, informal, bonus audio tracks, the dialog track, the lesson review track, videos, and all PDF lesson materials will be automatically downloaded for each new lesson as they become available. This is a great time saver and a way to give you consistent, instant access to the latest and best Dutch lesson materials.  Make Learning Dutch fun, start listening today and don&#39;t miss out on getting your FREE Lifetime Account and password protected iTunes lesson feed available only at DutchPod101.com.",
     "isPrivate": false,
-    "slug": "learn-dutch-dutchpod101com"
+    "slug": "learn-dutch-dutchpod101com",
+    "explicit": false
   },
   {
     "uuid": "e353ebb0-1341-0139-41da-0acc26574db2",
@@ -5156,7 +5209,8 @@
     },
     "descriptionHtml": "一样的世界&#xff0c;不一样的思考。「东腔西调」是由大观天下志制作播出的一档文化类对谈播客。在这里&#xff0c;主播将与来自不同领域的嘉宾学者聊聊他们关心的世界和生活&#xff0c;探寻社会文化观念背后的来龙去脉。我们还将不定期放送「思想季」与「冷思考」等特别策划栏目。突破茧房&#xff0c;不赶浪潮&#xff0c;学术也可以接地气。",
     "isPrivate": false,
-    "slug": "东腔西调"
+    "slug": "东腔西调",
+    "explicit": false
   },
   {
     "uuid": "e5521d00-7bc3-013b-f2a1-0acc26574db2",
@@ -5245,7 +5299,8 @@
     },
     "descriptionHtml": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories.<br /><br />To get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts&#43; on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
     "isPrivate": false,
-    "slug": "the-economics-of-everyday-things"
+    "slug": "the-economics-of-everyday-things",
+    "explicit": false
   },
   {
     "uuid": "ef99e990-4428-0135-902a-63f4b61a9224",
@@ -5334,7 +5389,8 @@
     },
     "descriptionHtml": "《设计乘数》是由用户体验设计师龚子仪发起的播客&#xff0c;他相信多学科整合的力量能够给设计带来乘数效应。播客试图讨论科技、哲学、社会、经济、心理等诸多话题&#xff0c;用多元的角度参与并不断进行探索。",
     "isPrivate": false,
-    "slug": "infoier-设计乘数"
+    "slug": "infoier-设计乘数",
+    "explicit": false
   },
   {
     "uuid": "f1a00860-010e-013c-f567-0acc26574db2",
@@ -5423,7 +5479,8 @@
     },
     "descriptionHtml": "思文的播客。",
     "isPrivate": false,
-    "slug": "思文败类"
+    "slug": "思文败类",
+    "explicit": false
   },
   {
     "uuid": "f5a28790-ae2c-0135-9e5c-5bb073f92b78",
@@ -5512,7 +5569,8 @@
     },
     "descriptionHtml": "<p>Slow Burn illuminates America’s most consequential moments, making sense of the past to better understand the present. Through archival tape and first-person interviews, the series uncovers the surprising events and little-known characters lurking within the biggest stories of our time.</p><br /><p>Join Slate Plus to unlock full, ad-free access to Slow Burn and your other favorite Slate podcasts. You can subscribe from the Slow Burn show page on Apple Podcasts and Spotify. Or visit slate.com/slowburnplus to get access wherever you listen.</p><br /><p><strong>Season 11: Becoming Justice Gorsuch</strong></p><p>How Neil Gorsuch laid the foundation for a SCOTUS supermajority and then became its most unexpected wild card.</p><br /><p><strong>Season 10: The Rise of Fox News</strong></p><p>How a cable news channel became a cultural and political force—and how a whole bunch of people rose up to try and stop it.</p><br /><p><strong>Season 9: Gays Against Briggs</strong></p><p>A nationwide moral panic, a California legislator who rode the anti-gay wave, and the LGBTQ&#43; people who stepped up and came out to try and stop him.</p><br /><p><strong>Season 8: Becoming Justice Thomas</strong></p><p>Where Clarence Thomas came from, how he rose to power, and how he’s brought the rest of us along with him, whether we like it or not. Winner of the Podcast of the Year at the 2024 Ambies Awards.</p><br /><p><strong>Season 7: Roe v. Wade</strong></p><p>The women who fought for legal abortion, the activists who pushed back, and the justices who thought they could solve the issue for good. Winner of Apple Podcasts Show of the Year in 2022.</p><br /><p><strong>Season 6: The L.A. Riots</strong></p><p>How decades of police brutality, a broken justice system, and a video tape set off six days of unrest in Los Angeles.</p><br /><p><strong>Season 5: The Road to the Iraq War</strong></p><p>Eighteen months after 9/11, the United States invaded a country that had nothing to do with the attacks. Who’s to blame? And was there any way to stop it?</p><br /><p><strong>Season 4: David Duke</strong></p><p>America’s most famous white supremacist came within a runoff of controlling Louisiana. How did David Duke rise to power? And what did it take to stop him?</p><br /><p><strong>Season 3: Biggie and Tupac</strong></p><p>How is it that two of the most famous performers in the world were murdered within a year of each other—and their killings were never solved?</p><br /><p><strong>Season 2: The Clinton Impeachment</strong></p><p>A reexamination of the scandals that nearly destroyed the 42nd president and forever changed the life of a former White House intern.</p><br /><p><strong>Season 1: Watergate</strong></p><p>What did it feel like to live through the scandal that brought down President Nixon?</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\">acast.com/privacy</a> for more information.</p>",
     "isPrivate": false,
-    "slug": "slow-burn"
+    "slug": "slow-burn",
+    "explicit": false
   },
   {
     "uuid": "fba5e580-1ef6-0138-9fc0-0acc26574db2",
@@ -5601,6 +5659,7 @@
     },
     "descriptionHtml": "「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客&#xff0c;a.k.a编辑们的午饭闲聊精选集&#xff0c;欢迎入座。每两周日更新一集。<br />欢迎下载「看理想」App留言互动&#xff0c;更多精彩内容请搜索微信公众号或微博 &#64;看理想。",
     "isPrivate": false,
-    "slug": "没理想编辑部"
+    "slug": "没理想编辑部",
+    "explicit": false
   }
 ]
