@@ -13,9 +13,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "folderUuid": "2f729793-7321-492d-85a0-253ef45635ad",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:53.223Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -52,16 +52,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -104,9 +105,9 @@
     "lastEpisodePlayingStatus": 3,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "531726e0-0604-4742-ab94-45c375f74d8b",
+    "folderUuid": "69ad8fc6-e6e1-434b-9b91-28d12222b609",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:54.560Z",
+    "dateAdded": "2025-07-07T21:30:54Z",
     "settings": {
       "notification": {
         "value": false,
@@ -143,16 +144,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -195,9 +197,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "defa22a6-f1bb-43bf-a87f-79af7e796ea1",
+    "folderUuid": "d42abb02-d347-491e-a1fa-ef939fdf9fff",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:57.349Z",
+    "dateAdded": "2025-07-07T21:30:57Z",
     "settings": {
       "notification": {
         "value": false,
@@ -234,16 +236,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -286,9 +289,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "folderUuid": "32d760df-8f60-4c4e-8de7-9d10bfa85cef",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:54.754Z",
+    "dateAdded": "2025-07-07T21:30:54Z",
     "settings": {
       "notification": {
         "value": false,
@@ -325,16 +328,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -377,9 +381,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "aa5e0387-fa8d-440c-b898-078ecb81fafd",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:50.836Z",
+    "dateAdded": "2025-07-07T21:30:50Z",
     "settings": {
       "notification": {
         "value": false,
@@ -416,16 +420,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -468,9 +473,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "32d760df-8f60-4c4e-8de7-9d10bfa85cef",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:57.006Z",
+    "dateAdded": "2025-07-07T21:30:57Z",
     "settings": {
       "notification": {
         "value": false,
@@ -507,16 +512,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -559,9 +565,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "92e3872b-45f1-484f-a7ad-779aa07c08e0",
+    "folderUuid": "c63f3fd5-c638-4d61-81cb-ce7a93b62915",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:54.099Z",
+    "dateAdded": "2025-07-07T21:30:54Z",
     "settings": {
       "notification": {
         "value": false,
@@ -598,16 +604,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -644,15 +651,15 @@
     "author": "世界莫名其妙物语",
     "description": "《世界莫名其妙物语》是一档介绍世界中莫名其妙知识的女子相声节目，以科研废料炒冷饭和南京口音说段子为主要卖点，每周一各大播客平台同步更新。曾荣获2021年度苹果最佳播客。",
     "url": "https://www.ximalaya.com/album/38212408",
-    "lastEpisodePublished": "2026-08-09T21:30:00Z",
+    "lastEpisodePublished": "2026-08-23T21:30:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "5389bca9-37ca-4f70-9673-9421bb4ba71d",
+    "lastEpisodeUuid": "a8f2d968-dd6d-419b-b8d7-43afb34b2dd1",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "folderUuid": "681b2911-422a-4dc2-b31e-5bdb9c93df13",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:31:00.161Z",
+    "dateAdded": "2025-07-07T21:31:00Z",
     "settings": {
       "notification": {
         "value": false,
@@ -689,16 +696,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -741,9 +749,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "aa5e0387-fa8d-440c-b898-078ecb81fafd",
     "sortPosition": 4,
-    "dateAdded": "2025-07-07T21:30:56.493Z",
+    "dateAdded": "2025-07-07T21:30:56Z",
     "settings": {
       "notification": {
         "value": false,
@@ -780,16 +788,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -831,9 +840,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "32d760df-8f60-4c4e-8de7-9d10bfa85cef",
     "sortPosition": 5,
-    "dateAdded": "2025-07-07T21:30:51.786Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -870,16 +879,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -922,9 +932,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "47fa61d9-e948-46cc-8404-7f52a8572a41",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:56.243Z",
+    "dateAdded": "2025-07-07T21:30:56Z",
     "settings": {
       "notification": {
         "value": false,
@@ -961,16 +971,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1013,9 +1024,9 @@
     "lastEpisodePlayingStatus": 2,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "d42abb02-d347-491e-a1fa-ef939fdf9fff",
     "sortPosition": 18,
-    "dateAdded": "2025-12-16T03:02:28.544Z",
+    "dateAdded": "2025-12-16T03:02:28Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1052,16 +1063,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T03:08:00.110Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T03:08:00.110Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1098,15 +1110,15 @@
     "author": "Gareth Myles",
     "description": "Lively and rousing weekly UK based podcast about all forms of technology.\n\nHosted by Gareth Myles and Ted Salmon\n\nVisit us at www.techaddicts.uk",
     "url": "http://www.techaddicts.uk",
-    "lastEpisodePublished": "2026-08-16T12:19:00Z",
-    "unplayed": true,
-    "lastEpisodeUuid": "dd407b92-b2fe-45c5-905e-aa9d15a89736",
-    "lastEpisodePlayingStatus": 1,
-    "lastEpisodeArchived": false,
+    "lastEpisodePublished": "2026-08-23T12:16:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "506af329-a3bf-41c1-9fa0-67d32f740f4a",
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "2956e3c5-c625-469e-affb-c2c7eddc007c",
     "sortPosition": 26,
-    "dateAdded": "2026-05-13T18:28:39.799Z",
+    "dateAdded": "2026-05-13T18:28:39Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1143,16 +1155,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1195,9 +1208,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "folderUuid": "2956e3c5-c625-469e-affb-c2c7eddc007c",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:51.993Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1234,16 +1247,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1286,9 +1300,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "c7d66750-2ccb-43c9-868b-ddfd0cb3b51a",
     "sortPosition": 22,
-    "dateAdded": "2026-02-21T23:52:18.005Z",
+    "dateAdded": "2026-02-21T23:52:18Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1324,15 +1338,18 @@
       },
       "autoStartFrom": {
         "value": 0,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1375,9 +1392,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "folderUuid": "2f729793-7321-492d-85a0-253ef45635ad",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:55.088Z",
+    "dateAdded": "2025-07-07T21:30:55Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1414,16 +1431,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1466,9 +1484,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "folderUuid": "ee9fcf2b-5213-4072-86c3-0438cb3c2f3b",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:53.712Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1505,16 +1523,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1554,12 +1573,12 @@
     "lastEpisodePublished": "2026-08-21T12:00:00Z",
     "unplayed": false,
     "lastEpisodeUuid": "5b1f8c68-42c1-497a-85d6-5b4d9f5c66c1",
-    "lastEpisodePlayingStatus": 2,
-    "lastEpisodeArchived": false,
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "folderUuid": "2f729793-7321-492d-85a0-253ef45635ad",
     "sortPosition": 4,
-    "dateAdded": "2025-07-07T21:30:59.836Z",
+    "dateAdded": "2025-07-07T21:30:59Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1596,16 +1615,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1649,9 +1669,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 5,
-    "dateAdded": "2025-07-07T21:30:57.182Z",
+    "dateAdded": "2025-07-07T21:30:57Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1688,16 +1708,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1740,9 +1761,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 29,
-    "dateAdded": "2026-06-28T18:19:57.149Z",
+    "dateAdded": "2026-06-28T18:19:57Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1779,16 +1800,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-06-28T21:06:52.236Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-06-28T21:06:52.236Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1831,9 +1853,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "ee9fcf2b-5213-4072-86c3-0438cb3c2f3b",
     "sortPosition": 23,
-    "dateAdded": "2026-04-17T21:00:49.240Z",
+    "dateAdded": "2026-04-17T21:00:49Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1870,16 +1892,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-04-17T21:06:42.282Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-04-17T21:06:42.282Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -1922,9 +1945,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:57.805Z",
+    "dateAdded": "2025-07-07T21:30:57Z",
     "settings": {
       "notification": {
         "value": false,
@@ -1961,16 +1984,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2013,9 +2037,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "folderUuid": "ee9fcf2b-5213-4072-86c3-0438cb3c2f3b",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:31:00.504Z",
+    "dateAdded": "2025-07-07T21:31:00Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2052,16 +2076,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2104,9 +2129,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:31:00.866Z",
+    "dateAdded": "2025-07-07T21:31:00Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2143,16 +2168,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2182,22 +2208,22 @@
     "webFeed": false
   },
   {
-    "uuid": "3b23efd0-ce45-0136-3246-08b04944ede4",
-    "episodesSortOrder": 3,
+    "uuid": "37b6ab60-3df8-0139-3343-0acc26574db2",
+    "episodesSortOrder": 2,
     "autoStartFrom": 0,
-    "title": "THE INTELLECTUAL DARK WEB PODCAST (HOBBES + LOCKE + ROUSSEAU + US CONSTITUTION in ONE SINGLE BOOK)",
-    "author": "Intellectual Dark Web Podcast",
-    "description": "THE INTELLECTUAL DARK WEB PODCAST \n\nWe Search the Web for the Best Intellectual Dark Web Podcasts, Lectures and Videos that can be understood by merely listening to save YOUR time. Then we make those Intellectual Dark Web Episodes available on Spotify and downloadable.\n\n---\n\nFOR HUMAN RIGHTS, A GLOBAL PEACEFUL WORLD BASED ON FREEDOM, REASON AND PROGRESS. \n\n***NOT AFFILIATED WITH PETER KANZLER OR ANY OF THE SPEAKERS***\n\nThe Leviathan, The Two Treatises of Government, The Social Contract, The Prince and The US Constitution BOUND TOGETHER INTO JUST ONE PRACTICAL BOOK!",
-    "url": "https://www.amazon.com/Leviathan-Treatises-Government-Constitution-Pennsylvania/dp/1716278317",
-    "lastEpisodePublished": "2024-04-16T22:00:00Z",
-    "unplayed": true,
-    "lastEpisodeUuid": "8dcaf30a-cc1f-452c-8c86-dd2d97559d1e",
-    "lastEpisodePlayingStatus": 1,
+    "title": "Een Beetje Nederlands",
+    "author": "Robin van der Markt",
+    "description": "Podcast voor iedereen die beter Nederlands wil leren luisteren! Afleveringen over allerlei onderwerpen in helder en duidelijk gesproken Nederlands. Iedere aflevering heeft een transcriptie om mee te lezen. Leer met deze podcast 'Een Beetje Nederlands'.\n\n[en] Learn Dutch with the 'Een Beetje Nederlands' podcast! Episodes in clear and easy Dutch, about a wide range of subjects. Each episode comes with a free transcript to read along with. Learn a little Dutch with 'Een Beetje Nederlands'!\n\nhttps://www.eenbeetjenederlands.nl",
+    "url": "https://www.eenbeetjenederlands.nl",
+    "lastEpisodePublished": "2026-08-01T08:00:00Z",
+    "unplayed": false,
+    "lastEpisodeUuid": "e373d562-1ea7-4b99-8408-dfa1268ef72f",
+    "lastEpisodePlayingStatus": 2,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
-    "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:53.313Z",
+    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "sortPosition": 70,
+    "dateAdded": "2026-08-23T11:18:10Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2234,16 +2260,109 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T20:24:36.184Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T20:24:36.184Z"
+      },
+      "episodesSortOrder": {
+        "value": 2,
+        "changed": true,
+        "modifiedAt": "2026-08-23T20:24:36.184Z"
+      },
+      "autoArchivePlayed": {
+        "value": 1,
+        "changed": false
+      },
+      "autoArchiveInactive": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchiveEpisodeLimit": {
+        "value": 0,
+        "changed": false
+      },
+      "episodeGrouping": {
+        "value": 0,
+        "changed": false
+      },
+      "showArchived": {
+        "value": false,
+        "changed": false
+      }
+    },
+    "descriptionHtml": "Podcast voor iedereen die beter Nederlands wil leren luisteren! Afleveringen over allerlei onderwerpen in helder en duidelijk gesproken Nederlands. Iedere aflevering heeft een transcriptie om mee te lezen. Leer met deze podcast &#39;Een Beetje Nederlands&#39;.<br /><br />[en] Learn Dutch with the &#39;Een Beetje Nederlands&#39; podcast! Episodes in clear and easy Dutch, about a wide range of subjects. Each episode comes with a free transcript to read along with. Learn a little Dutch with &#39;Een Beetje Nederlands&#39;!<br /><br />https://www.eenbeetjenederlands.nl",
+    "isPrivate": false,
+    "slug": "een-beetje-nederlands",
+    "explicit": false,
+    "webFeed": false
+  },
+  {
+    "uuid": "3b23efd0-ce45-0136-3246-08b04944ede4",
+    "episodesSortOrder": 3,
+    "autoStartFrom": 0,
+    "title": "THE INTELLECTUAL DARK WEB PODCAST (HOBBES + LOCKE + ROUSSEAU + US CONSTITUTION in ONE SINGLE BOOK)",
+    "author": "Intellectual Dark Web Podcast",
+    "description": "THE INTELLECTUAL DARK WEB PODCAST \n\nWe Search the Web for the Best Intellectual Dark Web Podcasts, Lectures and Videos that can be understood by merely listening to save YOUR time. Then we make those Intellectual Dark Web Episodes available on Spotify and downloadable.\n\n---\n\nFOR HUMAN RIGHTS, A GLOBAL PEACEFUL WORLD BASED ON FREEDOM, REASON AND PROGRESS. \n\n***NOT AFFILIATED WITH PETER KANZLER OR ANY OF THE SPEAKERS***\n\nThe Leviathan, The Two Treatises of Government, The Social Contract, The Prince and The US Constitution BOUND TOGETHER INTO JUST ONE PRACTICAL BOOK!",
+    "url": "https://www.amazon.com/Leviathan-Treatises-Government-Constitution-Pennsylvania/dp/1716278317",
+    "lastEpisodePublished": "2024-04-16T22:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "8dcaf30a-cc1f-452c-8c86-dd2d97559d1e",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
+    "autoSkipLast": 0,
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
+    "sortPosition": 0,
+    "dateAdded": "2025-07-07T21:30:53Z",
+    "settings": {
+      "notification": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNext": {
+        "value": false,
+        "changed": false
+      },
+      "addToUpNextPosition": {
+        "value": 0,
+        "changed": false
+      },
+      "autoArchive": {
+        "value": false,
+        "changed": false
+      },
+      "playbackEffects": {
+        "value": false,
+        "changed": false
+      },
+      "playbackSpeed": {
+        "value": 1,
+        "changed": false
+      },
+      "trimSilence": {
+        "value": 0,
+        "changed": false
+      },
+      "volumeBoost": {
+        "value": false,
+        "changed": false
+      },
+      "autoStartFrom": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
+      },
+      "autoSkipLast": {
+        "value": 0,
+        "changed": true,
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2285,9 +2404,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "531726e0-0604-4742-ab94-45c375f74d8b",
+    "folderUuid": "47fa61d9-e948-46cc-8404-7f52a8572a41",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:59.483Z",
+    "dateAdded": "2025-07-07T21:30:59Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2324,16 +2443,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2373,12 +2493,12 @@
     "lastEpisodePublished": "2026-08-21T11:00:00Z",
     "unplayed": false,
     "lastEpisodeUuid": "a584851b-9c1f-4ae9-9433-09f69fc7d9a8",
-    "lastEpisodePlayingStatus": 2,
-    "lastEpisodeArchived": false,
+    "lastEpisodePlayingStatus": 3,
+    "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "folderUuid": "2956e3c5-c625-469e-affb-c2c7eddc007c",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:53.832Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2415,16 +2535,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-07T21:31:34.658Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2467,9 +2588,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:58.887Z",
+    "dateAdded": "2025-07-07T21:30:58Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2506,16 +2627,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2558,9 +2680,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "folderUuid": "2956e3c5-c625-469e-affb-c2c7eddc007c",
     "sortPosition": 4,
-    "dateAdded": "2025-07-07T21:30:52.566Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2597,16 +2719,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-08-19T02:01:16.749Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-08-19T02:01:16.749Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2643,15 +2766,15 @@
     "author": "Goalhanger",
     "description": "Join mathematician Professor Hannah Fry and science creator Michael Stevens (Vsauce) as they dig into the weird scientific questions that often go unexplored. \n\nWelcome to The Rest Is Science, a show that sits in the fascinating space between what we think we know, and what we actually know. Why do we assume we understand things like time, randomness, or even gravity? Once you start questioning these familiar ideas, reality becomes astonishingly strange and completely fragile.\n\nWhether you're a lifelong science fan or just naturally curious, The Rest Is Science will change your perception of reality, and prove that the biggest questions are always the most fun.",
     "url": "https://www.goalhanger.com",
-    "lastEpisodePublished": "2026-08-19T23:01:00Z",
+    "lastEpisodePublished": "2026-08-23T21:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "bbd0b374-a5c7-4df3-84d1-5e58f7129f47",
+    "lastEpisodeUuid": "c7cb90d8-6fc6-47ac-9407-8c2ea48a18b8",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "fd955a9d-0b18-427d-a9f2-451845d78183",
     "sortPosition": 24,
-    "dateAdded": "2026-05-13T11:47:33.543Z",
+    "dateAdded": "2026-05-13T11:47:33Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2688,16 +2811,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T12:19:14.015Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T12:19:14.015Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2739,9 +2863,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "folderUuid": "2f729793-7321-492d-85a0-253ef45635ad",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:52.088Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2778,16 +2902,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2830,9 +2955,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "folderUuid": "fd955a9d-0b18-427d-a9f2-451845d78183",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:53.926Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2869,16 +2994,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -2921,9 +3047,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "fd955a9d-0b18-427d-a9f2-451845d78183",
     "sortPosition": 30,
-    "dateAdded": "2026-06-10T19:19:58.509Z",
+    "dateAdded": "2026-06-10T19:19:58Z",
     "settings": {
       "notification": {
         "value": false,
@@ -2960,16 +3086,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-06-30T23:34:58.023Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-06-30T23:34:58.023Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3012,9 +3139,9 @@
     "lastEpisodePlayingStatus": 2,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
     "sortPosition": 19,
-    "dateAdded": "2025-12-16T03:02:50.546Z",
+    "dateAdded": "2025-12-16T03:02:50Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3051,16 +3178,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T03:08:00.110Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T03:08:00.110Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3102,9 +3230,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 7,
-    "dateAdded": "2025-07-13T22:04:41.569Z",
+    "dateAdded": "2025-07-13T22:04:41Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3141,16 +3269,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3188,14 +3317,14 @@
     "description": "节目名称：福说聊天会\n节目简介： 起初来自于福州几名脱口秀爱好者之间的闲扯——自己聊天把自己逗笑就太亏了，为啥不录成节目逗笑大家呢？\n\n这是一个杂谈类的播客节目，话题天马行空。偶尔有一些相对小众或专业的话题，我们会以番外篇的方式推出。\n\n我们的初衷就是让大家开心，但是也想尽可能地聊出点东西来，每一期我们会诚挚邀请有趣可爱的朋友，聊一聊他们擅长的话题——有兴趣的你也可以报名哟~\n\n在这个碎片化的快节奏时代，一群陌生人，愿意听我们闲唠嗑，对于讲述者和倾听者，也许都能感受到对方的善意吧！",
     "url": "https://www.ximalaya.com/album/76735246",
     "lastEpisodePublished": "2026-08-22T14:22:18Z",
-    "unplayed": true,
+    "unplayed": false,
     "lastEpisodeUuid": "7d7deb07-8c10-46be-9c00-47124987256a",
-    "lastEpisodePlayingStatus": 1,
+    "lastEpisodePlayingStatus": 2,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 20,
-    "dateAdded": "2025-12-16T10:02:59.700Z",
+    "dateAdded": "2025-12-16T10:02:59Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3232,16 +3361,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T10:04:19.333Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-12-16T10:04:19.333Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3278,15 +3408,15 @@
     "author": "教主_单口喜剧",
     "description": "在无聊斋，笑着遇见人间。",
     "url": "https://www.xiaoyuzhoufm.com/podcast/5e280fac418a84a0461fb129?utm_source=rss",
-    "lastEpisodePublished": "2026-08-16T16:00:00Z",
+    "lastEpisodePublished": "2026-08-23T16:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "b86a5cdc-e966-48f6-aaa0-27d82a412d39",
+    "lastEpisodeUuid": "3b1178c9-5798-4620-8e2d-38759a6a6051",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:58.570Z",
+    "dateAdded": "2025-07-07T21:30:58Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3323,16 +3453,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3375,9 +3506,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:53.366Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3414,16 +3545,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3460,15 +3592,15 @@
     "author": "肥杰",
     "description": "我是肥杰（微博：@肥杰_FatJay），喜欢讲有趣的故事，这是我的播客，会有很多欢乐。一起聊天的还有惠子（微博：@惠子老师_），她比我智慧、比我稳重，甚至有时候比我搞笑。每周一更新，偶尔会加更，希望陪你度过美好时光。",
     "url": "https://www.ximalaya.com/album/56109512",
-    "lastEpisodePublished": "2026-08-16T23:25:00Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "cd976c3b-4221-407a-9768-6f13ec63d0de",
-    "lastEpisodePlayingStatus": 2,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-08-23T23:25:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "17bffff1-dee2-4e37-ab99-51731d9e631a",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "47fa61d9-e948-46cc-8404-7f52a8572a41",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:56.667Z",
+    "dateAdded": "2025-07-07T21:30:56Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3505,16 +3637,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3557,9 +3690,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "folderUuid": "fd955a9d-0b18-427d-a9f2-451845d78183",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:52.021Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3596,16 +3729,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3648,9 +3782,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "folderUuid": "aa5e0387-fa8d-440c-b898-078ecb81fafd",
     "sortPosition": 2,
-    "dateAdded": "2025-07-13T22:05:12.560Z",
+    "dateAdded": "2025-07-13T22:05:12Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3687,16 +3821,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3739,9 +3874,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "c7d66750-2ccb-43c9-868b-ddfd0cb3b51a",
     "sortPosition": 21,
-    "dateAdded": "2026-02-01T00:12:23.682Z",
+    "dateAdded": "2026-02-01T00:12:23Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3777,15 +3912,18 @@
       },
       "autoStartFrom": {
         "value": 0,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3828,9 +3966,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "folderUuid": "cdaad5d6-fdba-43cf-b0e0-406f9f13406f",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:55.493Z",
+    "dateAdded": "2025-07-07T21:30:55Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3867,16 +4005,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -3919,9 +4058,9 @@
     "lastEpisodePlayingStatus": 3,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 6,
-    "dateAdded": "2025-07-07T21:30:58.060Z",
+    "dateAdded": "2025-07-07T21:30:58Z",
     "settings": {
       "notification": {
         "value": false,
@@ -3958,16 +4097,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4010,9 +4150,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "folderUuid": "aa5e0387-fa8d-440c-b898-078ecb81fafd",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:31:01.678Z",
+    "dateAdded": "2025-07-07T21:31:01Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4049,16 +4189,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4101,9 +4242,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "ee9fcf2b-5213-4072-86c3-0438cb3c2f3b",
     "sortPosition": 17,
-    "dateAdded": "2025-07-19T19:33:47.121Z",
+    "dateAdded": "2025-07-19T19:33:47Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4140,16 +4281,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4192,9 +4334,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "32d760df-8f60-4c4e-8de7-9d10bfa85cef",
     "sortPosition": 16,
-    "dateAdded": "2025-07-19T14:58:13.207Z",
+    "dateAdded": "2025-07-19T14:58:13Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4231,16 +4373,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4277,15 +4420,15 @@
     "author": "王子Wz",
     "description": "资讯早7点，一起来了解过去24小时有哪些值得关注的消息！\n\n#工作日 #早七点 #十分钟 #日更 #资讯",
     "url": "https://www.xiaoyuzhoufm.com/podcast/67891a429407dcd1bfbfcfcb?utm_source=rss",
-    "lastEpisodePublished": "2026-08-20T23:00:00Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "8a18d85c-b09c-4ae2-87eb-60b1eac90f4d",
-    "lastEpisodePlayingStatus": 2,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-08-23T23:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "cac5cb17-1876-43ce-ab7a-94b99b6dd294",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "folderUuid": "cdaad5d6-fdba-43cf-b0e0-406f9f13406f",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:52.498Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4322,16 +4465,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-27T23:29:05.044Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-27T23:29:05.044Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4374,9 +4518,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "681b2911-422a-4dc2-b31e-5bdb9c93df13",
     "sortPosition": 25,
-    "dateAdded": "2026-05-13T18:28:04.606Z",
+    "dateAdded": "2026-05-13T18:28:04Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4413,16 +4557,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4459,15 +4604,15 @@
     "author": "商业就是这样",
     "description": "用简单易懂的语言解读商业现象。联系我们：thatisbiz@yicai.com",
     "url": "https://www.ximalaya.com/album/46587439",
-    "lastEpisodePublished": "2026-08-19T23:00:00Z",
-    "unplayed": false,
-    "lastEpisodeUuid": "08b4406a-a83a-4d53-9459-d46722349066",
-    "lastEpisodePlayingStatus": 3,
-    "lastEpisodeArchived": true,
+    "lastEpisodePublished": "2026-08-23T23:00:00Z",
+    "unplayed": true,
+    "lastEpisodeUuid": "c0742ae5-17ef-41b8-b99f-63ff806ff55d",
+    "lastEpisodePlayingStatus": 1,
+    "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "folderUuid": "922af596-aef1-4f4a-879a-36e7419fb855",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:52.830Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4504,16 +4649,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4556,9 +4702,9 @@
     "lastEpisodePlayingStatus": 3,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:51.414Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4595,16 +4741,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4647,9 +4794,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "7cfe0d10-efd5-4d4d-85e0-b48c9a41c72a",
+    "folderUuid": "69ad8fc6-e6e1-434b-9b91-28d12222b609",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:53.983Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4686,16 +4833,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4738,9 +4886,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "a60f35b5-75a6-4681-a1db-31a3e66e04e3",
+    "folderUuid": "fd955a9d-0b18-427d-a9f2-451845d78183",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:31:01.236Z",
+    "dateAdded": "2025-07-07T21:31:01Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4777,16 +4925,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4823,15 +4972,15 @@
     "author": "Goalhanger",
     "description": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook.\n\n\n\nExplore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world.\n\n\n\nJoin The Rest Is History Club: Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at therestishistory.com. \n\n\n\nFor more Goalhanger Podcasts, head to www.goalhanger.com.",
     "url": "http://therestishistory.com",
-    "lastEpisodePublished": "2026-08-19T23:05:00Z",
+    "lastEpisodePublished": "2026-08-23T23:05:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "dee3213d-25b2-4ab2-89a8-64e8b3df43af",
+    "lastEpisodeUuid": "8dbefb34-7e5e-4851-a053-6d7a24ad285b",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "d42abb02-d347-491e-a1fa-ef939fdf9fff",
     "sortPosition": 24,
-    "dateAdded": "2026-05-13T11:43:11.769Z",
+    "dateAdded": "2026-05-13T11:43:11Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4868,16 +5017,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -4920,9 +5070,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "folderUuid": "cdaad5d6-fdba-43cf-b0e0-406f9f13406f",
     "sortPosition": 4,
-    "dateAdded": "2025-07-07T21:30:52.690Z",
+    "dateAdded": "2025-07-07T21:30:52Z",
     "settings": {
       "notification": {
         "value": false,
@@ -4959,16 +5109,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5010,9 +5161,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "70c7e922-a83d-45db-ac46-5111f8bfbf8f",
+    "folderUuid": "aa5e0387-fa8d-440c-b898-078ecb81fafd",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:51.106Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5049,16 +5200,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5101,9 +5253,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "b5de8418-ddba-4adc-a780-5029254ecb54",
+    "folderUuid": "ee9fcf2b-5213-4072-86c3-0438cb3c2f3b",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:58.286Z",
+    "dateAdded": "2025-07-07T21:30:58Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5140,16 +5292,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5192,9 +5345,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "folderUuid": "2956e3c5-c625-469e-affb-c2c7eddc007c",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:55.335Z",
+    "dateAdded": "2025-07-07T21:30:55Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5231,16 +5384,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5283,9 +5437,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:55.619Z",
+    "dateAdded": "2025-07-07T21:30:55Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5322,16 +5476,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5374,9 +5529,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:55.207Z",
+    "dateAdded": "2025-07-07T21:30:55Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5413,16 +5568,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5465,9 +5621,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "e21b56ea-266d-4bc5-8a3a-4c0248471371",
+    "folderUuid": "9606aa1f-d293-4ce1-8011-e57497e47790",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:51.965Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5504,16 +5660,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5556,9 +5713,9 @@
     "lastEpisodePlayingStatus": 3,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "668d0a0c-005c-4024-a4f2-91ce2e6ef247",
+    "folderUuid": "c890d2fc-ef16-4419-8523-8f4a07864260",
     "sortPosition": 0,
-    "dateAdded": "2025-07-07T21:30:53.105Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5595,16 +5752,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5647,9 +5805,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "aae21e6c-3abe-45af-a95f-bd5199bee642",
+    "folderUuid": "abc4f503-db5d-4e3f-b3ea-6e1d30d0fd52",
     "sortPosition": 2,
-    "dateAdded": "2025-07-07T21:30:54.338Z",
+    "dateAdded": "2025-07-07T21:30:54Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5686,16 +5844,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5738,9 +5897,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "c78a5599-4909-445f-8bd2-db883d6dbb47",
+    "folderUuid": "d42abb02-d347-491e-a1fa-ef939fdf9fff",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:51.163Z",
+    "dateAdded": "2025-07-07T21:30:51Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5777,16 +5936,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5823,15 +5983,15 @@
     "author": "Freakonomics Network & Zachary Crockett",
     "description": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories.\n\nTo get every show in the Freakonomics Radio Network without ads and a monthly bonus episode of Freakonomics Radio, start a free trial for SiriusXM Podcasts+ on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
     "url": "https://freakonomics.com",
-    "lastEpisodePublished": "2026-08-20T00:00:00Z",
+    "lastEpisodePublished": "2026-08-24T00:00:00Z",
     "unplayed": true,
-    "lastEpisodeUuid": "fd381854-06da-42b6-984a-b7b0099fefef",
+    "lastEpisodeUuid": "351f9f56-aee5-4dfa-acde-e8cd3ed8b589",
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "ac3d6980-0bcd-4b07-b5c1-0bf118163de2",
+    "folderUuid": "922af596-aef1-4f4a-879a-36e7419fb855",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:56.835Z",
+    "dateAdded": "2025-07-07T21:30:56Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5868,16 +6028,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -5920,9 +6081,9 @@
     "lastEpisodePlayingStatus": 3,
     "lastEpisodeArchived": true,
     "autoSkipLast": 0,
-    "folderUuid": "973df93c-e4dc-41fb-879e-0c7b532ebb70",
+    "folderUuid": "681b2911-422a-4dc2-b31e-5bdb9c93df13",
     "sortPosition": 27,
-    "dateAdded": "2026-05-13T18:30:17.738Z",
+    "dateAdded": "2026-05-13T18:30:17Z",
     "settings": {
       "notification": {
         "value": false,
@@ -5959,16 +6120,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2026-05-13T19:24:43.472Z"
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -6011,9 +6173,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "2007a1f2-38d5-4749-8aa6-f9c96c57f4f3",
+    "folderUuid": "2f729793-7321-492d-85a0-253ef45635ad",
     "sortPosition": 3,
-    "dateAdded": "2025-07-07T21:30:59.187Z",
+    "dateAdded": "2025-07-07T21:30:59Z",
     "settings": {
       "notification": {
         "value": false,
@@ -6050,16 +6212,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -6102,9 +6265,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "d517587f-1295-4bef-b08d-e306fadf19a0",
+    "folderUuid": "7707c335-7135-494a-a00e-b8939deee6ca",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:54.975Z",
+    "dateAdded": "2025-07-07T21:30:54Z",
     "settings": {
       "notification": {
         "value": false,
@@ -6141,16 +6304,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -6193,9 +6357,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "283009a2-5037-4de1-82e3-05aa0b45b59f",
+    "folderUuid": "c7d66750-2ccb-43c9-868b-ddfd0cb3b51a",
     "sortPosition": 1,
-    "dateAdded": "2025-07-07T21:30:53.437Z",
+    "dateAdded": "2025-07-07T21:30:53Z",
     "settings": {
       "notification": {
         "value": false,
@@ -6232,16 +6396,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
@@ -6284,9 +6449,9 @@
     "lastEpisodePlayingStatus": 1,
     "lastEpisodeArchived": false,
     "autoSkipLast": 0,
-    "folderUuid": "dc0f1eb9-461f-4aa2-a259-a82162275e1b",
+    "folderUuid": "32d760df-8f60-4c4e-8de7-9d10bfa85cef",
     "sortPosition": 4,
-    "dateAdded": "2025-07-07T21:31:02.052Z",
+    "dateAdded": "2025-07-07T21:31:02Z",
     "settings": {
       "notification": {
         "value": false,
@@ -6323,16 +6488,17 @@
       "autoStartFrom": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "autoSkipLast": {
         "value": 0,
         "changed": true,
-        "modifiedAt": "2025-07-23T22:44:11.505Z"
+        "modifiedAt": "2026-08-23T23:04:15.558Z"
       },
       "episodesSortOrder": {
         "value": 3,
-        "changed": false
+        "changed": true,
+        "modifiedAt": "2026-08-23T12:49:08.536Z"
       },
       "autoArchivePlayed": {
         "value": 1,
