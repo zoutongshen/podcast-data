@@ -1,0 +1,55 @@
+{
+  "format": 3,
+  "generatedAt": "2026-09-05T00:03:05.615Z",
+  "generator": {
+    "actionVersion": "1.2.11",
+    "integrationsVersion": "2.4.1",
+    "sourceSha": "cc7b720a3de6eb4164e24878c3870b4f30fc0009"
+  },
+  "adapters": [
+    {
+      "name": "spotify",
+      "status": "skipped"
+    },
+    {
+      "name": "rescuetime",
+      "status": "skipped"
+    },
+    {
+      "name": "last-fm",
+      "status": "failed"
+    },
+    {
+      "name": "pocket-casts",
+      "status": "succeeded"
+    },
+    {
+      "name": "wakatime",
+      "status": "skipped"
+    },
+    {
+      "name": "clockify",
+      "status": "skipped"
+    },
+    {
+      "name": "google-fit",
+      "status": "skipped"
+    },
+    {
+      "name": "oura-ring",
+      "status": "skipped"
+    },
+    {
+      "name": "goodreads",
+      "status": "skipped"
+    },
+    {
+      "name": "twitter",
+      "status": "skipped"
+    }
+  ],
+  "v2Files": {
+    "pocket-casts-podcasts/daily/2026/09/05/listening-history.json": "71a504ae72e41d0d954a2ce3eaa6192d2662a3b57ba55baa54181ae4084fb4cb",
+    "pocket-casts-podcasts/library.json": "faaa67f6557c90878ecb69e133f097451dce561738e34bc2992b0932c37b79cb"
+  }
+}
